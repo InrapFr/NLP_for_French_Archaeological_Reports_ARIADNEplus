@@ -1,14 +1,8 @@
 Pays O
 de O
 la O
-Loire O
-
-- O
-Loire O
-
-- O
-
-Atlantique O
+Loire- O
+Loire-Atlantique O
 ( O
 44 O
 ) O
@@ -88,9 +82,9 @@ entité O
 069 O
 0198 O
 ( O
-inhumation O
+inhumation B-CONTEXTE
 et O
-nécropole O
+nécropole B-CONTEXTE
 – O
 Antiquité B-CHRONO
 / O
@@ -132,32 +126,32 @@ répartissent O
 entre O
 sections O
 de O
-fossés O
+fossés B-CONTEXTE
 , O
-fosses O
+fosses B-CONTEXTE
 , O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 et O
-maçonneries O
+maçonneries B-CONTEXTE
 inscrits O
-entre O
-la O
-fin B-CHRONO
-de I-CHRONO
-la I-CHRONO
-Protohistoire I-CHRONO
-et O
-le O
-Moyen B-CHRONO
-Âge I-CHRONO
+entre B-INTERVALLE
+la I-INTERVALLE
+fin I-INTERVALLE
+de I-INTERVALLE
+la I-INTERVALLE
+Protohistoire I-INTERVALLE
+et I-INTERVALLE
+le I-INTERVALLE
+Moyen I-INTERVALLE
+Âge I-INTERVALLE
 . O
 
 Un O
 réseau O
 de O
-canalisations O
+canalisations B-CONTEXTE
 contemporaines B-CHRONO
 est O
 également O
@@ -236,15 +230,11 @@ partie O
 des O
 sections O
 de O
-fossés O
+fossés B-CONTEXTE
 orientées O
-sud O
-
--est O
+sud-est O
 / O
-nord O
-
--ouest O
+nord-ouest O
 . O
 
 La O
@@ -273,24 +263,24 @@ continuité O
 de O
 l’ O
 occupation O
-entre O
-La O
-Protohistoire B-CHRONO
-et O
-l’ O
-Antiquité B-CHRONO
+entre B-INTERVALLE
+La I-INTERVALLE
+Protohistoire I-INTERVALLE
+et I-INTERVALLE
+l’ I-INTERVALLE
+Antiquité I-INTERVALLE
 . O
 
 Un O
 petit O
-enclos O
-quadrangulaire O
+enclos B-CONTEXTE
+quadrangulaire I-CONTEXTE
 ( O
 E.1 O
 ) O
 et O
 un O
-fossé O
+fossé B-CONTEXTE
 ( O
 F1.13 O
 ) O
@@ -319,7 +309,7 @@ de I-MOB
 mouture I-MOB
 ( O
 en O
-remploi O
+remploi B-TECH_STYLE
 dans O
 F1.16 O
 ) O
@@ -351,9 +341,9 @@ prononcée O
 . O
 
 Un O
-bâtiment O
-sur O
-poteaux O
+bâtiment B-CONTEXTE
+sur I-CONTEXTE
+poteaux I-CONTEXTE
 ( O
 E.2 O
 ) O
@@ -365,16 +355,16 @@ précédemment O
 cités O
 et O
 le O
-remploi O
+remploi B-TECH_STYLE
 de O
-matériaux O
-de O
-construction O
+matériaux B-MOB
+de I-MOB
+construction I-MOB
 dans O
 le O
 calage O
 de O
-poteaux O
+poteaux B-MOB
 pourraient O
 suggérer O
 une O
@@ -446,7 +436,7 @@ individus O
 La O
 datation O
 des O
-murs O
+murs B-CONTEXTE
 de O
 l’ O
 ensemble O
@@ -471,14 +461,12 @@ sud O
 - O
 ouest O
 / O
-nord O
-
--est O
+nord-est O
 et O
 réalisé O
 en O
-petit O
-appareil O
+petit B-TECH_STYLE
+appareil I-TECH_STYLE
 a O
 été O
 suivi O
@@ -509,7 +497,7 @@ recueilli O
 en O
 surface O
 des O
-maçonneries O
+maçonneries B-CONTEXTE
 est O
 rare O
 et O
@@ -533,14 +521,14 @@ d’ O
 envisager O
 une O
 construction O
-entre O
-l’ O
-Antiquité B-CHRONO
-et O
-le O
-second B-CHRONO
-Moyen I-CHRONO
-Âge I-CHRONO
+entre B-INTERVALLE
+l’ I-INTERVALLE
+Antiquité I-INTERVALLE
+et I-INTERVALLE
+le I-INTERVALLE
+second I-INTERVALLE
+Moyen I-INTERVALLE
+Âge I-INTERVALLE
 . O
 
 C’ O
@@ -579,7 +567,7 @@ demande O
 être O
 précisée O
 ( O
-léproserie O
+léproserie B-CONTEXTE
 ou O
 caquinerie O
 ) O
@@ -592,7 +580,7 @@ Madeleine O
 » O
 et O
 la O
-chapelle O
+chapelle B-CONTEXTE
 dédiée O
 à O
 sainte O
@@ -641,8 +629,8 @@ Tène I-CHRONO
 Antiquité B-CHRONO
 romaine I-CHRONO
 
-époque O
-médiévale B-CHRONO
+époque B-CHRONO
+médiévale I-CHRONO
 
 Haut B-CHRONO
 Moyen I-CHRONO
@@ -665,26 +653,26 @@ thèmes O
 
 Artisanat O
 
-Bâtiment O
-bois O
+Bâtiment B-CONTEXTE
+bois B-MAT
 
-Bâtiment O
+Bâtiment B-CONTEXTE
 
-maçonné O
-Enclos O
-Fosse O
+maçonné B-TECH_STYLE
+Enclos B-CONTEXTE
+Fosse B-CONTEXTE
 
-Fossé O
+Fossé B-CONTEXTE
 
 Habitat O
 rural O
 
-Structure O
-agraire O
+Structure B-CONTEXTE
+agraire I-CONTEXTE
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 
 Mobilier O
 
@@ -711,9 +699,7 @@ Bignon O
 CS O
 67737 O
 35577 O
-Cesson O
-
--Sévigné O
+Cesson-Sévigné O
 Cedex O
 Tél O
 . O
@@ -738,9 +724,7 @@ Guérande O
 ( O
 44 O
 069 O
-) O
-
-- O
+)- O
 23 O
 rue O
 des O
@@ -846,9 +830,7 @@ de O
 désignation O
 N O
 ° O
-2019 O
-
--890 O
+2019-890 O
 du O
 9 O
 décembre O
@@ -859,11 +841,7 @@ désignation O
 modificatif O
 N O
 ° O
-2020 O
-
-- O
-
-23 O
+2020-23 O
 du O
 13 O
 janvier O
@@ -874,9 +852,7 @@ de O
 prescription O
 N O
 ° O
-2019 O
-
--552 O
+2019-552 O
 du O
 16 O
 juillet O
@@ -886,9 +862,7 @@ d’ O
 attribution O
 N O
 ° O
-2019 O
-
--618 O
+2019-618 O
 du O
 31 O
 juillet O
@@ -970,9 +944,7 @@ CS O
 67737 O
 35577 O
 
-Cesson O
-
--Sévigné O
+Cesson-Sévigné O
 Cedex O
 Tél O
 . O
@@ -1013,9 +985,7 @@ de O
 désignation O
 N O
 ° O
-2019 O
-
--890 O
+2019-890 O
 du O
 9 O
 décembre O
@@ -1026,11 +996,7 @@ désignation O
 modificatif O
 N O
 ° O
-2020 O
-
-- O
-
-23 O
+2020-23 O
 du O
 13 O
 janvier O
@@ -1041,9 +1007,7 @@ de O
 prescription O
 N O
 ° O
-2019 O
-
--552 O
+2019-552 O
 du O
 16 O
 juillet O
@@ -1053,9 +1017,7 @@ d’ O
 attribution O
 N O
 ° O
-2019 O
-
--618 O
+2019-618 O
 du O
 31 O
 juillet O
@@ -1214,61 +1176,55 @@ archéologiques O
 3.1 O
 
 Les O
-canalisations O
+canalisations B-CONTEXTE
 contemporaines B-CHRONO
 33 O
 
 3.2 O
 
 Les O
-fossés O
+fossés B-CONTEXTE
 33 O
 
 3.2.1 O
 
 Les O
-fossés O
-sud O
-
--est O
+fossés B-CONTEXTE
+sud-est O
 / O
-nord O
-
--ouest O
+nord-ouest O
 35 O
 
 3.2.2 O
 
 Les O
-fossés O
-sud O
-
--ouest/ O
+fossés B-CONTEXTE
+sud-ouest/ O
 nord-est O
 37 O
 
 3.2.3 O
 
 L’ O
-enclos O
+enclos B-CONTEXTE
 E.1 O
 40 O
 
 3.3 O
 
 Les O
-fosses O
+fosses B-CONTEXTE
 et O
-trous O
-de O
-poteaux O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteaux I-CONTEXTE
 40 O
 
 3.3.1 O
 La O
-construction O
-sur O
-poteaux O
+construction B-CONTEXTE
+sur I-CONTEXTE
+poteaux I-CONTEXTE
 ( O
 E.2 O
 ) O
@@ -1276,7 +1232,7 @@ E.2 O
 
 3.3.2 O
 La O
-fosse O
+fosse B-CONTEXTE
 F1.16 O
 41 O
 
@@ -1293,9 +1249,9 @@ creux O
 3.3 O
 
 La O
-construction O
+construction B-CONTEXTE
 en O
-pierre O
+pierre B-MAT
 ( O
 
 E.3 O
@@ -1320,9 +1276,9 @@ Les O
 matériaux B-MOB
 de I-MOB
 construction I-MOB
-en I-MOB
-terre I-MOB
-cuite I-MOB
+en O
+terre B-MAT
+cuite I-MAT
 46 O
 
 3.4.3 O
@@ -1470,9 +1426,7 @@ Commune O
 Guérande O
 Adresse O
 ou O
-lieu O
-
--dit O
+lieu-dit O
 23 O
 rue O
 des O
@@ -1549,9 +1503,7 @@ le O
 patrimoine O
 et O
 l’ O
-environnement O
-
-- O
+environnement- O
 Propriétaire O
 du O
 terrain O
@@ -1590,9 +1542,7 @@ prescription O
 du O
 diagnostic O
 archéologique O
-2019 O
-
--552 O
+2019-552 O
 En O
 date O
 du O
@@ -1611,11 +1561,7 @@ réalisation O
 du O
 diagnostic O
 archéologique O
-2019 O
-
-- O
-
-618 O
+2019-618 O
 En O
 date O
 du O
@@ -1632,9 +1578,7 @@ désignation O
 du O
 responsable O
 scientifique O
-2019 O
-
--890 O
+2019-890 O
 En O
 date O
 du O
@@ -1651,11 +1595,7 @@ désignation O
 du O
 responsable O
 scientifique O
-2020 O
-
-- O
-
-23 O
+2020-23 O
 En O
 date O
 du O
@@ -1704,9 +1644,7 @@ Bignon O
 , O
 CS67737 O
 35577 O
-Cesson O
-
--Sévigné O
+Cesson-Sévigné O
 Cedex O
 et O
 Centre O
@@ -1736,9 +1674,7 @@ au O
 février O
 2020 O
 Post-fouille O
-Février O
-
--mars O
+Février-mars O
 2020 O
 
 Surfaces O
@@ -2169,9 +2105,9 @@ des O
 matériaux B-MOB
 de I-MOB
 construction I-MOB
-en I-MOB
-terre I-MOB
-cuite I-MOB
+en O
+terre B-MAT
+cuite I-MAT
 Jean-Marc O
 Richard O
 , O
@@ -2277,9 +2213,9 @@ entité O
 069 O
 0198 O
 ( O
-inhumation O
+inhumation B-CONTEXTE
 et O
-nécropole O
+nécropole B-CONTEXTE
 
 – O
 
@@ -2322,32 +2258,32 @@ répartissent O
 entre O
 sections O
 de O
-fossés O
+fossés B-CONTEXTE
 , O
-fosses O
+fosses B-CONTEXTE
 , O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 et O
-maçonneries O
+maçonneries B-CONTEXTE
 inscrits O
-entre O
-la O
-fin B-CHRONO
-de I-CHRONO
-la I-CHRONO
-Protohistoire I-CHRONO
-et O
-le O
-Moyen B-CHRONO
-Âge I-CHRONO
+entre B-INTERVALLE
+la I-INTERVALLE
+fin I-INTERVALLE
+de I-INTERVALLE
+la I-INTERVALLE
+Protohistoire I-INTERVALLE
+et I-INTERVALLE
+le I-INTERVALLE
+Moyen I-INTERVALLE
+Âge I-INTERVALLE
 . O
 
 Un O
 réseau O
 de O
-canalisations O
+canalisations B-CONTEXTE
 contemporaines B-CHRONO
 est O
 également O
@@ -2426,15 +2362,11 @@ partie O
 des O
 sections O
 de O
-fossés O
+fossés B-CONTEXTE
 orientées O
-sud O
-
--est O
+sud-est O
 / O
-nord O
-
--ouest O
+nord-ouest O
 . O
 
 La O
@@ -2463,24 +2395,24 @@ continuité O
 de O
 l’ O
 occupation O
-entre O
-La O
-Protohistoire B-CHRONO
-et O
-l’ O
-Antiquité B-CHRONO
+entre B-INTERVALLE
+La I-INTERVALLE
+Protohistoire I-INTERVALLE
+et I-INTERVALLE
+l’ I-INTERVALLE
+Antiquité I-INTERVALLE
 . O
 
 Un O
 petit O
-enclos O
-quadrangulaire O
+enclos B-CONTEXTE
+quadrangulaire I-CONTEXTE
 ( O
 E.1 O
 ) O
 et O
 un O
-fossé O
+fossé B-CONTEXTE
 ( O
 F1.13 O
 ) O
@@ -2509,7 +2441,7 @@ de I-MOB
 mouture I-MOB
 ( O
 en O
-remploi O
+remploi B-TECH_STYLE
 dans O
 F1.16 O
 ) O
@@ -2541,9 +2473,9 @@ prononcée O
 . O
 
 Un O
-bâtiment O
-sur O
-poteaux O
+bâtiment B-CONTEXTE
+sur I-CONTEXTE
+poteaux I-CONTEXTE
 ( O
 E.2 O
 ) O
@@ -2555,16 +2487,16 @@ précédemment O
 cités O
 et O
 le O
-remploi O
+remploi B-TECH_STYLE
 de O
-matériaux O
-de O
-construction O
+matériaux B-MOB
+de I-MOB
+construction I-MOB
 dans O
 le O
 calage O
 de O
-poteaux O
+poteaux B-MOB
 pourraient O
 suggérer O
 une O
@@ -2636,7 +2568,7 @@ individus O
 La O
 datation O
 des O
-murs O
+murs B-CONTEXTE
 de O
 l’ O
 ensemble O
@@ -2661,14 +2593,12 @@ sud O
 - O
 ouest O
 / O
-nord O
-
--est O
+nord-est O
 et O
 réalisé O
 en O
-petit O
-appareil O
+petit B-TECH_STYLE
+appareil I-TECH_STYLE
 a O
 été O
 suivi O
@@ -2699,7 +2629,7 @@ recueilli O
 en O
 surface O
 des O
-maçonneries O
+maçonneries B-CONTEXTE
 est O
 rare O
 et O
@@ -2723,14 +2653,14 @@ d’ O
 envisager O
 une O
 construction O
-entre O
-l’ O
-Antiquité B-CHRONO
-et O
-le O
-second B-CHRONO
-Moyen I-CHRONO
-Âge I-CHRONO
+entre B-INTERVALLE
+l’ I-INTERVALLE
+Antiquité I-INTERVALLE
+et I-INTERVALLE
+le I-INTERVALLE
+second I-INTERVALLE
+Moyen I-INTERVALLE
+Âge I-INTERVALLE
 . O
 
 C’ O
@@ -2769,7 +2699,7 @@ demande O
 être O
 précisée O
 ( O
-léproserie O
+léproserie B-CONTEXTE
 ou O
 caquinerie O
 ) O
@@ -2782,7 +2712,7 @@ Madeleine O
 » O
 et O
 la O
-chapelle O
+chapelle B-CONTEXTE
 dédiée O
 à O
 sainte O
@@ -2919,9 +2849,7 @@ commune O
 de O
 Guérande O
 au O
-lieu O
-
--dit O
+lieu-dit O
 la O
 Madeleine O
 à O
@@ -2974,9 +2902,7 @@ cadastral O
 ( O
 commune O
 de O
-Saint O
-
--Lyphard_sections O
+Saint-Lyphard_sections O
 ZV O
 / O
 commune O
@@ -3040,9 +2966,7 @@ cadastral O
 ( O
 commune O
 de O
-Saint O
-
--Lyphard_sections O
+Saint-Lyphard_sections O
 ZV O
 / O
 commune O
@@ -3138,11 +3062,7 @@ Atlantique O
 Commune O
 Guérande O
 
-Lieu O
-
-- O
-
-dit O
+Lieu-dit O
 23 O
 RUE O
 DES O
@@ -3176,17 +3096,13 @@ réception O
 Prescription O
 Initiale O
 
-2019 O
-
--552 O
+2019-552 O
 16/07/2019 O
 2205 O
 25/07/2019 O
 
 Attribution O
-2019 O
-
--618 O
+2019-618 O
 31/07/2019 O
 05/08/2019 O
 
@@ -3357,9 +3273,7 @@ de O
 prescription O
 
 n° O
-2019 O
-
--552 O
+2019-552 O
 du O
 16 O
 juillet O
@@ -4189,7 +4103,7 @@ et O
 protection O
 des O
 vestiges O
-maçonnés O
+maçonnés B-TECH_STYLE
 ( O
 b O
 ) O
@@ -5032,9 +4946,7 @@ m O
 122 O
 123 O
 124 O
-γ1 O
-
--2 O
+γ1-2 O
 UE1_log O
 2 O
 0 O
@@ -5178,14 +5090,14 @@ de O
 entités O
 archéologiques O
 allant O
-de O
-la O
-Préhistoire B-CHRONO
-jusqu’ O
-à O
-la O
-période B-CHRONO
-contemporaine I-CHRONO
+de B-INTERVALLE
+la I-INTERVALLE
+Préhistoire I-INTERVALLE
+jusqu’ I-INTERVALLE
+à I-INTERVALLE
+la I-INTERVALLE
+période I-INTERVALLE
+contemporaine I-INTERVALLE
 et O
 auxquelles O
 il O
@@ -5292,8 +5204,8 @@ la O
 Préhistoire B-CHRONO
 et O
 les O
-architectures O
-mégalithiques O
+architectures B-CONTEXTE
+mégalithiques I-CONTEXTE
 ( O
 44 O
 175 O
@@ -5309,7 +5221,7 @@ et O
 
 Plusieurs O
 sites O
-enclos O
+enclos B-CONTEXTE
 attribués O
 à O
 la O
@@ -5358,7 +5270,7 @@ et O
 ou O
 à O
 des O
-enclos O
+enclos B-CONTEXTE
 ( O
 44 O
 175 O
@@ -5409,7 +5321,7 @@ cette O
 découverte O
 à O
 une O
-nécropole O
+nécropole B-CONTEXTE
 du O
 Bas B-CHRONO
 Empire I-CHRONO
@@ -5427,7 +5339,7 @@ l’ O
 emplacement O
 de O
 l’ O
-église O
+église B-CONTEXTE
 actuelle O
 
 mais O
@@ -5466,7 +5378,7 @@ des O
 compartiments O
 solides O
 de O
-briques B-MOB
+briques B-MAT
 romaines B-CHRONO
 » O
 ont O
@@ -5506,7 +5418,7 @@ En O
 plus O
 de O
 la O
-nécropole O
+nécropole B-CONTEXTE
 de O
 la O
 Madeleine O
@@ -5522,8 +5434,8 @@ la O
 période B-CHRONO
 médiévale I-CHRONO
 les O
-maisons O
-fortes O
+maisons B-CONTEXTE
+fortes I-CONTEXTE
 de O
 Kercabus O
 et O
@@ -5557,9 +5469,7 @@ de O
 la O
 Madeleine O
 « O
-Guérande O
-
-- O
+Guérande- O
 Rue O
 des O
 Écoles O
@@ -5596,17 +5506,17 @@ des O
 éléments O
 parcellaires O
 datés O
-entre O
-la O
-fin B-CHRONO
-de I-CHRONO
-la I-CHRONO
-période I-CHRONO
-moderne I-CHRONO
-et O
-la O
-période B-CHRONO
-contemporaine I-CHRONO
+entre B-INTERVALLE
+la I-INTERVALLE
+fin I-INTERVALLE
+de I-INTERVALLE
+la I-INTERVALLE
+période I-INTERVALLE
+moderne I-INTERVALLE
+et I-INTERVALLE
+la I-INTERVALLE
+période I-INTERVALLE
+contemporaine I-INTERVALLE
 . O
 
 En O
@@ -5640,23 +5550,23 @@ une O
 continuité O
 d’ O
 occupation O
-depuis O
-La B-CHRONO
-Tène I-CHRONO
-finale I-CHRONO
-jusqu’ O
-au O
-Haut-Empire B-CHRONO
+depuis B-INTERVALLE
+La I-INTERVALLE
+Tène I-INTERVALLE
+finale I-INTERVALLE
+jusqu’ I-INTERVALLE
+au I-INTERVALLE
+Haut-Empire I-INTERVALLE
 matérialisée O
 par O
 des O
-structures O
-fossoyées O
+structures B-CONTEXTE
+fossoyées I-CONTEXTE
 et O
 une O
-construction O
+construction B-CONTEXTE
 en O
-pierre O
+pierre B-MAT
 à O
 double O
 plan O
@@ -5667,10 +5577,10 @@ L’ O
 hypothèse O
 d’ O
 un O
-bâtiment O
-à O
-vocation O
-cultuelle O
+bâtiment B-CONTEXTE
+à I-CONTEXTE
+vocation I-CONTEXTE
+cultuelle I-CONTEXTE
 étant O
 retenue O
 par O
@@ -5844,21 +5754,21 @@ AL O
 20 O
 m O
 
-Fosses O
+Fosses B-CONTEXTE
 protohistoriques B-CHRONO
 / O
 antiques B-CHRONO
 
-Bâti O
+Bâti B-CONTEXTE
 antique B-CHRONO
 
-Fosses O
+Fosses B-CONTEXTE
 contemporaines B-CHRONO
 
-Fossés O
+Fossés B-CONTEXTE
 antiques B-CHRONO
 
-Fossés O
+Fossés B-CONTEXTE
 
 laténiens B-CHRONO
 
@@ -5959,21 +5869,21 @@ répartissent O
 entre O
 sections O
 de O
-fossés O
+fossés B-CONTEXTE
 , O
-fosses O
+fosses B-CONTEXTE
 , O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 et O
-maçonneries O
+maçonneries B-CONTEXTE
 . O
 
 Un O
 réseau O
 de O
-canalisations O
+canalisations B-CONTEXTE
 contemporaines B-CHRONO
 est O
 également O
@@ -6131,11 +6041,9 @@ Cliché O
 3.1 O
 
 Les O
-canalisations O
+canalisations B-CONTEXTE
 contemporaines B-CHRONO
-Celles O
-
--ci O
+Celles-ci O
 sont O
 au O
 nombre O
@@ -6187,19 +6095,19 @@ de O
 -0,80 O
 m. O
 Ces O
-canalisations O
+canalisations B-CONTEXTE
 sont O
 composées O
 d’ O
 un O
-drain O
+drain B-CONTEXTE
 en O
-terre O
-cuite O
+terre B-MAT
+cuite I-MAT
 et O
 d’ O
 un O
-tuyau O
+tuyau B-CONTEXTE
 PVC O
 ( O
 Cliché O
@@ -6218,8 +6126,8 @@ la O
 parcelle O
 d’ O
 un O
-puits O
-maçonné O
+puits B-CONTEXTE
+maçonné B-TECH_STYLE
 et O
 de O
 deux O
@@ -6424,7 +6332,7 @@ sd O
 110 O
 113 O
 114 O
-enclos O
+enclos B-CONTEXTE
 E.1 O
 204 O
 307 O
@@ -6606,34 +6514,26 @@ Fig O
 . O
 
 Les O
-fossés O
-sud O
-
--est O
+fossés B-CONTEXTE
+sud-est O
 / O
-nord O
-
--ouest O
+nord-ouest O
 Fig.7 O
 : O
 Les O
-fossés O
-sud O
-
--est O
+fossés B-CONTEXTE
+sud-est O
 / O
-nord O
-
--ouest O
+nord-ouest O
 
 3.2 O
 
 Les O
-fossés O
+fossés B-CONTEXTE
 22 O
 sections O
 de O
-fossés O
+fossés B-CONTEXTE
 ont O
 été O
 mises O
@@ -6649,13 +6549,9 @@ essentiellement O
 selon O
 un O
 axe O
-sud O
-
--est O
+sud-est O
 / O
-nord O
-
--ouest O
+nord-ouest O
 
 et O
 traversent O
@@ -6715,7 +6611,7 @@ faible O
 nombre O
 de O
 restes O
-céramique B-CHRONO
+céramique B-MOB
 ( O
 29 O
 ) O
@@ -6730,12 +6626,12 @@ montre O
 cependant O
 une O
 occupation O
-de O
-la O
-Protohistoire B-CHRONO
-au O
-Moyen B-CHRONO
-Âge I-CHRONO
+de B-INTERVALLE
+la I-INTERVALLE
+Protohistoire I-INTERVALLE
+au I-INTERVALLE
+Moyen I-INTERVALLE
+Âge I-INTERVALLE
 avec O
 une O
 présence O
@@ -6756,17 +6652,13 @@ antique B-CHRONO
 
 3.2.1 O
 Les O
-fossés O
-sud O
-
--est O
+fossés B-CONTEXTE
+sud-est O
 / O
-nord O
-
--ouest O
+nord-ouest O
 
 Le O
-fossé O
+fossé B-CONTEXTE
 F1.14 O
 ( O
 sd.1 O
@@ -6853,7 +6745,7 @@ et O
 un O
 fragment O
 d’ O
-ardoise O
+ardoise B-MOB
 d’ O
 époque B-CHRONO
 moderne I-CHRONO
@@ -6864,7 +6756,7 @@ contemporaine B-CHRONO
 . O
 
 Le O
-fossé O
+fossé B-CONTEXTE
 1.13 O
 ( O
 sd.2 O
@@ -6940,7 +6832,7 @@ Le O
 comblement O
 sommital O
 du O
-fossé O
+fossé B-CONTEXTE
 est O
 formé O
 d’ O
@@ -6996,7 +6888,7 @@ précisé O
 . O
 
 Ce O
-fossé O
+fossé B-CONTEXTE
 pourrait O
 se O
 poursuivre O
@@ -7008,7 +6900,7 @@ mais O
 la O
 présence O
 du O
-mur O
+mur B-CONTEXTE
 MR3.11 O
 n’ O
 a O
@@ -7041,7 +6933,7 @@ Grand-Ouest O
 ) O
 
 Les O
-fossés O
+fossés B-CONTEXTE
 F1.09 O
 et O
 F1.10 O
@@ -7143,8 +7035,8 @@ possible O
 de O
 cruche B-MOB
 à O
-engobe O
-blanche O
+engobe B-TECH_STYLE
+blanche I-TECH_STYLE
 pour O
 F1.09 O
 . O
@@ -7210,7 +7102,7 @@ Haut-Empire B-CHRONO
 proviennent O
 de O
 ce O
-fossé O
+fossé B-CONTEXTE
 . O
 
 Enfin O
@@ -7221,7 +7113,7 @@ F3.08 O
 semble O
 recouper O
 le O
-fossé O
+fossé B-CONTEXTE
 F3.07 O
 . O
 
@@ -7241,7 +7133,7 @@ F2.06 O
 forme O
 un O
 unique O
-fossé O
+fossé B-CONTEXTE
 . O
 
 Le O
@@ -7323,7 +7215,7 @@ la O
 mesure O
 où O
 le O
-mur O
+mur B-CONTEXTE
 MR2.04 O
 est O
 installé O
@@ -7340,7 +7232,7 @@ ouest O
 le O
 tracé O
 du O
-fossé O
+fossé B-CONTEXTE
 F1.06/2.06 O
 pourrait O
 se O
@@ -7384,7 +7276,7 @@ est O
 postérieur O
 à O
 l’ O
-enclos O
+enclos B-CONTEXTE
 F1.05/1.21 O
 ( O
 E.1 O
@@ -7394,9 +7286,9 @@ et O
 antérieur O
 à O
 la O
-construction O
-sur O
-poteau O
+construction B-CONTEXTE
+sur I-CONTEXTE
+poteau I-CONTEXTE
 E.2 O
 formée O
 des O
@@ -7551,7 +7443,7 @@ la O
 présence O
 de O
 la O
-canalisation O
+canalisation B-CONTEXTE
 CN1.04 O
 mais O
 sa O
@@ -7583,7 +7475,7 @@ ne O
 pas O
 sonder O
 ce O
-fossé O
+fossé B-CONTEXTE
 afin O
 d’ O
 éviter O
@@ -7623,7 +7515,7 @@ de O
 suivre O
 précisément O
 le O
-fossé O
+fossé B-CONTEXTE
 F1.03 O
 . O
 
@@ -7763,7 +7655,7 @@ antériorité O
 par O
 rapport O
 au O
-mur O
+mur B-CONTEXTE
 MR1.01 O
 ( O
 ensemble O
@@ -7800,7 +7692,7 @@ F2.02 O
 dénote O
 avec O
 les O
-fossés O
+fossés B-CONTEXTE
 localisés O
 au O
 sud O
@@ -7815,7 +7707,7 @@ se O
 demander O
 si O
 le O
-fossé O
+fossé B-CONTEXTE
 F1.03/2.02/3.01 O
 , O
 outre O
@@ -7850,14 +7742,12 @@ source O
 3.2.2 O
 
 Les O
-fossés O
-sud O
-
--ouest/ O
+fossés B-CONTEXTE
+sud-ouest/ O
 nord-est O
 
 Le O
-fossé O
+fossé B-CONTEXTE
 F3.07 O
 a O
 une O
@@ -7893,7 +7783,7 @@ limon O
 argileux O
 brun O
 légèrement O
-charbonneux O
+charbonneux B-MOB
 ( O
 Cliché O
 12 O
@@ -8146,13 +8036,13 @@ gris O
 moyen O
 us3.11 O
 : O
-radier O
+radier B-CONTEXTE
 composé O
 de O
 petits O
 modules O
 de O
-granit O
+granit B-MAT
 ( O
 de O
 0,10 O
@@ -8203,28 +8093,22 @@ Fig O
 . O
 
 Les O
-fossés O
-sud O
-
--ouest O
+fossés B-CONTEXTE
+sud-ouest O
 / O
-nord O
-
--est O
+nord-est O
 Fig.8 O
 : O
 Les O
-fossés O
+fossés B-CONTEXTE
 sud O
 - O
 ouest O
 / O
-nord O
-
--est O
+nord-est O
 
 Le O
-fossé O
+fossé B-CONTEXTE
 F3.12 O
 s’ O
 inscrit O
@@ -8271,7 +8155,7 @@ la O
 céramique B-MOB
 extraite O
 du O
-fossé O
+fossé B-CONTEXTE
 reste O
 indéterminée O
 malgré O
@@ -8311,33 +8195,33 @@ de O
 F3.12 O
 et O
 du O
-mur O
+mur B-CONTEXTE
 MR3.11 O
 montre O
 que O
 le O
-fossé O
+fossé B-CONTEXTE
 est O
 postérieur O
 au O
-mur O
+mur B-CONTEXTE
 et O
 qu’ O
 il O
 coupe O
 la O
-fosse O
+fosse B-CONTEXTE
 FS3.16 O
 . O
 
 3.2.3 O
 
 L’ O
-enclos O
+enclos B-CONTEXTE
 E.1 O
 Cet O
-enclos O
-quadrangulaire O
+enclos B-CONTEXTE
+quadrangulaire I-CONTEXTE
 a O
 partiellement O
 été O
@@ -8369,9 +8253,7 @@ sud O
 - O
 est O
 / O
-nord O
-
--ouest O
+nord-ouest O
 
 et O
 a O
@@ -8395,7 +8277,7 @@ F1.21 O
 , O
 témoignent O
 de O
-fossés O
+fossés B-CONTEXTE
 de O
 0,40 O
 à O
@@ -8432,14 +8314,14 @@ il O
 est O
 antérieur O
 au O
-fossé O
+fossé B-CONTEXTE
 F1.06 O
 et O
 à O
 la O
-construction O
-sur O
-poteaux O
+construction B-CONTEXTE
+sur I-CONTEXTE
+poteaux I-CONTEXTE
 E.2 O
 . O
 
@@ -8457,7 +8339,7 @@ Cliché O
 14 O
 : O
 
-Enclos O
+Enclos B-CONTEXTE
 E.1-F1.06 O
 ( O
 © O
@@ -8487,7 +8369,7 @@ sd.12 O
 
 sd.7 O
 
-enclos O
+enclos B-CONTEXTE
 E.1 O
 Bât O
 . O
@@ -8696,10 +8578,10 @@ NGF O
 m O
 NGF O
 
-TP O
+TP B-CONTEXTE
 collé O
 au O
-fossé O
+fossé B-CONTEXTE
 2.06 O
 F O
 2.10 O
@@ -8847,20 +8729,20 @@ F1.06 O
 3.3 O
 
 Les O
-fosses O
+fosses B-CONTEXTE
 et O
-trous O
-de O
-poteaux O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteaux I-CONTEXTE
 16 O
 structures O
 de O
 type O
-fosses O
+fosses B-CONTEXTE
 ou O
-trous O
-de O
-poteaux O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteaux I-CONTEXTE
 ont O
 été O
 relevées O
@@ -8880,7 +8762,7 @@ dessinent O
 un O
 plan O
 de O
-bâtiment O
+bâtiment B-CONTEXTE
 ( O
 ensemble O
 E.2 O
@@ -8889,9 +8771,9 @@ E.2 O
 
 3.3.1 O
 La O
-construction O
-sur O
-poteaux O
+construction B-CONTEXTE
+sur I-CONTEXTE
+poteaux I-CONTEXTE
 ( O
 E.2 O
 ) O
@@ -8909,23 +8791,13 @@ sd.10 O
 est O
 formé O
 des O
-poteaux O
+poteaux B-MOB
 
-F1.07 O
-
-- O
-
-1.08 O
-
-- O
-
-1.19 O
-
--1.18 O
+F1.07-1.08-1.19-1.18 O
 et O
 potentiellement O
 du O
-poteau O
+poteau B-MOB
 F1.20 O
 qui O
 dessinent O
@@ -8980,7 +8852,7 @@ tranchée O
 . O
 
 Ces O
-poteaux O
+poteaux B-MOB
 ont O
 un O
 diamètre O
@@ -9055,7 +8927,7 @@ relative O
 savoir O
 que O
 ces O
-poteaux O
+poteaux B-MOB
 sont O
 en O
 partie O
@@ -9064,7 +8936,7 @@ dans O
 le O
 comblement O
 du O
-fossé O
+fossé B-CONTEXTE
 F1.06 O
 . O
 
@@ -9100,7 +8972,7 @@ notre I-CHRONO
 
 3.3.2 O
 La O
-fosse O
+fosse B-CONTEXTE
 F1.16 O
 Cette O
 structure O
@@ -9181,13 +9053,13 @@ certaine O
 
 L’ O
 étude O
-macrolithique B-MOB
+macrolithique O
 témoigne O
 en O
 revanche O
 d’ O
 un O
-remploi O
+remploi B-TECH_STYLE
 d’ O
 éléments B-MOB
 de I-MOB
@@ -9203,16 +9075,16 @@ pièces O
 peut O
 être O
 datée O
-entre O
-le O
-Néolithique B-CHRONO
-et O
-la O
-fin B-CHRONO
-de I-CHRONO
-La I-CHRONO
-Tène I-CHRONO
-moyenne I-CHRONO
+entre B-INTERVALLE
+le I-INTERVALLE
+Néolithique I-INTERVALLE
+et I-INTERVALLE
+la I-INTERVALLE
+fin I-INTERVALLE
+de I-INTERVALLE
+La I-INTERVALLE
+Tène I-INTERVALLE
+moyenne I-INTERVALLE
 ( O
 lot O
 LT.01 O
@@ -9239,7 +9111,7 @@ signaler O
 la O
 proximité O
 du O
-fossé O
+fossé B-CONTEXTE
 F1.13 O
 situé O
 à O
@@ -9283,11 +9155,11 @@ creux O
 Le O
 reste O
 des O
-fosses O
+fosses B-CONTEXTE
 et O
-trous O
-de O
-poteaux O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteaux I-CONTEXTE
 se O
 répartissent O
 uniformément O
@@ -9304,9 +9176,9 @@ noter O
 que O
 trois O
 autres O
-trous O
-de O
-poteaux O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteaux I-CONTEXTE
 avec O
 calage O
 ont O
@@ -9423,12 +9295,12 @@ en O
 bordure O
 méridionale O
 du O
-fossé O
+fossé B-CONTEXTE
 F2.06 O
 . O
 
 Le O
-poteau O
+poteau B-MOB
 F2.07 O
 
 a O
@@ -9476,7 +9348,7 @@ particularité O
 d’ O
 utiliser O
 en O
-remploi O
+remploi B-TECH_STYLE
 des O
 fragments O
 de O
@@ -9486,14 +9358,14 @@ rebord I-MOB
 comme O
 calage O
 de O
-poteau O
+poteau B-MOB
 . O
 
 À O
 l’ O
 image O
 du O
-bâtiment O
+bâtiment B-CONTEXTE
 signalé O
 dans O
 la O
@@ -9511,9 +9383,9 @@ présence O
 d’ O
 une O
 seconde O
-construction O
-sur O
-poteaux O
+construction B-CONTEXTE
+sur I-CONTEXTE
+poteaux I-CONTEXTE
 à O
 cet O
 emplacement O
@@ -9527,11 +9399,11 @@ Fig O
 
 Les O
 autres O
-fosses O
+fosses B-CONTEXTE
 et O
-trous O
-de O
-poteaux O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteaux I-CONTEXTE
 F O
 1.17 O
 N O
@@ -9661,7 +9533,7 @@ m O
 
 NGF O
 
-TC O
+TC B-MOB
 CE O
 
 Cliché O
@@ -9690,16 +9562,16 @@ Fig.11 O
 
 Les O
 autres O
-fosses O
+fosses B-CONTEXTE
 et O
-trous O
-de O
-poteaux O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteaux I-CONTEXTE
 17a O
 17b O
 
 Les O
-fosses O
+fosses B-CONTEXTE
 F1.17 O
 ( O
 Ø O
@@ -9735,8 +9607,8 @@ centimètres O
 ont O
 livré O
 du O
-mobilier O
-céramique B-MOB
+mobilier B-MOB
+céramique I-MOB
 attribuable O
 à O
 l’ O
@@ -9760,14 +9632,14 @@ la O
 mesure O
 où O
 la O
-fosse O
+fosse B-CONTEXTE
 F1.17 O
 a O
 été O
 repérée O
 sous O
 le O
-fossé O
+fossé B-CONTEXTE
 F1.02 O
 qui O
 lui-même O
@@ -9778,7 +9650,7 @@ fragment O
 d’ O
 une O
 céramique B-MOB
-modelée O
+modelée B-TECH_STYLE
 potentiellement O
 datée O
 de O
@@ -9813,19 +9685,19 @@ Signalons O
 toutefois O
 que O
 le O
-fossé O
+fossé B-CONTEXTE
 F3.12 O
 coupe O
 la O
-fosse O
+fosse B-CONTEXTE
 F3.16 O
 . O
 
 3.3 O
 La O
-construction O
+construction B-CONTEXTE
 en O
-pierre O
+pierre B-MAT
 ( O
 E.3 O
 ) O
@@ -9847,7 +9719,7 @@ E.3 O
 est O
 formé O
 des O
-murs O
+murs B-CONTEXTE
 MR1.01 O
 , O
 2.04 O
@@ -9865,17 +9737,13 @@ sur O
 33 O
 mètres O
 le O
-mur O
+mur B-CONTEXTE
 MR1.01/2.04/3.09 O
 est O
 orienté O
-sud O
-
--ouest O
+sud-ouest O
 / O
-nord O
-
--est O
+nord-est O
 . O
 
 Si O
@@ -9900,7 +9768,7 @@ au O
 sud-ouest O
 avec O
 le O
-mur O
+mur B-CONTEXTE
 MR3.11 O
 . O
 
@@ -9938,7 +9806,7 @@ de O
 m O
 , O
 cette O
-construction O
+construction B-CONTEXTE
 conservée O
 sur O
 0,20 O
@@ -9948,7 +9816,7 @@ faite O
 de O
 cailloux O
 de O
-granit O
+granit B-MAT
 d’ O
 un O
 module O
@@ -9975,7 +9843,7 @@ Les O
 limites O
 de O
 cette O
-construction O
+construction B-CONTEXTE
 sont O
 plus O
 diffuses O
@@ -9983,7 +9851,7 @@ dans O
 l’ O
 angle O
 des O
-murs O
+murs B-CONTEXTE
 MR3.09 O
 et O
 3.11 O
@@ -10021,7 +9889,7 @@ MR3.09 O
 vient O
 perturber O
 la O
-construction O
+construction B-CONTEXTE
 ( O
 Cliché O
 20 O
@@ -10038,7 +9906,7 @@ ou O
 du O
 nettoyage O
 des O
-murs O
+murs B-CONTEXTE
 est O
 rare O
 et O
@@ -10081,7 +9949,7 @@ un O
 fond O
 de O
 céramique B-MOB
-modelée O
+modelée B-TECH_STYLE
 ( O
 Protohistoire B-CHRONO
 ou O
@@ -10090,7 +9958,7 @@ Antiquité B-CHRONO
 est O
 associé O
 au O
-mur O
+mur B-CONTEXTE
 MR3.09 O
 . O
 
@@ -10154,7 +10022,7 @@ est O
 recoupé O
 par O
 le O
-fossé O
+fossé B-CONTEXTE
 F3.12 O
 . O
 
@@ -10175,7 +10043,7 @@ Cliché O
 : O
 Angle O
 des O
-murs O
+murs B-CONTEXTE
 F3.09 O
 et O
 F3.11 O
@@ -10259,13 +10127,13 @@ gris O
 moyen O
 us3.11 O
 : O
-radier O
+radier B-CONTEXTE
 composé O
 de O
 petits O
 modules O
 de O
-granit O
+granit B-MAT
 ( O
 de O
 0,10 O
@@ -10330,13 +10198,13 @@ garis O
 brun O
 us1.01 O
 : O
-radier O
+radier B-CONTEXTE
 composé O
 de O
 petits O
 modules O
 de O
-granit O
+granit B-MAT
 ( O
 de O
 0,10 O
@@ -10554,8 +10422,8 @@ potentiellement O
 concerné O
 par O
 un O
-fond B-MOB
-ombiliqué I-MOB
+fond O
+ombiliqué O
 à O
 pâte O
 grossière O
@@ -10668,8 +10536,8 @@ Moyen O
 âge O
 second O
 
-Moyen O
-âge O
+Moyen B-CHRONO
+âge I-CHRONO
 Epoque B-CHRONO
 moderne I-CHRONO
 
@@ -10793,19 +10661,19 @@ autour O
 de O
 la O
 charnière O
-entre O
-la O
-fin B-CHRONO
-de I-CHRONO
-La I-CHRONO
-Tène I-CHRONO
-et O
-le O
-début B-CHRONO
-de I-CHRONO
-l’ I-CHRONO
-époque I-CHRONO
-antique I-CHRONO
+entre B-INTERVALLE
+la I-INTERVALLE
+fin I-INTERVALLE
+de I-INTERVALLE
+La I-INTERVALLE
+Tène I-INTERVALLE
+et I-INTERVALLE
+le I-INTERVALLE
+début I-INTERVALLE
+de I-INTERVALLE
+l’ I-INTERVALLE
+époque I-INTERVALLE
+antique I-INTERVALLE
 , O
 avec O
 des O
@@ -10879,12 +10747,12 @@ chronologique O
 
 3.4.2 O
 Les O
-matériaux O
-de O
-construction O
+matériaux B-MOB
+de I-MOB
+construction I-MOB
 en O
-terre O
-cuite O
+terre B-MAT
+cuite I-MAT
 ( O
 J.-F. O
 Nauleau O
@@ -10993,7 +10861,7 @@ générales O
 Elles O
 sont O
 majoritairement O
-façonnées O
+façonnées B-TECH_STYLE
 à O
 partir O
 d’ O
@@ -11018,7 +10886,7 @@ quant O
 eux O
 d’ O
 un O
-façonnage O
+façonnage B-TECH_STYLE
 de O
 qualité O
 attribuable O
@@ -11260,7 +11128,7 @@ observe O
 une O
 plage O
 finement O
-polie O
+polie B-TECH_STYLE
 caractéristique O
 des O
 
@@ -11345,19 +11213,19 @@ que O
 l’ O
 on O
 rencontre O
-depuis O
-le O
-début B-CHRONO
-du I-CHRONO
-Néolithique I-CHRONO
-jusqu’ O
-à O
-la O
-fin B-CHRONO
-de I-CHRONO
-La I-CHRONO
-Tène I-CHRONO
-moyenne I-CHRONO
+depuis B-INTERVALLE
+le I-INTERVALLE
+début I-INTERVALLE
+du I-INTERVALLE
+Néolithique I-INTERVALLE
+jusqu’ I-INTERVALLE
+à I-INTERVALLE
+la I-INTERVALLE
+fin I-INTERVALLE
+de I-INTERVALLE
+La I-INTERVALLE
+Tène I-INTERVALLE
+moyenne I-INTERVALLE
 ( O
 Hamon O
 et O
@@ -11455,7 +11323,7 @@ systématiquement O
 tronquées O
 et O
 finement O
-polies O
+polies B-TECH_STYLE
 qui O
 semblent O
 compatibles O
@@ -11562,11 +11430,11 @@ une O
 probable O
 meule B-MOB
 dormante I-MOB
-de O
-type O
-« O
-Va-&-Vient O
-» O
+de I-MOB
+type I-MOB
+« I-MOB
+Va-&-Vient I-MOB
+» I-MOB
 , O
 attribuable O
 au O
@@ -11596,7 +11464,7 @@ Mobilier B-MOB
 macrolithique I-MOB
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 F1.16 O
 ( O
 DAO O
@@ -11610,7 +11478,7 @@ Mobilier B-MOB
 macrolithique I-MOB
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 F1.16 O
 ( O
 DAO O
@@ -11757,12 +11625,12 @@ continuité O
 de O
 l’ O
 occupation O
-entre O
-la O
-Protohistoire B-CHRONO
-et O
-l’ O
-Antiquité B-CHRONO
+entre B-INTERVALLE
+la I-INTERVALLE
+Protohistoire I-INTERVALLE
+et I-INTERVALLE
+l’ I-INTERVALLE
+Antiquité I-INTERVALLE
 . O
 
 Pour O
@@ -11785,7 +11653,7 @@ de I-MOB
 mouture I-MOB
 ( O
 en O
-remploi O
+remploi B-TECH_STYLE
 ) O
 et O
 d’ O
@@ -11815,16 +11683,16 @@ prononcée O
 . O
 
 Le O
-remploi O
+remploi B-TECH_STYLE
 de O
-matériaux O
-de O
-construction O
+matériaux B-MOB
+de I-MOB
+construction I-MOB
 dans O
 le O
 calage O
 de O
-poteaux O
+poteaux B-MOB
 pourrait O
 suggérer O
 une O
@@ -11936,9 +11804,7 @@ E2 O
 et O
 1825 O
 ( O
-Saint O
-
--Lyphard_section O
+Saint-Lyphard_section O
 G2 O
 ) O
 propriété O
@@ -11951,8 +11817,8 @@ limite O
 communale O
 actuelle O
 
-Presbytère O
-chapelle O
+Presbytère B-CONTEXTE
+chapelle B-CONTEXTE
 Fig.15 O
 : O
 
@@ -12014,24 +11880,24 @@ par O
 une O
 portion O
 d’ O
-enclos O
-quadrangulaire O
+enclos B-CONTEXTE
+quadrangulaire I-CONTEXTE
 ( O
 E.1 O
 ) O
 traversée O
 par O
 le O
-fossé O
+fossé B-CONTEXTE
 FO1.06 O
 , O
 lui-même O
 antérieur O
 à O
 la O
-construction O
-sur O
-poteaux O
+construction B-CONTEXTE
+sur I-CONTEXTE
+poteaux I-CONTEXTE
 E.2 O
 . O
 
@@ -12041,26 +11907,26 @@ qui O
 semble O
 s’ O
 insérer O
-entre O
-la O
-Protohistoire B-CHRONO
-et O
-l’ O
-Antiquité B-CHRONO
+entre B-INTERVALLE
+la I-INTERVALLE
+Protohistoire I-INTERVALLE
+et I-INTERVALLE
+l’ I-INTERVALLE
+Antiquité I-INTERVALLE
 pour O
 l’ O
-enclos O
+enclos B-CONTEXTE
 E.1 O
 et O
 le O
-fossé O
+fossé B-CONTEXTE
 F1.06 O
 reste O
 à O
 affiner O
 concernant O
 le O
-bâtiment O
+bâtiment B-CONTEXTE
 E.2 O
 ( O
 Antiquité B-CHRONO
@@ -12080,9 +11946,9 @@ le O
 nettoyage O
 de O
 la O
-construction O
+construction B-CONTEXTE
 en O
-pierre O
+pierre B-MAT
 E.3 O
 a O
 mis O
@@ -12094,7 +11960,7 @@ relative O
 . O
 
 Les O
-murs O
+murs B-CONTEXTE
 MR3.09 O
 et O
 MR3.11 O
@@ -12108,12 +11974,12 @@ le O
 comblement O
 d’ O
 un O
-fossé O
+fossé B-CONTEXTE
 marquant O
 la O
 continuité O
 du O
-fossé O
+fossé B-CONTEXTE
 F1.13 O
 . O
 
@@ -12125,7 +11991,7 @@ suite O
 percé O
 par O
 le O
-fossé O
+fossé B-CONTEXTE
 F3.12 O
 . O
 
@@ -12134,7 +12000,7 @@ manière O
 générale O
 , O
 le O
-mur O
+mur B-CONTEXTE
 MR1.01/2.04/3.09 O
 qui O
 traverse O
@@ -12173,7 +12039,7 @@ La O
 datation O
 de O
 cette O
-construction O
+construction B-CONTEXTE
 reste O
 imprécise O
 , O
@@ -12247,16 +12113,16 @@ jardin O
 
 Une O
 attribution O
-entre O
-la O
-fin B-CHRONO
-de I-CHRONO
-l’ I-CHRONO
-Antiquité I-CHRONO
-et O
-la O
-période B-CHRONO
-moderne I-CHRONO
+entre B-INTERVALLE
+la I-INTERVALLE
+fin I-INTERVALLE
+de I-INTERVALLE
+l’ I-INTERVALLE
+Antiquité I-INTERVALLE
+et I-INTERVALLE
+la I-INTERVALLE
+période I-INTERVALLE
+moderne I-INTERVALLE
 est O
 proposée O
 . O
@@ -12290,9 +12156,9 @@ référence O
 à O
 des O
 « O
-tombeaux O
+tombeaux B-CONTEXTE
 en O
-briques B-MOB
+briques B-MAT
 » O
 mis O
 au O
@@ -12379,18 +12245,18 @@ se O
 caractérise O
 par O
 un O
-fossé O
+fossé B-CONTEXTE
 et O
 une O
-fosse O
+fosse B-CONTEXTE
 datés O
 respectivement O
 de O
 La B-CHRONO
 Tène I-CHRONO
 C2 I-CHRONO
-/ I-CHRONO
-D1 I-CHRONO
+/ O
+D1 B-CHRONO
 et O
 de O
 La B-CHRONO
@@ -12408,19 +12274,15 @@ la O
 construction O
 d’ O
 un O
-bâtiment O
+bâtiment B-CONTEXTE
 sur O
-fondations O
+fondations B-CONTEXTE
 de O
-pierre O
+pierre B-MAT
 orienté O
-nord O
-
--est O
+nord-est O
 / O
-sud O
-
--ouest O
+sud-ouest O
 
 et O
 d’ O
@@ -12506,15 +12368,15 @@ multiples O
 
 Majoritairement O
 inscrites O
-entre O
-la O
-Protohistoire B-CHRONO
-et O
-la O
-fin B-CHRONO
-de I-CHRONO
-l’ I-CHRONO
-Antiquité I-CHRONO
+entre B-INTERVALLE
+la I-INTERVALLE
+Protohistoire I-INTERVALLE
+et I-INTERVALLE
+la I-INTERVALLE
+fin I-INTERVALLE
+de I-INTERVALLE
+l’ I-INTERVALLE
+Antiquité I-INTERVALLE
 , O
 il O
 convient O
@@ -12538,7 +12400,7 @@ second B-CHRONO
 . O
 
 4 O
-Edifice O
+Edifice B-CONTEXTE
 aujourd’hui O
 disparu O
 
@@ -12548,7 +12410,7 @@ l’ O
 emplacement O
 duquel O
 un O
-calvaire O
+calvaire B-CONTEXTE
 a O
 été O
 érigé O
@@ -12566,10 +12428,10 @@ village O
 aurait O
 abrité O
 une O
-léproserie O
+léproserie B-CONTEXTE
 ( O
 Association O
-préhistorique B-CHRONO
+préhistorique O
 et O
 historique O
 de O
@@ -12654,7 +12516,7 @@ et O
 des O
 bourgs O
 ( O
-léproserie O
+léproserie B-CONTEXTE
 urbaine O
 ) O
 ou O
@@ -12708,16 +12570,16 @@ eau O
 ( O
 source O
 ou O
-puits O
+puits B-CONTEXTE
 ) O
 , O
 d’ O
 une O
-chapelle O
+chapelle B-CONTEXTE
 et O
 d’ O
 un O
-cimetière O
+cimetière B-CONTEXTE
 ( O
 ibid O
 . O
@@ -12755,8 +12617,8 @@ Madeleine O
 » O
 ou O
 un O
-édifice O
-religieux O
+édifice B-CONTEXTE
+religieux I-CONTEXTE
 placé O
 sous O
 le O
@@ -12823,7 +12685,7 @@ peine O
 une O
 dizaine O
 de O
-maisons O
+maisons B-CONTEXTE
 organisée O
 le O
 long O
@@ -12896,7 +12758,7 @@ la O
 démolition O
 de O
 la O
-chapelle O
+chapelle B-CONTEXTE
 médiévale B-CHRONO
 et O
 la O
@@ -12904,7 +12766,7 @@ construction O
 de O
 l’ O
 actuelle O
-église O
+église B-CONTEXTE
 place O
 de O
 l’ O
@@ -12997,9 +12859,9 @@ entité O
 069 O
 0198 O
 ( O
-inhumation O
+inhumation B-CONTEXTE
 et O
-nécropole O
+nécropole B-CONTEXTE
 
 – O
 
@@ -13042,32 +12904,32 @@ répartissent O
 entre O
 sections O
 de O
-fossés O
+fossés B-CONTEXTE
 , O
-fosses O
+fosses B-CONTEXTE
 , O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 et O
-maçonneries O
+maçonneries B-CONTEXTE
 inscrits O
-entre O
-la O
-fin B-CHRONO
-de I-CHRONO
-la I-CHRONO
-Protohistoire I-CHRONO
-et O
-le O
-Moyen B-CHRONO
-Âge I-CHRONO
+entre B-INTERVALLE
+la I-INTERVALLE
+fin I-INTERVALLE
+de I-INTERVALLE
+la I-INTERVALLE
+Protohistoire I-INTERVALLE
+et I-INTERVALLE
+le I-INTERVALLE
+Moyen I-INTERVALLE
+Âge I-INTERVALLE
 . O
 
 Un O
 réseau O
 de O
-canalisations O
+canalisations B-CONTEXTE
 contemporaines B-CHRONO
 est O
 également O
@@ -13146,15 +13008,11 @@ partie O
 des O
 sections O
 de O
-fossés O
+fossés B-CONTEXTE
 orientées O
-sud O
-
--est O
+sud-est O
 / O
-nord O
-
--ouest O
+nord-ouest O
 . O
 
 La O
@@ -13183,24 +13041,24 @@ continuité O
 de O
 l’ O
 occupation O
-entre O
-La O
-Protohistoire B-CHRONO
-et O
-l’ O
-Antiquité B-CHRONO
+entre B-INTERVALLE
+La I-INTERVALLE
+Protohistoire I-INTERVALLE
+et I-INTERVALLE
+l’ I-INTERVALLE
+Antiquité I-INTERVALLE
 . O
 
 Un O
 petit O
-enclos O
-quadrangulaire O
+enclos B-CONTEXTE
+quadrangulaire I-CONTEXTE
 ( O
 E.1 O
 ) O
 et O
 un O
-fossé O
+fossé B-CONTEXTE
 ( O
 F1.13 O
 ) O
@@ -13229,7 +13087,7 @@ de I-MOB
 mouture I-MOB
 ( O
 en O
-remploi O
+remploi B-TECH_STYLE
 dans O
 F1.16 O
 ) O
@@ -13261,9 +13119,9 @@ prononcée O
 . O
 
 Un O
-bâtiment O
-sur O
-poteaux O
+bâtiment B-CONTEXTE
+sur I-CONTEXTE
+poteaux I-CONTEXTE
 ( O
 E.2 O
 ) O
@@ -13275,16 +13133,16 @@ précédemment O
 cités O
 et O
 le O
-remploi O
+remploi B-TECH_STYLE
 de O
-matériaux O
-de O
-construction O
+matériaux B-MOB
+de I-MOB
+construction I-MOB
 dans O
 le O
 calage O
 de O
-poteaux O
+poteaux B-MOB
 pourraient O
 suggérer O
 une O
@@ -13356,7 +13214,7 @@ individus O
 La O
 datation O
 des O
-murs O
+murs B-CONTEXTE
 de O
 l’ O
 ensemble O
@@ -13381,14 +13239,12 @@ sud O
 - O
 ouest O
 / O
-nord O
-
--est O
+nord-est O
 et O
 réalisé O
 en O
-petit O
-appareil O
+petit B-TECH_STYLE
+appareil I-TECH_STYLE
 a O
 été O
 suivi O
@@ -13419,7 +13275,7 @@ recueilli O
 en O
 surface O
 des O
-maçonneries O
+maçonneries B-CONTEXTE
 est O
 rare O
 et O
@@ -13443,14 +13299,14 @@ d’ O
 envisager O
 une O
 construction O
-entre O
-l’ O
-Antiquité B-CHRONO
-et O
-le O
-second B-CHRONO
-Moyen I-CHRONO
-Âge I-CHRONO
+entre B-INTERVALLE
+l’ I-INTERVALLE
+Antiquité I-INTERVALLE
+et I-INTERVALLE
+le I-INTERVALLE
+second I-INTERVALLE
+Moyen I-INTERVALLE
+Âge I-INTERVALLE
 . O
 
 C’ O
@@ -13489,7 +13345,7 @@ demande O
 être O
 précisée O
 ( O
-léproserie O
+léproserie B-CONTEXTE
 ou O
 caquinerie O
 ) O
@@ -13502,7 +13358,7 @@ Madeleine O
 » O
 et O
 la O
-chapelle O
+chapelle B-CONTEXTE
 dédiée O
 à O
 sainte O
@@ -13541,7 +13397,7 @@ période O
 Conclusion O
 
 Association O
-préhistorique B-CHRONO
+préhistorique O
 et O
 historique O
 de O
@@ -13549,7 +13405,7 @@ Saint-Nazaire O
 1978 O
 
 ASSOCIATION O
-PRÉHISTORIQUE B-CHRONO
+PRÉHISTORIQUE O
 ET O
 HISTORIQUE O
 DE O
@@ -13567,7 +13423,7 @@ histoire O
 . O
 
 Association O
-préhistorique B-CHRONO
+préhistorique O
 et O
 historique O
 de O
@@ -13716,19 +13572,17 @@ et O
 BRISOTTO O
 ( O
 V. O
-) O
-
-- O
+)- O
 Produire O
 des O
 meules B-MOB
-du O
-Néolithique B-CHRONO
-à O
-l’ O
-âge B-CHRONO
-du I-CHRONO
-Fer I-CHRONO
+du B-INTERVALLE
+Néolithique I-INTERVALLE
+à I-INTERVALLE
+l’ I-INTERVALLE
+âge I-INTERVALLE
+du I-INTERVALLE
+Fer I-INTERVALLE
 . O
 
 Économie O
@@ -13769,7 +13623,7 @@ et O
 sociétés O
 de O
 la O
-Préhistoire O
+Préhistoire B-CHRONO
 entre O
 massifs O
 cristallins O
@@ -13939,7 +13793,7 @@ Essai O
 d’ O
 inventaire O
 des O
-léproseries O
+léproseries B-CONTEXTE
 en O
 Bretagne O
 , O
@@ -13997,9 +13851,7 @@ cadastral O
 ( O
 commune O
 de O
-Saint O
-
--Lyphard_sections O
+Saint-Lyphard_sections O
 ZV O
 / O
 commune O
@@ -14091,26 +13943,20 @@ Grand-Ouest O
 Fig.7 O
 : O
 Les O
-fossés O
-sud O
-
--est O
+fossés B-CONTEXTE
+sud-est O
 / O
-nord O
-
--ouest O
+nord-ouest O
 Fig.8 O
 : O
 
 Les O
-fossés O
+fossés B-CONTEXTE
 sud O
 - O
 ouest O
 / O
-nord O
-
--est O
+nord-est O
 Fig.9 O
 : O
 
@@ -14130,11 +13976,11 @@ Fig.11 O
 : O
 Les O
 autres O
-fosses O
+fosses B-CONTEXTE
 et O
-trous O
-de O
-poteaux O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteaux I-CONTEXTE
 Fig.12 O
 : O
 L’ O
@@ -14153,7 +13999,7 @@ Mobilier B-MOB
 macrolithique I-MOB
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 F1.16 O
 ( O
 DAO O
@@ -14227,7 +14073,7 @@ et O
 protection O
 des O
 vestiges O
-maçonnés O
+maçonnés B-TECH_STYLE
 ( O
 b O
 ) O
@@ -14378,7 +14224,7 @@ Cliché O
 14 O
 : O
 
-Enclos O
+Enclos B-CONTEXTE
 E.1-F1.06 O
 ( O
 © O
@@ -14443,7 +14289,7 @@ Cliché O
 : O
 Angle O
 des O
-murs O
+murs B-CONTEXTE
 F3.09 O
 et O
 F3.11 O
@@ -14549,9 +14395,7 @@ des O
 faits O
 1 O
 163,00 O
-0,50 O
-
--0,70 O
+0,50-0,70 O
 AL287 O
 F1.01 O
 , O
@@ -14617,9 +14461,7 @@ F2.10 O
 F2.11 O
 3 O
 103,20 O
-0,70 O
-
--0,80 O
+0,70-0,80 O
 AL287 O
 F3.01 O
 , O
@@ -14779,7 +14621,7 @@ foncé O
 x O
 1 O
 5 O
-mur O
+mur B-CONTEXTE
 NE O
 - O
 SO O
@@ -14788,10 +14630,10 @@ l O
 : O
 0,60 O
 0,20 O
-petits O
-appareils O
+petits B-MOB
+appareils I-MOB
 en O
-granit O
+granit B-MAT
 dans O
 matrice O
 limono O
@@ -14804,7 +14646,7 @@ tc O
 x O
 1 O
 4 O
-fossé O
+fossé B-CONTEXTE
 NO O
 - O
 SE O
@@ -14823,13 +14665,13 @@ tc O
 , O
 lt O
 ( O
-ardoise O
+ardoise B-MOB
 ) O
 
 1.03 O
 x O
 1 O
-fossé O
+fossé B-CONTEXTE
 NO O
 - O
 SE O
@@ -14848,18 +14690,18 @@ humide O
 1.04 O
 x O
 1 O
-canalisation O
+canalisation B-CONTEXTE
 E-O O
 0,50 O
 l O
 : O
 0,25 O
-drain O
+drain B-CONTEXTE
 en O
-terre O
-cuite O
+terre B-MAT
+cuite I-MAT
 et O
-canalisation O
+canalisation B-CONTEXTE
 PVC O
 Contemporain B-CHRONO
 sur O
@@ -14868,7 +14710,7 @@ F1.03 O
 x O
 1 O
 7 O
-fossé O
+fossé B-CONTEXTE
 NO O
 - O
 SE O
@@ -14894,7 +14736,7 @@ x O
 10 O
 , O
 12 O
-fossé O
+fossé B-CONTEXTE
 NO O
 - O
 SE O
@@ -14922,9 +14764,9 @@ F1.21 O
 1.07 O
 x O
 1 O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,30 O
 l O
 : O
@@ -14943,9 +14785,9 @@ F1.06 O
 1.08 O
 x O
 1 O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,80 O
 0,60x0,50 O
 0,24 O
@@ -14960,7 +14802,7 @@ brun O
 x O
 1 O
 3 O
-fossé O
+fossé B-CONTEXTE
 NO O
 - O
 SE O
@@ -14980,7 +14822,7 @@ ce O
 x O
 1 O
 3 O
-fossé O
+fossé B-CONTEXTE
 NO O
 - O
 SE O
@@ -15005,7 +14847,7 @@ F1.11 O
 1.11 O
 x O
 1 O
-fossé O
+fossé B-CONTEXTE
 NE O
 - O
 SO O
@@ -15024,7 +14866,7 @@ F1.10 O
 1.12 O
 x O
 1 O
-fosse O
+fosse B-CONTEXTE
 0,70 O
 l O
 : O
@@ -15036,7 +14878,7 @@ brun O
 x O
 1 O
 2 O
-fossé O
+fossé B-CONTEXTE
 NO O
 - O
 SE O
@@ -15057,7 +14899,7 @@ ce O
 x O
 1 O
 1 O
-fossé O
+fossé B-CONTEXTE
 NO O
 - O
 SE O
@@ -15072,18 +14914,14 @@ brun O
 1.15 O
 x O
 1 O
-fossé O
+fossé B-CONTEXTE
 ou O
 us O
 de O
 recouvrement O
 ? O
 
-NO O
-
-- O
-
-SE O
+NO-SE O
 
 0,80 O
 incomplet O
@@ -15101,7 +14939,7 @@ tranchée O
 1.16 O
 x O
 1 O
-fosse O
+fosse B-CONTEXTE
 0,80 O
 l O
 : O
@@ -15119,7 +14957,7 @@ calage O
 x O
 1 O
 4 O
-fosse O
+fosse B-CONTEXTE
 
 0,70 O
 
@@ -15139,9 +14977,9 @@ F1.02 O
 1.18 O
 x O
 1 O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,70 O
 Ø O
 : O
@@ -15159,9 +14997,9 @@ F1.06 O
 1.19 O
 x O
 1 O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,70 O
 Ø O
 : O
@@ -15176,9 +15014,9 @@ brun O
 1.20 O
 x O
 1 O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,70 O
 Ø O
 : O
@@ -15195,7 +15033,7 @@ F1.06 O
 1.21 O
 x O
 1 O
-fossé O
+fossé B-CONTEXTE
 0,70 O
 l O
 : O
@@ -15319,7 +15157,7 @@ foncé O
 2.01 O
 x O
 2 O
-fossé O
+fossé B-CONTEXTE
 NE O
 - O
 SO O
@@ -15382,16 +15220,14 @@ Observations O
 2.02 O
 x O
 2 O
-fossé O
+fossé B-CONTEXTE
 ou O
 us O
 de O
 recouvrement O
 ? O
 
-NO O
-
--SE O
+NO-SE O
 0,85 O
 l O
 : O
@@ -15410,18 +15246,18 @@ inondé O
 2.03 O
 x O
 2 O
-canalisation O
+canalisation B-CONTEXTE
 E-O O
 0,60 O
 l O
 : O
 0,25 O
-drain O
+drain B-CONTEXTE
 en O
-terre O
-cuite O
+terre B-MAT
+cuite I-MAT
 et O
-canalisation O
+canalisation B-CONTEXTE
 PVC O
 Contemporain B-CHRONO
 sur O
@@ -15429,7 +15265,7 @@ F2.06 O
 2.04 O
 x O
 2 O
-mur O
+mur B-CONTEXTE
 NE O
 - O
 SO O
@@ -15438,10 +15274,10 @@ SO O
 l O
 : O
 0,60 O
-petits O
-appareils O
+petits B-MOB
+appareils I-MOB
 en O
-granit O
+granit B-MAT
 dans O
 matrice O
 limono O
@@ -15451,7 +15287,7 @@ brune O
 
 x O
 2 O
-fosse O
+fosse B-CONTEXTE
 0,70 O
 0,65x0,80 O
 limon O
@@ -15465,7 +15301,7 @@ F2.03 O
 2.06 O
 x O
 2 O
-fossé O
+fossé B-CONTEXTE
 NO O
 - O
 SE O
@@ -15485,9 +15321,9 @@ tc O
 2.07 O
 x O
 2 O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,70 O
 Ø O
 : O
@@ -15510,13 +15346,13 @@ tc O
 2.08 O
 x O
 2 O
-canalisation O
+canalisation B-CONTEXTE
 E-O O
 0,80 O
 l O
 : O
 0,25 O
-canalisation O
+canalisation B-CONTEXTE
 PVC O
 
 Contemporain B-CHRONO
@@ -15524,9 +15360,9 @@ Contemporain B-CHRONO
 2.09 O
 x O
 2 O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,60 O
 
 l O
@@ -15551,9 +15387,9 @@ log O
 2.10 O
 x O
 2 O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,70 O
 0,45x0,55 O
 0,15 O
@@ -15567,7 +15403,7 @@ calage O
 2.11 O
 x O
 2 O
-fosse O
+fosse B-CONTEXTE
 0,70 O
 0,55x0,75 O
 0,08 O
@@ -15598,7 +15434,7 @@ tc O
 , O
 lt O
 ( O
-ardoise O
+ardoise B-MOB
 ) O
 
 2.13 O
@@ -15619,7 +15455,7 @@ tc O
 , O
 lt O
 ( O
-ardoise O
+ardoise B-MOB
 ) O
 2.14 O
 x O
@@ -15643,12 +15479,8 @@ brun O
 3.01 O
 x O
 3 O
-fossé O
-NO O
-
-- O
-
-SE O
+fossé B-CONTEXTE
+NO-SE O
 0,80 O
 limon O
 argileux O
@@ -15664,7 +15496,7 @@ tranchée O
 3.02 O
 x O
 3 O
-fossé O
+fossé B-CONTEXTE
 N O
 - O
 S O
@@ -15768,7 +15600,7 @@ Observations O
 3.03 O
 x O
 3 O
-fossé O
+fossé B-CONTEXTE
 NE O
 - O
 SO O
@@ -15784,7 +15616,7 @@ tc O
 3.04 O
 x O
 3 O
-fossé O
+fossé B-CONTEXTE
 NO O
 - O
 SE O
@@ -15798,7 +15630,7 @@ brun O
 3.05 O
 x O
 3 O
-fossé O
+fossé B-CONTEXTE
 NO O
 - O
 SE O
@@ -15814,13 +15646,9 @@ brun O
 x O
 3 O
 11 O
-fossé O
+fossé B-CONTEXTE
 
-NO O
-
-- O
-
-SE O
+NO-SE O
 0,70 O
 l O
 : O
@@ -15835,7 +15663,7 @@ tc O
 x O
 3 O
 9 O
-fossé O
+fossé B-CONTEXTE
 NE O
 - O
 SO O
@@ -15856,7 +15684,7 @@ F3.0 O
 
 x O
 3 O
-fossé O
+fossé B-CONTEXTE
 NO O
 - O
 SE O
@@ -15872,7 +15700,7 @@ F3.07 O
 3.09 O
 x O
 3 O
-mur O
+mur B-CONTEXTE
 NE O
 - O
 SO O
@@ -15880,10 +15708,10 @@ SO O
 l O
 : O
 0,60 O
-petits O
-appareils O
+petits B-MOB
+appareils I-MOB
 en O
-granit O
+granit B-MAT
 dans O
 matrice O
 limono O
@@ -15912,7 +15740,7 @@ us O
 de O
 recouvrement O
 des O
-murs O
+murs B-CONTEXTE
 F309 O
 et O
 F311 O
@@ -15925,7 +15753,7 @@ us32 O
 3.11 O
 x O
 3 O
-mur O
+mur B-CONTEXTE
 NO O
 - O
 SE O
@@ -15933,10 +15761,10 @@ SE O
 l O
 : O
 0,60 O
-petits O
-appareils O
+petits B-MOB
+appareils I-MOB
 en O
-granit O
+granit B-MAT
 dans O
 matrice O
 limono O
@@ -15952,7 +15780,7 @@ F3.1 O
 x O
 3 O
 6,8 O
-fossé O
+fossé B-CONTEXTE
 NE O
 - O
 SO O
@@ -15978,7 +15806,7 @@ F3.16 O
 3.13 O
 x O
 3 O
-fosse O
+fosse B-CONTEXTE
 0,80 O
 Ø O
 : O
@@ -15990,7 +15818,7 @@ brun O
 3.14 O
 x O
 3 O
-fossé O
+fossé B-CONTEXTE
 NO O
 - O
 SE O
@@ -16009,9 +15837,9 @@ F3.09 O
 3.15 O
 x O
 3 O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,85 O
 0,40x0,50 O
 0,10 O
@@ -16023,7 +15851,7 @@ clair O
 x O
 3 O
 8 O
-fosse O
+fosse B-CONTEXTE
 0,85 O
 
 l O
@@ -16054,7 +15882,7 @@ brun O
 avec O
 traces O
 de O
-coquillages O
+coquillages B-MOB
 ( O
 terre O
 amandée O
@@ -16187,7 +16015,7 @@ foncé O
 x O
 3 O
 démolition O
-murs O
+murs B-CONTEXTE
 3.09 O
 et O
 3.11 O
@@ -16342,7 +16170,7 @@ céramique B-MOB
 pâte O
 micacée O
 , O
-modelée O
+modelée B-TECH_STYLE
 Protohistoire B-CHRONO
 ou O
 Antiquité B-CHRONO
@@ -16373,8 +16201,8 @@ fragments O
 de O
 cruche B-MOB
 à O
-engobe O
-blanc O
+engobe B-TECH_STYLE
+blanc I-TECH_STYLE
 ? O
 
 Antiquité B-CHRONO
@@ -16470,9 +16298,9 @@ sd.2 O
 fragments O
 érodés O
 , O
-modelés O
+modelés B-TECH_STYLE
 ou O
-tournés O
+tournés B-TECH_STYLE
 ? O
 
 Protohistoire B-CHRONO
@@ -16527,7 +16355,7 @@ CE O
 1 O
 70 O
 fragment O
-modelé O
+modelé B-TECH_STYLE
 
 , O
 pâte O
@@ -16563,7 +16391,7 @@ m O
 26 O
 départ O
 de O
-anse B-MOB
+anse O
 ( O
 X O
 : O
@@ -16588,9 +16416,7 @@ M.CE.202.0014 O
 14 O
 CE O
 
-2.02 O
-
--0,30 O
+2.02-0,30 O
 
 à O
 -0,80 O
@@ -16606,8 +16432,8 @@ X O
 m O
 ) O
 , O
-fond B-MOB
-ombiliqué I-MOB
+fond O
+ombiliqué O
 à O
 pâte O
 grossière O
@@ -16693,7 +16519,7 @@ mode O
 B O
 , O
 marques O
-imprimées O
+imprimées B-TECH_STYLE
 avant O
 cuisson O
 , O
@@ -16721,14 +16547,14 @@ m O
 30 O
 fond O
 de O
-vase O
+vase B-MOB
 avec O
 traces O
 de O
 la O
 girelle O
 du O
-tour O
+tour B-TECH_STYLE
 ( O
 X O
 : O
@@ -16877,11 +16703,11 @@ défini O
 M.TC.207.0001 O
 
 01 O
-TC O
+TC B-MOB
 2.07 O
 calage O
 de O
-poteau O
+poteau B-MOB
 5 O
 1 O
 2182 O
@@ -16923,7 +16749,7 @@ AL287 O
 M.TC.306.0002 O
 
 02 O
-TC O
+TC B-MOB
 3.06 O
 5 O
 2 O
@@ -16948,7 +16774,7 @@ AL287 O
 M.TC.303.0003 O
 
 03 O
-TC O
+TC B-MOB
 3.03 O
 1 O
 1 O
@@ -16963,7 +16789,7 @@ AL287 O
 
 M.TC.106.0004 O
 04 O
-TC O
+TC B-MOB
 1.06 O
 
 sd.10 O
@@ -16998,7 +16824,7 @@ AL287 O
 M.TC.206.0005 O
 
 05 O
-TC O
+TC B-MOB
 2.06 O
 1 O
 1 O
@@ -17024,7 +16850,7 @@ AL287 O
 M.TC.109.0006 O
 
 06 O
-TC O
+TC B-MOB
 1.09 O
 1 O
 1 O
@@ -17038,7 +16864,7 @@ AL287 O
 M.TC.206.0007 O
 
 07 O
-TC O
+TC B-MOB
 2.06 O
 7 O
 2 O
@@ -17066,7 +16892,7 @@ AL287 O
 M.TC.212.0008 O
 
 08 O
-TC O
+TC B-MOB
 
 2.12 O
 1 O
@@ -17081,7 +16907,7 @@ AL287 O
 M.TC.307.0009 O
 
 09 O
-TC O
+TC B-MOB
 3.07 O
 sd.9 O
 
@@ -17096,7 +16922,7 @@ AL287 O
 
 M.TC.209.0010 O
 10 O
-TC O
+TC B-MOB
 2.09 O
 log O
 2 O
@@ -17114,7 +16940,7 @@ AL287 O
 M.TC.106.0011 O
 
 11 O
-TC O
+TC B-MOB
 1.06 O
 1 O
 1 O
@@ -17131,7 +16957,7 @@ AL287 O
 M.TC.117.0012 O
 
 12 O
-TC O
+TC B-MOB
 1.17 O
 1 O
 1 O
@@ -17144,7 +16970,7 @@ AL287 O
 M.TC.212.0013 O
 
 13 O
-TC O
+TC B-MOB
 2.12 O
 2.12/- O
 0,30 O
@@ -17173,7 +16999,7 @@ AL287 O
 
 M.TC.312.0014 O
 14 O
-TC O
+TC B-MOB
 3.12 O
 2 O
 1 O
@@ -17198,7 +17024,7 @@ AL287 O
 M.TC.106.0015 O
 
 15 O
-TC O
+TC B-MOB
 1.06 O
 
 nettoyage O
@@ -17356,7 +17182,7 @@ définit O
 M.TC.202.0016 O
 
 16 O
-TC O
+TC B-MOB
 2.02 O
 -0,30 O
 à O
@@ -17421,7 +17247,7 @@ médiéval B-CHRONO
 AL287 O
 M.TC.212.0017 O
 17 O
-TC O
+TC B-MOB
 2.12 O
 2.12/- O
 0,40 O
@@ -17458,7 +17284,7 @@ AL287 O
 M.TC.314.0018 O
 
 18 O
-TC O
+TC B-MOB
 3.14 O
 3 O
 1 O
@@ -17470,7 +17296,7 @@ AL287 O
 M.TC.213.0019 O
 
 19 O
-TC O
+TC B-MOB
 2.13 O
 2.13/- O
 
@@ -17507,7 +17333,7 @@ AL287 O
 M.TC.122.0020 O
 
 20 O
-TC O
+TC B-MOB
 1.22 O
 
 1.22/- O
@@ -17532,7 +17358,7 @@ AL287 O
 M.TC.212.0021 O
 
 21 O
-TC O
+TC B-MOB
 2.12 O
 2.12/- O
 0,30 O
@@ -17584,7 +17410,7 @@ AL287 O
 
 M.TC.106.0022 O
 22 O
-TC O
+TC B-MOB
 1.06 O
 4 O
 1 O
@@ -17626,7 +17452,7 @@ très O
 homogène O
 . O
 
-Façonnage O
+Façonnage B-TECH_STYLE
 de O
 qualité O
 . O
@@ -17634,9 +17460,7 @@ qualité O
 tegulae B-MOB
 2e B-CHRONO
 moitié I-CHRONO
-IIe I-CHRONO
-
-- O
+IIe- I-CHRONO
 1ère O
 moitié O
 
@@ -17756,9 +17580,9 @@ LT O
 m O
 1 O
 24 O
-ardoise O
-avec O
-perforation O
+ardoise B-MOB
+avec I-MOB
+perforation I-MOB
 . O
 
 Ép O
@@ -17786,9 +17610,9 @@ LT O
 m O
 1 O
 42 O
-ardoise O
-avec O
-perforation O
+ardoise B-MOB
+avec I-MOB
+perforation I-MOB
 . O
 
 Ép O
@@ -17812,9 +17636,9 @@ LT O
 1.02 O
 1 O
 26 O
-ardoise O
-avec O
-perforation O
+ardoise B-MOB
+avec I-MOB
+perforation I-MOB
 . O
 
 Ép O
@@ -18087,9 +17911,7 @@ Gestionnaire O
 de O
 collections O
 E.FO.US.001 O
-liasse O
-
-- O
+liasse- O
 relevés O
 des O
 tranchées O
@@ -18516,9 +18338,7 @@ détaillé O
 de O
 la O
 documentation O
-numérique O
-
-- O
+numérique- O
 Documents O
 
 Excel O
@@ -18583,9 +18403,7 @@ cadastral O
 ( O
 commune O
 de O
-Saint O
-
--Lyphard_sections O
+Saint-Lyphard_sections O
 ZV O
 / O
 commune O
@@ -18732,14 +18550,10 @@ Fig O
 . O
 
 Les O
-fossés O
-sud O
-
--est O
+fossés B-CONTEXTE
+sud-est O
 / O
-nord O
-
--ouest O
+nord-ouest O
 
 Illustrator O
 
@@ -18756,14 +18570,10 @@ Fig O
 . O
 
 Les O
-fossés O
-sud O
-
--ouest O
+fossés B-CONTEXTE
+sud-ouest O
 / O
-nord O
-
--est O
+nord-est O
 Illustrator O
 CS4 O
 équipe O
@@ -18816,11 +18626,11 @@ Fig O
 
 Les O
 autres O
-fosses O
+fosses B-CONTEXTE
 et O
-trous O
-de O
-poteaux O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteaux I-CONTEXTE
 Illustrator O
 
 CS4 O
@@ -18874,7 +18684,7 @@ Mobilier B-MOB
 macrolithique I-MOB
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 F1.16 O
 ( O
 DAO O
@@ -18911,9 +18721,7 @@ E2 O
 et O
 1825 O
 ( O
-Saint O
-
--Lyphard_section O
+Saint-Lyphard_section O
 G2 O
 ) O
 
@@ -19702,7 +19510,7 @@ F101 O
 Inrap O
 févr-2 O
 N.IM.FO.0049 O
-Mur O
+Mur B-CONTEXTE
 101 O
 au O
 niveau O
@@ -19802,7 +19610,7 @@ févr-2 O
 N.IM.FO.0054 O
 
 détai O
-mur O
+mur B-CONTEXTE
 DSCN0081 O
 
 NO O
@@ -20058,7 +19866,7 @@ févr-2 O
 N.IM.FO.0072 O
 
 détail O
-radier O
+radier B-CONTEXTE
 au O
 niveau O
 de O
@@ -20075,7 +19883,7 @@ févr-2 O
 
 N.IM.FO.0073 O
 détail O
-radier O
+radier B-CONTEXTE
 au O
 niveau O
 de O
@@ -20090,7 +19898,7 @@ F101 O
 Inrap O
 févr-2 O
 N.IM.FO.0074 O
-radier O
+radier B-CONTEXTE
 au O
 niveau O
 de O
@@ -20691,7 +20499,7 @@ N.IM.FO.0109 O
 vue O
 geotextile O
 sur O
-maçonnerie O
+maçonnerie B-CONTEXTE
 F101 O
 DSCN0144 O
 NE O
@@ -20743,7 +20551,7 @@ vue O
 geotextile O
 
 sur O
-maçonnerie O
+maçonnerie B-CONTEXTE
 F101 O
 
 DSCN0150 O
@@ -20860,9 +20668,9 @@ entité O
 069 O
 0198 O
 ( O
-inhumation O
+inhumation B-CONTEXTE
 et O
-nécropole O
+nécropole B-CONTEXTE
 – O
 Antiquité B-CHRONO
 / O
@@ -20904,32 +20712,32 @@ répartissent O
 entre O
 sections O
 de O
-fossés O
+fossés B-CONTEXTE
 , O
-fosses O
+fosses B-CONTEXTE
 , O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 et O
-maçonneries O
+maçonneries B-CONTEXTE
 inscrits O
-entre O
-la O
-fin B-CHRONO
-de I-CHRONO
-la I-CHRONO
-Protohistoire I-CHRONO
-et O
-le O
-Moyen B-CHRONO
-Âge I-CHRONO
+entre B-INTERVALLE
+la I-INTERVALLE
+fin I-INTERVALLE
+de I-INTERVALLE
+la I-INTERVALLE
+Protohistoire I-INTERVALLE
+et I-INTERVALLE
+le I-INTERVALLE
+Moyen I-INTERVALLE
+Âge I-INTERVALLE
 . O
 
 Un O
 réseau O
 de O
-canalisations O
+canalisations B-CONTEXTE
 contemporaines B-CHRONO
 est O
 également O
@@ -21008,15 +20816,11 @@ partie O
 des O
 sections O
 de O
-fossés O
+fossés B-CONTEXTE
 orientées O
-sud O
-
--est O
+sud-est O
 / O
-nord O
-
--ouest O
+nord-ouest O
 . O
 
 La O
@@ -21045,24 +20849,24 @@ continuité O
 de O
 l’ O
 occupation O
-entre O
-La O
-Protohistoire B-CHRONO
-et O
-l’ O
-Antiquité B-CHRONO
+entre B-INTERVALLE
+La I-INTERVALLE
+Protohistoire I-INTERVALLE
+et I-INTERVALLE
+l’ I-INTERVALLE
+Antiquité I-INTERVALLE
 . O
 
 Un O
 petit O
-enclos O
-quadrangulaire O
+enclos B-CONTEXTE
+quadrangulaire I-CONTEXTE
 ( O
 E.1 O
 ) O
 et O
 un O
-fossé O
+fossé B-CONTEXTE
 ( O
 F1.13 O
 ) O
@@ -21091,7 +20895,7 @@ de I-MOB
 mouture I-MOB
 ( O
 en O
-remploi O
+remploi B-TECH_STYLE
 dans O
 F1.16 O
 ) O
@@ -21123,9 +20927,9 @@ prononcée O
 . O
 
 Un O
-bâtiment O
-sur O
-poteaux O
+bâtiment B-CONTEXTE
+sur I-CONTEXTE
+poteaux I-CONTEXTE
 ( O
 E.2 O
 ) O
@@ -21137,16 +20941,16 @@ précédemment O
 cités O
 et O
 le O
-remploi O
+remploi B-TECH_STYLE
 de O
-matériaux O
-de O
-construction O
+matériaux B-MOB
+de I-MOB
+construction I-MOB
 dans O
 le O
 calage O
 de O
-poteaux O
+poteaux B-MOB
 pourraient O
 suggérer O
 une O
@@ -21218,7 +21022,7 @@ individus O
 La O
 datation O
 des O
-murs O
+murs B-CONTEXTE
 de O
 l’ O
 ensemble O
@@ -21243,14 +21047,12 @@ sud O
 - O
 ouest O
 / O
-nord O
-
--est O
+nord-est O
 et O
 réalisé O
 en O
-petit O
-appareil O
+petit B-TECH_STYLE
+appareil I-TECH_STYLE
 a O
 été O
 suivi O
@@ -21281,7 +21083,7 @@ recueilli O
 en O
 surface O
 des O
-maçonneries O
+maçonneries B-CONTEXTE
 est O
 rare O
 et O
@@ -21305,14 +21107,14 @@ d’ O
 envisager O
 une O
 construction O
-entre O
-l’ O
-Antiquité B-CHRONO
-et O
-le O
-second B-CHRONO
-Moyen I-CHRONO
-Âge I-CHRONO
+entre B-INTERVALLE
+l’ I-INTERVALLE
+Antiquité I-INTERVALLE
+et I-INTERVALLE
+le I-INTERVALLE
+second I-INTERVALLE
+Moyen I-INTERVALLE
+Âge I-INTERVALLE
 . O
 
 C’ O
@@ -21351,7 +21153,7 @@ demande O
 être O
 précisée O
 ( O
-léproserie O
+léproserie B-CONTEXTE
 ou O
 caquinerie O
 ) O
@@ -21364,7 +21166,7 @@ Madeleine O
 » O
 et O
 la O
-chapelle O
+chapelle B-CONTEXTE
 dédiée O
 à O
 sainte O
@@ -21437,26 +21239,26 @@ thèmes O
 
 Artisanat O
 
-Bâtiment O
-bois O
+Bâtiment B-CONTEXTE
+bois B-MAT
 
-Bâtiment O
+Bâtiment B-CONTEXTE
 
-maçonné O
-Enclos O
-Fosse O
+maçonné B-TECH_STYLE
+Enclos B-CONTEXTE
+Fosse B-CONTEXTE
 
-Fossé O
+Fossé B-CONTEXTE
 
 Habitat O
 rural O
 
-Structure O
-agraire O
+Structure B-CONTEXTE
+agraire I-CONTEXTE
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 
 Mobilier O
 
@@ -21483,9 +21285,7 @@ Bignon O
 CS O
 67737 O
 35577 O
-Cesson O
-
--Sévigné O
+Cesson-Sévigné O
 Cedex O
 Tél O
 . O
@@ -21510,9 +21310,7 @@ Guérande O
 ( O
 44 O
 069 O
-) O
-
-- O
+)- O
 23 O
 rue O
 des O
@@ -21618,9 +21416,7 @@ de O
 désignation O
 N O
 ° O
-2019 O
-
--890 O
+2019-890 O
 du O
 9 O
 décembre O
@@ -21631,11 +21427,7 @@ désignation O
 modificatif O
 N O
 ° O
-2020 O
-
-- O
-
-23 O
+2020-23 O
 du O
 13 O
 janvier O
@@ -21646,9 +21438,7 @@ de O
 prescription O
 N O
 ° O
-2019 O
-
--552 O
+2019-552 O
 du O
 16 O
 juillet O
@@ -21658,9 +21448,7 @@ d’ O
 attribution O
 N O
 ° O
-2019 O
-
--618 O
+2019-618 O
 du O
 31 O
 juillet O

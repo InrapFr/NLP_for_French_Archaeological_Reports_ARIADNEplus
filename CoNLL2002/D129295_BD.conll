@@ -45,9 +45,7 @@ du O
 Bignon O
 , O
 35577 O
-Cesson O
-
--Sévigné O
+Cesson-Sévigné O
 Tél O
 . O
 
@@ -89,11 +87,7 @@ désignation O
 du O
 responsable O
 scientifique O
-2019 O
-
-- O
-
-881 O
+2019-881 O
 
 Code O
 
@@ -373,7 +367,7 @@ p. O
 
 L’ O
 étude O
-céramique B-MOB
+céramique O
 
 IV O
 Inventaires O
@@ -434,9 +428,7 @@ Commune O
 Martigné-sur-Mayenne O
 Adresse O
 ou O
-lieu O
-
--dit O
+lieu-dit O
 Rues O
 de O
 Véga O
@@ -563,9 +555,7 @@ l’ O
 arrêté O
 de O
 prescription O
-2019 O
-
--476 O
+2019-476 O
 du O
 11 O
 juin O
@@ -602,9 +592,7 @@ désignation O
 du O
 responsable O
 scientifique O
-2019 O
-
--881 O
+2019-881 O
 du O
 6 O
 décembre O
@@ -650,9 +638,7 @@ Bignon O
 CS67737 O
 35577 O
 
-Cesson O
-
--Sévigné O
+Cesson-Sévigné O
 Cedex O
 
 Dates O
@@ -950,7 +936,7 @@ Céramologue O
 Datation O
 de O
 la O
-céramique O
+céramique B-MOB
 , O
 inventaire O
 du O
@@ -1080,9 +1066,7 @@ Mayenne O
 Commune O
 Martigné-sur-Mayenne O
 
-Lieu O
-
--dit O
+Lieu-dit O
 RUES O
 DE O
 VEGA O
@@ -1125,16 +1109,10 @@ projet O
 
 Initiale O
 
-2019 O
-
--476 O
+2019-476 O
 14 O
 - O
-06 O
-
-- O
-
-2019 O
+06-2019 O
 2003 O
 m² O
 18/07/2019 O
@@ -1180,7 +1158,7 @@ prévisionnel O
 Spécialité O
 : O
 
-Médiéval O
+Médiéval B-CHRONO
 3.- O
 
 Contraintes O
@@ -1325,9 +1303,7 @@ de O
 prescription O
 
 n° O
-2019 O
-
--476 O
+2019-476 O
 du O
 11 O
 juin O
@@ -1643,9 +1619,9 @@ et O
 le O
 mobilier O
 des O
-viie B-CHRONO
-/xe B-CHRONO
-siècles I-CHRONO
+viie B-INTERVALLE
+/xe I-INTERVALLE
+siècles I-INTERVALLE
 recueilli O
 un O
 peu O
@@ -1679,7 +1655,7 @@ et O
 carolingienne B-CHRONO
 de O
 la O
-villa O
+villa B-CONTEXTE
 de O
 Martigné O
 . O
@@ -1729,17 +1705,17 @@ nouveau O
 . O
 
 Les O
-fosses O
+fosses B-CONTEXTE
 aux O
 fonctions O
 incertaines O
 et O
 deux O
-fossés O
+fossés B-CONTEXTE
 des O
-xve B-CHRONO
-/xvie B-CHRONO
-siècle I-CHRONO
+xve B-INTERVALLE
+/xvie I-INTERVALLE
+siècle I-INTERVALLE
 se O
 répartissent O
 plus O
@@ -1753,7 +1729,7 @@ projet O
 
 Un O
 des O
-fossés O
+fossés B-CONTEXTE
 , O
 large O
 d’ O
@@ -1831,7 +1807,7 @@ suivant O
 pour O
 que O
 des O
-habitations O
+habitations B-CONTEXTE
 soient O
 construites O
 en O
@@ -1916,7 +1892,7 @@ de O
 m O
 de O
 son O
-église O
+église B-CONTEXTE
 pour O
 les O
 parcelles O
@@ -1971,7 +1947,7 @@ ouest O
 Notons O
 que O
 l’ O
-église O
+église B-CONTEXTE
 et O
 la O
 zone O
@@ -1990,10 +1966,10 @@ vallée O
 . O
 
 Un O
-lavoir O
+lavoir B-CONTEXTE
 et O
 plusieurs O
-bassins O
+bassins B-CONTEXTE
 y O
 sont O
 aménagés O
@@ -2067,13 +2043,13 @@ par O
 une O
 dalle O
 de O
-mortier O
+mortier B-MAT
 et O
 l’ O
 emprise O
 d’ O
 un O
-bâtiment O
+bâtiment B-CONTEXTE
 fraichement O
 démoli O
 . O
@@ -2119,10 +2095,10 @@ avec O
 au O
 fond O
 le O
-clocher O
+clocher B-CONTEXTE
 de O
 l’ O
-église O
+église B-CONTEXTE
 de O
 Martigné-sur-Mayenne O
 . O
@@ -2256,11 +2232,11 @@ B O
 rest O
 à O
 Paris O
-Presbytère O
+Presbytère B-CONTEXTE
 
-Cimetière O
+Cimetière B-CONTEXTE
 
-Eglise O
+Eglise B-CONTEXTE
 
 Le O
 Port O
@@ -2513,9 +2489,7 @@ n° O
 . O
 
 Phases O
-chrono O
-
--culturelles O
+chrono-culturelles O
 
 Âge B-CHRONO
 du I-CHRONO
@@ -2610,9 +2584,7 @@ et O
 de O
 la O
 Communication,@ O
-2010 O
-
-- O
+2010- O
 IGN O
 Géoportail O
 ) O
@@ -2627,8 +2599,8 @@ la O
 forme O
 d’ O
 un O
-enclos O
-rectiligne O
+enclos B-CONTEXTE
+rectiligne I-CONTEXTE
 d’ O
 environ O
 15 O
@@ -2650,7 +2622,7 @@ cette O
 période O
 , O
 l’ O
-oppidum O
+oppidum B-CONTEXTE
 du O
 Tertre O
 Ramier O
@@ -2669,8 +2641,8 @@ cité O
 . O
 
 Cet O
-éperon O
-barré O
+éperon B-CONTEXTE
+barré I-CONTEXTE
 , O
 qui O
 domine O
@@ -2703,7 +2675,7 @@ devait O
 probablement O
 contrôler O
 un O
-gué O
+gué B-CONTEXTE
 sur O
 la O
 Mayenne O
@@ -2722,7 +2694,7 @@ avant O
 que O
 les O
 premiers O
-ponts O
+ponts B-CONTEXTE
 médiévaux B-CHRONO
 ne O
 soient O
@@ -2751,16 +2723,16 @@ constitué O
 par O
 à O
 un O
-fossé O
+fossé B-CONTEXTE
 du O
 haut B-CHRONO
 Moyen I-CHRONO
 Âge I-CHRONO
 ( O
-viiie B-CHRONO
-/ O
-xe B-CHRONO
-siècles I-CHRONO
+viiie B-INTERVALLE
+/ I-INTERVALLE
+xe I-INTERVALLE
+siècles I-INTERVALLE
 ) O
 de O
 près O
@@ -2777,9 +2749,7 @@ un O
 diagnostic O
 réalisé O
 au O
-lieu O
-
--dit O
+lieu-dit O
 le O
 « O
 Clos O
@@ -2821,8 +2791,8 @@ habitat O
 . O
 
 Une O
-motte O
-castrale O
+motte B-CONTEXTE
+castrale I-CONTEXTE
 mentionnée O
 dès O
 1549 B-CHRONO
@@ -2832,9 +2802,7 @@ sud O
 du O
 bourg O
 au O
-lieu O
-
--dit O
+lieu-dit O
 La O
 Motte O
 d’ O
@@ -2898,7 +2866,7 @@ les O
 limites O
 de O
 plusieurs O
-enclos O
+enclos B-CONTEXTE
 dont O
 un O
 , O
@@ -2912,7 +2880,7 @@ les O
 limites O
 d’ O
 une O
-basse-cour O
+basse-cour B-CONTEXTE
 ( O
 Fig.6 O
 ) O
@@ -2928,7 +2896,7 @@ encore O
 des O
 portions O
 de O
-fossés O
+fossés B-CONTEXTE
 en O
 eau O
 , O
@@ -2948,7 +2916,7 @@ de O
 ce O
 passage O
 à O
-gué O
+gué B-CONTEXTE
 n’ O
 est O
 pas O
@@ -2967,8 +2935,8 @@ effet O
 habituel O
 que O
 des O
-mottes O
-castrales O
+mottes B-CONTEXTE
+castrales I-CONTEXTE
 soient O
 établies O
 sur O
@@ -2997,14 +2965,14 @@ eau O
 auprès O
 de O
 ces O
-mottes O
+mottes B-CONTEXTE
 permettaient O
 également O
 d’ O
 en O
 alimenter O
 les O
-fossés O
+fossés B-CONTEXTE
 ( O
 opus O
 cit O
@@ -3027,7 +2995,7 @@ les O
 traces O
 de O
 deux O
-enclos O
+enclos B-CONTEXTE
 au O
 lieu O
 - O
@@ -3040,8 +3008,8 @@ Aron O
 . O
 
 Ce O
-complexe O
-fossoyé O
+complexe B-CONTEXTE
+fossoyé I-CONTEXTE
 , O
 dont O
 il O
@@ -3052,14 +3020,14 @@ les O
 limites O
 d’ O
 une O
-basse-cour O
+basse-cour B-CONTEXTE
 , O
 conserve O
 alors O
 quelques O
 tronçons O
 des O
-fossés O
+fossés B-CONTEXTE
 encore O
 en O
 eau O
@@ -3075,7 +3043,7 @@ d’ O
 un O
 passage O
 à O
-gué O
+gué B-CONTEXTE
 . O
 
 ( O
@@ -3095,12 +3063,12 @@ Geslin O
 . O
 
 L’ O
-église O
+église B-CONTEXTE
 Saint-Georges O
 , O
 conserve O
 un O
-chevet O
+chevet B-CONTEXTE
 de O
 la O
 fin B-CHRONO
@@ -3109,7 +3077,7 @@ Moyen I-CHRONO
 Âge I-CHRONO
 dont O
 le O
-fenestrage O
+fenestrage B-CONTEXTE
 a O
 sans O
 doute O
@@ -3133,13 +3101,13 @@ n° O
 Avant O
 que O
 la O
-nef O
+nef B-CONTEXTE
 ne O
 soit O
 élargie O
 au O
-xixe O
-siècle O
+xixe B-CHRONO
+siècle I-CHRONO
 , O
 on O
 signale O
@@ -3153,10 +3121,10 @@ existait O
 encore O
 des O
 petites O
-fenêtres O
+fenêtres B-CONTEXTE
 et O
 un O
-portail O
+portail B-CONTEXTE
 ouest O
 à O
 double O
@@ -3193,7 +3161,7 @@ au O
 niveau O
 de O
 cette O
-église O
+église B-CONTEXTE
 appartient O
 à O
 un O
@@ -3203,19 +3171,19 @@ d’ O
 angle O
 de O
 son O
-chevet O
+chevet B-CONTEXTE
 . O
 
 Au O
 moins O
 un O
-bloc O
+bloc B-MOB
 de O
-remploi O
+remploi B-TECH_STYLE
 d’ O
 une O
-pierre O
-tombale O
+pierre B-CONTEXTE
+tombale I-CONTEXTE
 est O
 visible O
 ( O
@@ -3226,7 +3194,7 @@ Fig.7 O
 Les O
 vestiges O
 de O
-gravure O
+gravure B-TECH_STYLE
 qu’ O
 il O
 conserve O
@@ -3250,18 +3218,18 @@ sont O
 visibles O
 sur O
 les O
-pierres O
-tombales O
+pierres B-CONTEXTE
+tombales I-CONTEXTE
 qui O
 composent O
 la O
 base O
 du O
-mur O
+mur B-CONTEXTE
 sud O
 de O
 la O
-nef O
+nef B-CONTEXTE
 de O
 Notre-Dame O
 de O
@@ -3282,22 +3250,22 @@ une O
 des O
 allées O
 du O
-cimetière O
+cimetière B-CONTEXTE
 de O
 l’ O
-église O
+église B-CONTEXTE
 de O
 Moulay O
 et O
 dans O
 les O
-murs O
+murs B-CONTEXTE
 du O
-presbytère O
+presbytère B-CONTEXTE
 de O
 l’ O
 ancienne O
-église O
+église B-CONTEXTE
 Saint-Tugal O
 à O
 Laval O
@@ -3308,15 +3276,15 @@ type O
 d’ O
 élément O
 de O
-pierre O
-tombale O
+pierre B-CONTEXTE
+tombale I-CONTEXTE
 est O
 habituellement O
 attribué O
 aux O
-xiie B-CHRONO
-/xiiie B-CHRONO
-siècles I-CHRONO
+xiie B-INTERVALLE
+/xiiie I-INTERVALLE
+siècles I-INTERVALLE
 . O
 
 Le O
@@ -3353,18 +3321,18 @@ Fig.8 O
 : O
 
 Les O
-pierres O
-tombales O
-remployées O
+pierres B-CONTEXTE
+tombales I-CONTEXTE
+remployées B-TECH_STYLE
 à O
 la O
 base O
 du O
-mur O
+mur B-CONTEXTE
 sud O
 de O
 la O
-nef O
+nef B-CONTEXTE
 de O
 Notre O
 Dame O
@@ -3385,14 +3353,14 @@ Fig.7 O
 Fragment O
 d’ O
 une O
-pierre O
-tombale O
+pierre B-CONTEXTE
+tombale I-CONTEXTE
 des O
-XIIe B-CHRONO
-/ O
-XIIIe B-CHRONO
-siècle I-CHRONO
-réemployé O
+XIIe B-INTERVALLE
+/ I-INTERVALLE
+XIIIe I-INTERVALLE
+siècle I-INTERVALLE
+réemployé B-TECH_STYLE
 dans O
 le O
 contrefort O
@@ -3400,11 +3368,11 @@ d’ O
 angle O
 nord-est O
 du O
-chevet O
-plat O
+chevet B-CONTEXTE
+plat I-CONTEXTE
 de O
 l’ O
-église O
+église B-CONTEXTE
 de O
 Martigné O
 . O
@@ -3417,9 +3385,7 @@ Valais O
 Inrap O
 . O
 
-2.2 O
-
-- O
+2.2- O
 Les O
 éléments O
 livrés O
@@ -3428,7 +3394,7 @@ les O
 archives O
 
 Une O
-villa O
+villa B-CONTEXTE
 de O
 Martignaco O
 est O
@@ -3949,9 +3915,9 @@ s’ O
 agit O
 d’ O
 une O
-conduite O
-d’ O
-eau O
+conduite B-CONTEXTE
+d’ I-CONTEXTE
+eau I-CONTEXTE
 en O
 ciment O
 de O
@@ -3974,7 +3940,7 @@ F.18)(Fig.10 O
 . O
 
 Le O
-fossé O
+fossé B-CONTEXTE
 F.19 O
 a O
 été O
@@ -4038,15 +4004,15 @@ céramique B-MOB
 lavalloise I-MOB
 àdes O
 tessons B-MOB
-de O
-grès O
-sombre O
-normand O
+de I-MOB
+grès I-MOB
+sombre I-MOB
+normand I-MOB
 de O
 la O
-fin O
-du O
-xve B-CHRONO
+fin B-CHRONO
+du I-CHRONO
+xve I-CHRONO
 et O
 du O
 xvie B-CHRONO
@@ -4123,7 +4089,7 @@ structures O
 . O
 
 La O
-fosse O
+fosse B-CONTEXTE
 F.3 O
 , O
 qui O
@@ -4257,7 +4223,7 @@ F. O
 Fait O
 2 O
 : O
-Fossé O
+Fossé B-CONTEXTE
 orienté O
 SO O
 / O
@@ -4280,9 +4246,9 @@ parallèles O
 en O
 fond O
 de O
-fossé O
+fossé B-CONTEXTE
 , O
-ornières O
+ornières B-CONTEXTE
 probable O
 retrouvées O
 dans O
@@ -4418,7 +4384,7 @@ sondage O
 et O
 coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 F. O
 2 O
 . O
@@ -4477,13 +4443,13 @@ du O
 Moyen I-CHRONO
 Âge I-CHRONO
 ( O
-entre O
-le O
-viie B-CHRONO
-et O
-le O
-xe B-CHRONO
-siècle I-CHRONO
+entre B-INTERVALLE
+le I-INTERVALLE
+viie I-INTERVALLE
+et I-INTERVALLE
+le I-INTERVALLE
+xe I-INTERVALLE
+siècle I-INTERVALLE
 ) O
 . O
 
@@ -4599,13 +4565,13 @@ s’ O
 agit O
 d’ O
 une O
-fosse O
+fosse B-CONTEXTE
 ou O
 d’ O
 un O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 . O
 
 Le O
@@ -4648,7 +4614,7 @@ F.4 O
 . O
 
 La O
-fosse O
+fosse B-CONTEXTE
 F.7 O
 dont O
 l’ O
@@ -4685,13 +4651,13 @@ un O
 fragment O
 de O
 tuile B-MOB
-gallo-romaine B-CHRONO
+gallo-romaine B-CONTEXTE
 associé O
 à O
 5 O
-fragments O
-de O
-céramique B-MOB
+fragments B-MOB
+de I-MOB
+céramique I-MOB
 moderne B-CHRONO
 . O
 
@@ -4703,8 +4669,8 @@ F.6 O
 constituent O
 deux O
 modestes O
-fossés O
-parallèles O
+fossés B-CONTEXTE
+parallèles I-CONTEXTE
 séparés O
 par O
 un O
@@ -4771,7 +4737,7 @@ bien O
 plus O
 à O
 des O
-ornières O
+ornières B-CONTEXTE
 vu O
 leur O
 gabarit O
@@ -4845,7 +4811,7 @@ de O
 structures O
 rassemble O
 plusieurs O
-fosses O
+fosses B-CONTEXTE
 ( O
 F.3 O
 et O
@@ -4854,9 +4820,9 @@ F.7 O
 , O
 peut-être O
 un O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 et O
 deux O
 structures O
@@ -4865,7 +4831,7 @@ qui O
 évoqueraient O
 plutôt O
 des O
-ornières O
+ornières B-CONTEXTE
 . O
 
 Si O
@@ -4912,7 +4878,7 @@ Moyen I-CHRONO
 , O
 comme O
 la O
-fosse O
+fosse B-CONTEXTE
 F.3 O
 et O
 peut-être O
@@ -4927,7 +4893,7 @@ autres O
 structures O
 , O
 la O
-fosse O
+fosse B-CONTEXTE
 F.7 O
 , O
 remonte O
@@ -4945,7 +4911,7 @@ qui O
 ressemble O
 à O
 deux O
-ornières O
+ornières B-CONTEXTE
 pourrait O
 indiquer O
 une O
@@ -5020,7 +4986,7 @@ Le O
 bord O
 d’ O
 un O
-fossé O
+fossé B-CONTEXTE
 ( O
 F.2 O
 ) O
@@ -5046,13 +5012,7 @@ sud O
 - O
 est O
 / O
-nord O
-
--nord O
-
-- O
-
-ouest O
+nord-nord-ouest O
 , O
 est O
 aménagée O
@@ -5081,7 +5041,7 @@ projet O
 . O
 
 Le O
-fossé O
+fossé B-CONTEXTE
 , O
 testée O
 à O
@@ -5250,9 +5210,9 @@ Moyen O
 Âge O
 ( O
 
-VIIe B-CHRONO
-/Xe B-CHRONO
-siècle I-CHRONO
+VIIe B-INTERVALLE
+/Xe I-INTERVALLE
+siècle I-INTERVALLE
 ) O
 
 Structures O
@@ -5268,10 +5228,10 @@ début O
 époque B-CHRONO
 moderne I-CHRONO
 ( O
-fin O
-XVe B-CHRONO
-/XVIe B-CHRONO
-siècles I-CHRONO
+fin B-INTERVALLE
+XVe I-INTERVALLE
+/XVIe I-INTERVALLE
+siècles I-INTERVALLE
 ) O
 
 Structure O
@@ -5292,9 +5252,9 @@ premier B-CHRONO
 Moyen I-CHRONO
 Âge I-CHRONO
 ( O
-VIIe B-CHRONO
-/Xe B-CHRONO
-siècle I-CHRONO
+VIIe B-INTERVALLE
+/Xe I-INTERVALLE
+siècle I-INTERVALLE
 ) O
 
 Structure O
@@ -5344,13 +5304,13 @@ Inrap O
 Fait O
 1 O
 , O
-mur O
-XIXe O
+mur B-CONTEXTE
+XIXe B-CHRONO
 constitué O
 de O
-blocs O
+blocs B-MOB
 de O
-granit O
+granit B-MAT
 de O
 longueur O
 maximum O
@@ -5547,7 +5507,7 @@ portion O
 de O
 coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 F. O
 2 O
 depuis O
@@ -5608,14 +5568,14 @@ encore O
 au O
 remplissage O
 du O
-fossé O
+fossé B-CONTEXTE
 . O
 
 L’ O
 US.2 O
 de O
 ce O
-fossé O
+fossé B-CONTEXTE
 F.2 O
 a O
 livré O
@@ -5646,9 +5606,9 @@ fragments O
 plus O
 anciens O
 des O
-viie B-CHRONO
-/xe B-CHRONO
-siècle I-CHRONO
+viie B-INTERVALLE
+/xe I-INTERVALLE
+siècle I-INTERVALLE
 tandis O
 . O
 
@@ -5663,7 +5623,7 @@ située O
 soit O
 au-dessus O
 du O
-fossé O
+fossé B-CONTEXTE
 ou O
 dans O
 la O
@@ -5675,9 +5635,9 @@ remplissage O
 , O
 date O
 des O
-xviie B-CHRONO
-/xviiie B-CHRONO
-siècle I-CHRONO
+xviie B-INTERVALLE
+/xviiie I-INTERVALLE
+siècle I-INTERVALLE
 ( O
 Fig.14 O
 ) O
@@ -5694,12 +5654,12 @@ permis O
 de O
 repérer O
 les O
-fondations O
+fondations B-CONTEXTE
 d’ O
 un O
-mur O
+mur B-CONTEXTE
 en O
-pierres O
+pierres B-MAT
 à O
 0,30 O
 m O
@@ -5716,9 +5676,9 @@ Cet O
 est O
 constitué O
 de O
-blocs O
+blocs B-MOB
 de O
-granit O
+granit B-MAT
 de O
 0,25 O
 m O
@@ -5729,7 +5689,7 @@ maximum O
 . O
 
 Ces O
-fondations O
+fondations B-CONTEXTE
 mesurent O
 0,70 O
 m O
@@ -5753,16 +5713,16 @@ l’ O
 orientation O
 de O
 cette O
-maçonnerie O
+maçonnerie B-CONTEXTE
 permet O
 de O
 l’ O
 attribuer O
 à O
 un O
-bâtiment O
-d’ O
-habitation O
+bâtiment B-CONTEXTE
+d’ I-CONTEXTE
+habitation I-CONTEXTE
 qui O
 a O
 été O
@@ -5809,7 +5769,7 @@ milieu O
 du O
 sondage O
 La O
-fosse O
+fosse B-CONTEXTE
 F.15 O
 est O
 aménagée O
@@ -5866,13 +5826,9 @@ de O
 longueur O
 ( O
 axe O
-nord O
-
--ouest O
+nord-ouest O
 / O
-sud O
-
--est O
+sud-est O
 ) O
 et O
 sur O
@@ -5950,13 +5906,13 @@ agit O
 -il O
 d’ O
 un O
-puissard O
+puissard B-CONTEXTE
 , O
 d’ O
 une O
-réserve O
-d’ O
-eau O
+réserve B-CONTEXTE
+d’ I-CONTEXTE
+eau I-CONTEXTE
 ? O
 
 Le O
@@ -5986,9 +5942,9 @@ de O
 panse O
 plutôt O
 du O
-viie B-CHRONO
-/xe B-CHRONO
-siècle I-CHRONO
+viie B-INTERVALLE
+/xe I-INTERVALLE
+siècle I-INTERVALLE
 ) O
 et O
 à O
@@ -6018,14 +5974,14 @@ parties O
 hautes O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 F.15 O
 ont O
 été O
 recoupées O
 par O
 la O
-fosse O
+fosse B-CONTEXTE
 F.14 O
 . O
 
@@ -6108,7 +6064,7 @@ Moyen I-CHRONO
 . O
 
 La O
-fosse O
+fosse B-CONTEXTE
 F.14 O
 est O
 à O
@@ -6117,7 +6073,7 @@ tour O
 recoupé O
 par O
 la O
-fosse O
+fosse B-CONTEXTE
 F.12 O
 . O
 
@@ -6190,7 +6146,7 @@ du O
 sondage O
 Trois O
 autres O
-fosses O
+fosses B-CONTEXTE
 ont O
 été O
 repérées O
@@ -6267,7 +6223,7 @@ orangé O
 . O
 
 La O
-fosse O
+fosse B-CONTEXTE
 F.10 O
 mesure O
 1,80 O
@@ -6391,7 +6347,7 @@ F. O
 9 O
 
 – O
-Fosse O
+Fosse B-CONTEXTE
 
 partiellement O
 dans O
@@ -6447,7 +6403,7 @@ ressemble O
 celui O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 F. O
 10 O
 . O
@@ -6456,7 +6412,7 @@ F. O
 10 O
 
 – O
-Fosse O
+Fosse B-CONTEXTE
 
 en O
 partie O
@@ -6497,7 +6453,7 @@ F. O
 11 O
 
 – O
-Fosse O
+Fosse B-CONTEXTE
 avec O
 bord O
 tapissé O
@@ -6506,7 +6462,7 @@ une O
 fine O
 couche O
 de O
-chaux O
+chaux B-MAT
 . O
 
 Fragment O
@@ -6540,7 +6496,7 @@ F. O
 12 O
 
 – O
-Fosse O
+Fosse B-CONTEXTE
 contemporaine B-CHRONO
 avec O
 en O
@@ -6675,7 +6631,7 @@ F. O
 15 O
 
 – O
-Fosse O
+Fosse B-CONTEXTE
 creusé O
 dans O
 le O
@@ -6732,7 +6688,7 @@ arène O
 . O
 
 Céram B-MOB
-. O
+. I-MOB
 
 Moderne B-CHRONO
 . O
@@ -6783,7 +6739,7 @@ le O
 fond O
 de O
 la O
-fossé O
+fossé B-CONTEXTE
 F. O
 
 15 O
@@ -6791,7 +6747,7 @@ F. O
 avec O
 fragments O
 d’ O
-ardoises O
+ardoises B-MOB
 en O
 surface O
 . O
@@ -6919,7 +6875,7 @@ le O
 nord O
 , O
 la O
-fosse O
+fosse B-CONTEXTE
 F.11 O
 n’ O
 a O
@@ -6971,7 +6927,7 @@ d’ O
 une O
 couche O
 de O
-chaux O
+chaux B-MAT
 et O
 son O
 remplissage O
@@ -7002,9 +6958,9 @@ structure O
 qui O
 évoque O
 un O
-bac O
-à O
-chaux O
+bac B-CONTEXTE
+à I-CONTEXTE
+chaux I-CONTEXTE
 . O
 
 Bilan O
@@ -7026,7 +6982,7 @@ la O
 découverte O
 de O
 plusieurs O
-fosses O
+fosses B-CONTEXTE
 . O
 
 Les O
@@ -7073,9 +7029,9 @@ quelques O
 tessons B-MOB
 redéposés O
 des O
-viie B-CHRONO
-/xe B-CHRONO
-siècle I-CHRONO
+viie B-INTERVALLE
+/xe I-INTERVALLE
+siècle I-INTERVALLE
 . O
 
 La O
@@ -7099,15 +7055,15 @@ au O
 plus O
 proposer O
 un O
-puisard O
+puisard B-CONTEXTE
 ou O
 une O
-réserve O
-d’ O
-eau O
+réserve B-CONTEXTE
+d’ I-CONTEXTE
+eau I-CONTEXTE
 pour O
 la O
-fosse O
+fosse B-CONTEXTE
 F.15 O
 . O
 
@@ -7143,16 +7099,16 @@ xixe B-CHRONO
 siècle I-CHRONO
 avec O
 la O
-fosse O
-à O
-chaux O
+fosse B-CONTEXTE
+à I-CONTEXTE
+chaux I-CONTEXTE
 F.11 O
 et O
 le O
 siècle O
 suivant O
 la O
-fosse O
+fosse B-CONTEXTE
 F.12 O
 et O
 les O
@@ -7192,7 +7148,7 @@ a O
 livré O
 un O
 petit O
-fossé O
+fossé B-CONTEXTE
 ( O
 F.19 O
 ) O
@@ -7244,9 +7200,9 @@ d’ O
 installation O
 d’ O
 une O
-conduite O
-d’ O
-eau O
+conduite B-CONTEXTE
+d’ I-CONTEXTE
+eau I-CONTEXTE
 usée O
 en O
 ciment O
@@ -7284,9 +7240,9 @@ qui O
 sont O
 attribués O
 au O
-viie B-CHRONO
-/xe B-CHRONO
-siècles I-CHRONO
+viie B-INTERVALLE
+/xe I-INTERVALLE
+siècles I-INTERVALLE
 ont O
 été O
 relevés O
@@ -7303,7 +7259,7 @@ rassemble O
 qu’ O
 une O
 grande O
-fosse O
+fosse B-CONTEXTE
 ( O
 F.3 O
 ) O
@@ -7325,7 +7281,7 @@ Les O
 probables O
 traces O
 d’ O
-ornières O
+ornières B-CONTEXTE
 leur O
 sont O
 postérieures O
@@ -7425,9 +7381,9 @@ diagnostic O
 remonte O
 donc O
 aux O
-xve B-CHRONO
-/xvie B-CHRONO
-siècles I-CHRONO
+xve B-INTERVALLE
+/xvie I-INTERVALLE
+siècles I-INTERVALLE
 . O
 
 Elle O
@@ -7435,7 +7391,7 @@ se O
 caractérise O
 par O
 des O
-fosses O
+fosses B-CONTEXTE
 réparties O
 dans O
 plusieurs O
@@ -7461,16 +7417,16 @@ A O
 cette O
 phase O
 des O
-xve B-CHRONO
-/xvie B-CHRONO
-siècle I-CHRONO
+xve B-INTERVALLE
+/xvie I-INTERVALLE
+siècle I-INTERVALLE
 , O
 on O
 peut O
 rajouter O
 le O
 large O
-fossé O
+fossé B-CONTEXTE
 F.2 O
 qui O
 longe O
@@ -7515,9 +7471,9 @@ grande O
 partie O
 comblé O
 aux O
-xviie B-CHRONO
-/xviiie B-CHRONO
-siècle I-CHRONO
+xviie B-INTERVALLE
+/xviiie I-INTERVALLE
+siècle I-INTERVALLE
 . O
 
 CONCLUSION O
@@ -7595,9 +7551,9 @@ et O
 le O
 mobilier O
 des O
-viie B-CHRONO
-/xe B-CHRONO
-siècles I-CHRONO
+viie B-INTERVALLE
+/xe I-INTERVALLE
+siècles I-INTERVALLE
 recueilli O
 un O
 peu O
@@ -7631,7 +7587,7 @@ et O
 carolingiennes B-CHRONO
 de O
 la O
-villa O
+villa B-CONTEXTE
 de O
 Martigné O
 . O
@@ -7682,17 +7638,17 @@ nouveau O
 . O
 
 Les O
-fosses O
+fosses B-CONTEXTE
 aux O
 fonctions O
 incertaines O
 et O
 deux O
-fossés O
+fossés B-CONTEXTE
 des O
-xve B-CHRONO
-/xvie B-CHRONO
-siècle I-CHRONO
+xve B-INTERVALLE
+/xvie I-INTERVALLE
+siècle I-INTERVALLE
 se O
 répartissent O
 plus O
@@ -7706,7 +7662,7 @@ projet O
 
 Un O
 des O
-fossés O
+fossés B-CONTEXTE
 , O
 large O
 d’ O
@@ -7784,7 +7740,7 @@ suivant O
 pour O
 que O
 des O
-habitations O
+habitations B-CONTEXTE
 soient O
 construites O
 en O
@@ -7806,9 +7762,7 @@ G O
 et O
 Ledru O
 A. O
-1902 O
-
-- O
+1902- O
 Actus O
 pontificum O
 cenomannis O
@@ -7834,9 +7788,7 @@ et O
 Froger O
 L. O
 , O
-1889 O
-
-- O
+1889- O
 Gesta O
 domini O
 Aldrici O
@@ -7854,19 +7806,15 @@ Mans O
 Gouvrion O
 E. O
 et O
-Grosse O
-
--Dupéron O
+Grosse-Dupéron O
 A. O
 , O
-1896 O
-
-- O
+1896- O
 Cartulaire O
 de O
 l’ O
-abbaye O
-cistercienne O
+abbaye B-CONTEXTE
+cistercienne I-CONTEXTE
 de O
 Fontaine-Daniel O
 , O
@@ -7877,28 +7825,24 @@ volumes O
 . O
 
 Bibliographie O
-Bocquet O
-
--Liénard O
+Bocquet-Liénard O
 A. O
 et O
 al O
 . O
 
-1999 O
-
-- O
+1999- O
 La O
 vaisselle B-MOB
-céramique O
+céramique B-MAT
 en O
 Normandie O
-du O
-XIVe B-CHRONO
-au O
-XVI B-CHRONO
-e I-CHRONO
-siècle I-CHRONO
+du B-INTERVALLE
+XIVe I-INTERVALLE
+au I-INTERVALLE
+XVI I-INTERVALLE
+e I-INTERVALLE
+siècle I-INTERVALLE
 et O
 le O
 PCR O
@@ -7908,12 +7852,12 @@ Typologie O
 de O
 la O
 céramique B-MOB
-bas-normande O
+bas-normande I-MOB
 
-Xe B-CHRONO
-- O
-XVIe B-CHRONO
-siècle I-CHRONO
+Xe B-INTERVALLE
+- I-INTERVALLE
+XVIe I-INTERVALLE
+siècle I-INTERVALLE
 » O
 , O
 in O
@@ -7969,8 +7913,8 @@ Bretagne O
 des O
 origines O
 au O
-Moyen O
-Âge O
+Moyen B-CHRONO
+Âge I-CHRONO
 ) O
 , O
 La O
@@ -7987,9 +7931,7 @@ n° O
 4 O
 . O
 
-Moréra O
-
--Vinçotte O
+Moréra-Vinçotte O
 I. O
 , O
 2012 O
@@ -7999,8 +7941,8 @@ Premières O
 synthèses O
 sur O
 les O
-productions O
-céramiques O
+productions B-MOB
+céramiques I-MOB
 de O
 sites O
 de O
@@ -8013,11 +7955,11 @@ Pays O
 de O
 la O
 Loire O
-du O
-Ve B-CHRONO
-au O
-XVe B-CHRONO
-siècle I-CHRONO
+du B-INTERVALLE
+Ve I-INTERVALLE
+au I-INTERVALLE
+XVe I-INTERVALLE
+siècle I-INTERVALLE
 . O
 
 In O
@@ -8067,9 +8009,7 @@ p.177 O
 Naveau O
 J. O
 , O
-1997 O
-
-- O
+1997- O
 Recherches O
 sur O
 Jublains O
@@ -8093,9 +8033,7 @@ Ouest O
 Naveau O
 J. O
 , O
-2001 O
-
-- O
+2001- O
 Les O
 potiers O
 lavallois O
@@ -8126,9 +8064,7 @@ p.47 O
 Séris O
 D. O
 , O
-2004 O
-
-- O
+2004- O
 Martigné-sur-Mayenne O
 ( O
 Mayenne O
@@ -8162,10 +8098,10 @@ avec O
 au O
 fond O
 le O
-clocher O
+clocher B-CONTEXTE
 de O
 l’ O
-église O
+église B-CONTEXTE
 de O
 Martigné-sur-Mayenne O
 . O
@@ -8259,7 +8195,7 @@ les O
 traces O
 de O
 deux O
-enclos O
+enclos B-CONTEXTE
 au O
 lieu O
 - O
@@ -8272,8 +8208,8 @@ Aron O
 . O
 
 Ce O
-complexe O
-fossoyé O
+complexe B-CONTEXTE
+fossoyé I-CONTEXTE
 , O
 dont O
 il O
@@ -8284,14 +8220,14 @@ les O
 limites O
 d’ O
 une O
-basse-cour O
+basse-cour B-CONTEXTE
 , O
 conserve O
 alors O
 quelques O
 tronçons O
 des O
-fossés O
+fossés B-CONTEXTE
 encore O
 en O
 eau O
@@ -8307,7 +8243,7 @@ d’ O
 un O
 passage O
 à O
-gué O
+gué B-CONTEXTE
 . O
 
 28 O
@@ -8316,13 +8252,13 @@ Fig.7 O
 Fragment O
 d’ O
 une O
-pierre O
-tombale O
+pierre B-CONTEXTE
+tombale I-CONTEXTE
 des O
-XIIe B-CHRONO
-/XIIIe B-CHRONO
-siècle I-CHRONO
-réemployé O
+XIIe B-INTERVALLE
+/XIIIe I-INTERVALLE
+siècle I-INTERVALLE
+réemployé B-TECH_STYLE
 dans O
 le O
 contrefort O
@@ -8330,11 +8266,11 @@ d’ O
 angle O
 nord-est O
 du O
-chevet O
-plat O
+chevet B-MAT
+plat I-MAT
 de O
 l’ O
-église O
+église B-CONTEXTE
 de O
 Martigné O
 . O
@@ -8344,18 +8280,18 @@ Fig.8 O
 : O
 
 Les O
-pierres O
-tombales O
-remployées O
+pierres B-CONTEXTE
+tombales I-CONTEXTE
+remployées B-TECH_STYLE
 à O
 la O
 base O
 du O
-mur O
+mur B-CONTEXTE
 sud O
 de O
 la O
-nef O
+nef B-CONTEXTE
 de O
 Notre O
 Dame O
@@ -8388,7 +8324,7 @@ sondage O
 et O
 coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 F. O
 2 O
 . O
@@ -8491,7 +8427,7 @@ portion O
 de O
 coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 F. O
 2 O
 depuis O
@@ -8586,7 +8522,7 @@ la O
 céramique B-MOB
 médiévale B-CHRONO
 et O
-moderne B-MOB
+moderne B-CHRONO
 . O
 
 48 O
@@ -8881,18 +8817,14 @@ rectangulaires O
 ) O
 sont O
 courantes O
-entre O
-les O
-viie B-CHRONO
-et O
-xe B-CHRONO
-siècles I-CHRONO
+entre B-INTERVALLE
+les I-INTERVALLE
+viie I-INTERVALLE
+et I-INTERVALLE
+xe I-INTERVALLE
+siècles I-INTERVALLE
 ( O
-Moréra O
-
-- O
-
-Vinçotte O
+Moréra-Vinçotte O
 2012 O
 : O
 181 O
@@ -8909,10 +8841,10 @@ l’ O
 époque B-CHRONO
 moderne I-CHRONO
 ( O
-fin B-CHRONO
-xve I-CHRONO
--xviiie B-CHRONO
-siècle I-CHRONO
+fin B-INTERVALLE
+xve I-INTERVALLE
+-xviiie I-INTERVALLE
+siècle I-INTERVALLE
 ) O
 . O
 
@@ -8961,10 +8893,10 @@ et O
 des O
 vases B-MOB
 en O
-grès O
-sombre O
-de O
-Normandie O
+grès B-MAT
+sombre I-MAT
+de I-MAT
+Normandie I-MAT
 ( O
 un O
 bord O
@@ -8972,7 +8904,7 @@ de O
 flacon B-MOB
 , O
 une O
-anse B-MOB
+anse O
 et O
 neuf O
 panses O
@@ -8999,9 +8931,7 @@ par O
 sondage O
 : O
 Sondage O
-2 O
-
-- O
+2- O
 décapage O
 ( O
 Fig.20 O
@@ -9076,7 +9006,7 @@ fond O
 doté O
 d’ O
 une O
-glaçure O
+glaçure B-TECH_STYLE
 interne O
 brune O
 ainsi O
@@ -9103,9 +9033,9 @@ panses O
 ) O
 et O
 des O
-grès O
-sombres O
-normands O
+grès B-MOB
+sombres I-MOB
+normands I-MOB
 de O
 Domfront O
 ( O
@@ -9122,9 +9052,7 @@ panses O
 Sd O
 . O
 
-2 O
-
-- O
+2- O
 CE O
 01 O
 Ech O
@@ -9160,9 +9088,7 @@ Inrap O
 . O
 
 Sondage O
-2 O
-
-- O
+2- O
 Fait O
 3 O
 
@@ -9190,19 +9116,17 @@ en O
 préciser O
 la O
 datation O
-entre O
-le O
-viie B-CHRONO
-et O
-le O
-xe B-CHRONO
-siècle I-CHRONO
+entre B-INTERVALLE
+le I-INTERVALLE
+viie I-INTERVALLE
+et I-INTERVALLE
+le I-INTERVALLE
+xe I-INTERVALLE
+siècle I-INTERVALLE
 . O
 
 Sondage O
-2 O
-
-- O
+2- O
 Fait O
 7 O
 
@@ -9216,10 +9140,10 @@ la O
 période B-CHRONO
 moderne I-CHRONO
 ( O
-fin O
-xve B-CHRONO
--xvie B-CHRONO
-siècle I-CHRONO
+fin B-INTERVALLE
+xve I-INTERVALLE
+-xvie I-INTERVALLE
+siècle I-INTERVALLE
 ) O
 . O
 
@@ -9243,15 +9167,11 @@ bleue O
 et O
 un O
 fragment O
-glaçuré O
+glaçuré B-TECH_STYLE
 . O
 
 Sondage O
-3 O
-
-- O
-
-US O
+3-US O
 1 O
 
 Le O
@@ -9264,9 +9184,9 @@ la O
 période B-CHRONO
 moderne I-CHRONO
 ( O
-xviie B-CHRONO
--xviiie B-CHRONO
-s. I-CHRONO
+xviie B-INTERVALLE
+-xviiie I-INTERVALLE
+s. I-INTERVALLE
 ) O
 
 et O
@@ -9283,7 +9203,7 @@ rosé O
 recouvert O
 d’ O
 une O
-glaçure O
+glaçure B-TECH_STYLE
 brune O
 sur O
 sa O
@@ -9294,16 +9214,14 @@ de O
 trois O
 panses O
 en O
-grès O
-sombre O
-de O
-Normandie O
+grès B-MAT
+sombre I-MAT
+de I-MAT
+Normandie I-MAT
 . O
 
 Sondage O
-2 O
-
-- O
+2- O
 Fait O
 2 O
 ( O
@@ -9326,13 +9244,13 @@ plus O
 anciens O
 , O
 datant O
-entre O
-le O
-viie B-CHRONO
-et O
-le O
-xe B-CHRONO
-siècle I-CHRONO
+entre B-INTERVALLE
+le I-INTERVALLE
+viie I-INTERVALLE
+et I-INTERVALLE
+le I-INTERVALLE
+xe I-INTERVALLE
+siècle I-INTERVALLE
 , O
 sont O
 un O
@@ -9383,7 +9301,7 @@ blanche O
 doté O
 d’ O
 une O
-glaçure O
+glaçure B-TECH_STYLE
 interne O
 verte O
 ( O
@@ -9401,15 +9319,13 @@ orange O
 lavalloise O
 datant O
 des O
-xve B-CHRONO
--xvie B-CHRONO
-siècles I-CHRONO
+xve B-INTERVALLE
+-xvie I-INTERVALLE
+siècles I-INTERVALLE
 . O
 
 Sondage O
-6 O
-
-- O
+6- O
 Fait O
 10 O
 
@@ -9442,9 +9358,7 @@ précise O
 . O
 
 Sondage O
-6 O
-
-- O
+6- O
 Fait O
 10 O
 ( O
@@ -9460,7 +9374,7 @@ d’ O
 une O
 plaque B-MOB
 en O
-fer O
+fer B-MAT
 indéterminée O
 et O
 d’ O
@@ -9481,23 +9395,21 @@ fiole B-MOB
 ou O
 flacon B-MOB
 en O
-grès O
-sombre O
-du O
-Domfrontais O
-de O
-Normandie O
+grès B-MAT
+sombre I-MAT
+du I-MAT
+Domfrontais I-MAT
+de I-MAT
+Normandie I-MAT
 datant O
 des O
-xve B-CHRONO
--xvie B-CHRONO
-siècles I-CHRONO
+xve B-INTERVALLE
+-xvie I-INTERVALLE
+siècles I-INTERVALLE
 . O
 
 Sondage O
-6 O
-
-- O
+6- O
 Fait O
 14 O
 ( O
@@ -9529,13 +9441,13 @@ granuleuse O
 grise O
 pouvant O
 dater O
-entre O
-le O
-viie B-CHRONO
-et O
-le O
-xe B-CHRONO
-siècle I-CHRONO
+entre B-INTERVALLE
+le I-INTERVALLE
+viie I-INTERVALLE
+et I-INTERVALLE
+le I-INTERVALLE
+xe I-INTERVALLE
+siècle I-INTERVALLE
 . O
 
 Les O
@@ -9543,9 +9455,9 @@ autres O
 vases B-MOB
 , O
 des O
-xve B-CHRONO
--xvie B-CHRONO
-siècles I-CHRONO
+xve B-INTERVALLE
+-xvie I-INTERVALLE
+siècles I-INTERVALLE
 , O
 sont O
 deux O
@@ -9553,15 +9465,13 @@ panses O
 dont O
 une O
 en O
-grès O
-du O
-Domfrontais O
+grès B-MAT
+du I-MAT
+Domfrontais I-MAT
 . O
 
 Sondage O
-6 O
-
-- O
+6- O
 Fait O
 15 O
 
@@ -9570,24 +9480,20 @@ vases B-MOB
 présents O
 sont O
 une O
-anse B-MOB
+anse O
 de O
 coquemar B-MOB
 à O
 pâte O
 grésée O
-beige O
-
-- O
-
-orangée O
+beige-orangée O
 lavalloise O
 
 datant O
 des O
-xve B-CHRONO
--xvie B-CHRONO
-siècles I-CHRONO
+xve B-INTERVALLE
+-xvie I-INTERVALLE
+siècles I-INTERVALLE
 et O
 deux O
 panses O
@@ -9606,25 +9512,21 @@ en O
 préciser O
 la O
 datation O
-entre O
-le O
-viie B-CHRONO
-et O
-le O
-xe B-CHRONO
-siècle I-CHRONO
+entre B-INTERVALLE
+le I-INTERVALLE
+viie I-INTERVALLE
+et I-INTERVALLE
+le I-INTERVALLE
+xe I-INTERVALLE
+siècle I-INTERVALLE
 . O
 
 Sd O
 . O
 
-3 O
-
-- O
+3- O
 F. O
-2 O
-
-- O
+2- O
 CE O
 
 05 O
@@ -9636,13 +9538,9 @@ Ech O
 Sd O
 . O
 
-6 O
-
-- O
+6- O
 F. O
-11 O
-
-- O
+11- O
 CE O
 07 O
 Ech O
@@ -9652,13 +9550,9 @@ Ech O
 Sd O
 . O
 
-6 O
-
-- O
+6- O
 F. O
-14 O
-
-- O
+14- O
 CE O
 2 O
 Ech O
@@ -9737,9 +9631,7 @@ Prof O
 . O
 
 Positif O
-néga O
-
--tif O
+néga-tif O
 Type O
 de O
 fait O
@@ -9753,9 +9645,7 @@ tion O
 longueur O
 largeur O
 Diamètre O
-Profon O
-
--deur O
+Profon-deur O
 Mob O
 . O
 
@@ -9776,14 +9666,14 @@ F. O
 1,5 O
 0,44 O
 1,5 O
-Conduite O
-d’ O
-eau O
+Conduite B-CONTEXTE
+d’ I-CONTEXTE
+eau I-CONTEXTE
 en O
 ciment O
 1 O
 X O
-fossé O
+fossé B-CONTEXTE
 F. O
 
 2 O
@@ -9792,11 +9682,7 @@ F. O
 1,3 O
 0,4 O
 non O
-préle O
-
-- O
-
-vée O
+préle-vée O
 
 céram B-MOB
 . I-MOB
@@ -9804,14 +9690,14 @@ céram B-MOB
 Laval O
 et O
 grès B-MOB
-normans O
+normans I-MOB
 2 O
 21,5 O
 1,5 O
 0,65 O
 
 X O
-fosse O
+fosse B-CONTEXTE
 F. O
 
 3 O
@@ -9824,13 +9710,13 @@ tuil B-MOB
 
 Gr B-CHRONO
 et O
-cér O
-VIIe B-CHRONO
-/ O
-Xe B-CHRONO
+cér B-MOB
+VIIe B-INTERVALLE
+/ I-INTERVALLE
+Xe I-INTERVALLE
 2 O
 X O
-ornière O
+ornière B-CONTEXTE
 ? O
 
 F. O
@@ -9841,9 +9727,9 @@ F. O
 0,1 O
 2 O
 X O
-TP O
+TP B-CONTEXTE
 ou O
-fosse O
+fosse B-CONTEXTE
 F. O
 5 O
 0,6 O
@@ -9856,7 +9742,7 @@ Tuil B-MOB
 GR B-CHRONO
 2 O
 X O
-ornière O
+ornière B-CONTEXTE
 ? O
 
 F. O
@@ -9867,7 +9753,7 @@ F. O
 0,1 O
 2 O
 X O
-Fosse O
+Fosse B-CONTEXTE
 F. O
 
 7 O
@@ -9879,12 +9765,12 @@ F. O
 céram B-MOB
 . I-MOB
 
-XVe B-CHRONO
-/ O
-XVIe B-CHRONO
+XVe B-INTERVALLE
+/ I-INTERVALLE
+XVIe I-INTERVALLE
 2 O
 X O
-TP O
+TP B-CONTEXTE
 ? O
 
 F. O
@@ -9896,17 +9782,17 @@ F. O
 14,3 O
 1,5 O
 X O
-mur O
+mur B-CONTEXTE
 F. O
 1 O
 0,3 O
 1,5 O
 0,7 O
 après O
-1829 O
+1829 B-CHRONO
 3 O
 X O
-Fossé O
+Fossé B-CONTEXTE
 F. O
 
 2 O
@@ -9922,9 +9808,9 @@ m O
 céram B-MOB
 . I-MOB
 
-XVe B-CHRONO
-/ O
-XVIe B-CHRONO
+XVe B-INTERVALLE
+/ I-INTERVALLE
+XVIe I-INTERVALLE
 4 O
 23,4 O
 de O
@@ -9942,7 +9828,7 @@ X O
 
 X O
 
-fosse O
+fosse B-CONTEXTE
 
 F. O
 9 O
@@ -9951,7 +9837,7 @@ F. O
 0,46 O
 6 O
 X O
-fosse O
+fosse B-CONTEXTE
 F. O
 
 10 O
@@ -9960,9 +9846,9 @@ F. O
 1,4 O
 6 O
 X O
-Bac O
-à O
-chaux O
+Bac B-CONTEXTE
+à I-CONTEXTE
+chaux I-CONTEXTE
 ? O
 
 F. O
@@ -9974,7 +9860,7 @@ XIXe B-CHRONO
 siècle I-CHRONO
 6 O
 X O
-fosse O
+fosse B-CONTEXTE
 F. O
 
 12 O
@@ -10001,7 +9887,7 @@ siècle I-CHRONO
 
 6 O
 X O
-fosse O
+fosse B-CONTEXTE
 
 F. O
 14 O
@@ -10009,14 +9895,14 @@ F. O
 2,1 O
 1,7 O
 céram B-MOB
-fin O
-XVe B-CHRONO
-/ O
-XVIe B-CHRONO
-siècle I-CHRONO
+fin B-INTERVALLE
+XVe I-INTERVALLE
+/ I-INTERVALLE
+XVIe I-INTERVALLE
+siècle I-INTERVALLE
 6 O
 X O
-fosse O
+fosse B-CONTEXTE
 F. O
 
 15 O
@@ -10024,11 +9910,11 @@ F. O
 2 O
 2 O
 céram B-MOB
-fin O
-XVe B-CHRONO
-/ O
-XVIe B-CHRONO
-siècle I-CHRONO
+fin B-INTERVALLE
+XVe I-INTERVALLE
+/ I-INTERVALLE
+XVIe I-INTERVALLE
+siècle I-INTERVALLE
 6 O
 X O
 béton O
@@ -10052,13 +9938,13 @@ F. O
 3 O
 m O
 0,5 O
-tuyau O
+tuyau B-CONTEXTE
 béton O
 XXe B-CHRONO
 siècle I-CHRONO
 7 O
 X O
-fossé O
+fossé B-CONTEXTE
 F. O
 
 19 O
@@ -10178,7 +10064,7 @@ log O
 et O
 coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 F.2 O
 avec O
 tous O
@@ -10320,9 +10206,7 @@ Auteur O
 17/2/2020 O
 
 Sd O
-3 O
-
-- O
+3- O
 Vue O
 générale O
 Depuis O
@@ -10337,9 +10221,7 @@ A.Valais O
 17/2/2020 O
 
 Sd O
-3 O
-
-- O
+3- O
 Vue O
 générale O
 Depuis O
@@ -10354,9 +10236,7 @@ A.Valais O
 17/2/2020 O
 
 Sd O
-3 O
-
-- O
+3- O
 Vue O
 générale O
 Depuis O
@@ -10370,11 +10250,9 @@ A.Valais O
 17/2/2020 O
 
 Sd O
-1 O
-
-- O
+1- O
 Coupe O
-fossé O
+fossé B-CONTEXTE
 F.2 O
 Depuis O
 le O
@@ -10388,11 +10266,9 @@ A.Valais O
 17/2/2020 O
 
 Sd O
-1 O
-
-- O
+1- O
 Coupe O
-fossé O
+fossé B-CONTEXTE
 F.2 O
 Depuis O
 le O
@@ -10405,11 +10281,9 @@ A.Valais O
 17/2/2020 O
 
 Sd O
-3 O
-
-- O
+3- O
 Coupe O
-fossé O
+fossé B-CONTEXTE
 F.2 O
 Depuis O
 le O
@@ -10423,11 +10297,9 @@ A.Valais O
 17/2/2020 O
 
 Sd O
-3 O
-
-- O
+3- O
 Coupe O
-fossé O
+fossé B-CONTEXTE
 F.2 O
 Depuis O
 le O
@@ -10443,7 +10315,7 @@ A.Valais O
 Vue O
 de O
 l’ O
-église O
+église B-CONTEXTE
 depuis O
 le O
 décapage O
@@ -10460,7 +10332,7 @@ A.Valais O
 Vue O
 de O
 l’ O
-église O
+église B-CONTEXTE
 depuis O
 le O
 décapage O
@@ -10478,7 +10350,7 @@ A.Valais O
 Vue O
 de O
 l’ O
-église O
+église B-CONTEXTE
 depuis O
 le O
 décapage O
@@ -10493,11 +10365,9 @@ A.Valais O
 17/2/2020 O
 
 Sd O
-3 O
-
-- O
+3- O
 Coupe O
-fossé O
+fossé B-CONTEXTE
 F.2 O
 Depuis O
 le O
@@ -10510,11 +10380,9 @@ A.Valais O
 17/2/2020 O
 
 Sd O
-3 O
-
-- O
+3- O
 Coupe O
-fossé O
+fossé B-CONTEXTE
 F.2 O
 Depuis O
 le O
@@ -10527,11 +10395,9 @@ A.Valais O
 17/2/2020 O
 
 Sd O
-3 O
-
-- O
+3- O
 Coupe O
-fossé O
+fossé B-CONTEXTE
 F.2 O
 Depuis O
 le O
@@ -10544,9 +10410,7 @@ A.Valais O
 17/2/2020 O
 
 Sd O
-1 O
-
-- O
+1- O
 Rebouchage O
 Depuis O
 le O
@@ -10560,9 +10424,7 @@ A.Valais O
 17/2/2020 O
 
 Sd O
-2 O
-
-- O
+2- O
 Rebouchage O
 Depuis O
 le O
@@ -10577,11 +10439,7 @@ A.Valais O
 Sd O
 3 O
 et O
-4 O
-
-- O
-
-Vue O
+4-Vue O
 générale O
 Depuis O
 le O
@@ -10594,9 +10452,7 @@ A.Valais O
 17/2/2020 O
 
 Sd O
-4 O
-
-- O
+4- O
 Vue O
 générale O
 Depuis O
@@ -10610,11 +10466,9 @@ A.Valais O
 17/2/2020 O
 
 Sd O
-3 O
-
-- O
+3- O
 Coupe O
-fossé O
+fossé B-CONTEXTE
 F.2 O
 Depuis O
 le O
@@ -10625,11 +10479,9 @@ A.Valais O
 17/2/2020 O
 
 Sd O
-3 O
-
-- O
+3- O
 Coupe O
-fossé O
+fossé B-CONTEXTE
 F.2 O
 Depuis O
 le O
@@ -10640,11 +10492,9 @@ A.Valais O
 17/2/2020 O
 
 Sd O
-3 O
-
-- O
+3- O
 Coupe O
-fossé O
+fossé B-CONTEXTE
 F.2 O
 Depuis O
 le O
@@ -10655,9 +10505,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-5 O
-
-- O
+5- O
 Ambiance O
 et O
 vue O
@@ -10674,9 +10522,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-5 O
-
-- O
+5- O
 Ambiance O
 et O
 vue O
@@ -10692,9 +10538,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-5 O
-
-- O
+5- O
 Extrémité O
 sud-est O
 ? O
@@ -10719,9 +10563,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-2 O
-
-- O
+2- O
 Extension O
 Depuis O
 le O
@@ -10734,9 +10576,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-2 O
-
-- O
+2- O
 Extension O
 Depuis O
 le O
@@ -10746,9 +10586,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-2 O
-
-- O
+2- O
 Vue O
 générale O
 Depuis O
@@ -10761,9 +10599,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-2 O
-
-- O
+2- O
 Vue O
 générale O
 de O
@@ -10777,9 +10613,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-2 O
-
-- O
+2- O
 Vue O
 générale O
 de O
@@ -10797,9 +10631,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-2 O
-
-- O
+2- O
 Vue O
 générale O
 de O
@@ -10851,9 +10683,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-2 O
-
-- O
+2- O
 Vue O
 générale O
 de O
@@ -10871,9 +10701,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-2 O
-
-- O
+2- O
 Vue O
 générale O
 de O
@@ -10889,9 +10717,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-2 O
-
-- O
+2- O
 Vue O
 générale O
 de O
@@ -10909,9 +10735,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-2 O
-
-- O
+2- O
 Vue O
 générale O
 de O
@@ -10941,9 +10765,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Vue O
 générale O
 Depuis O
@@ -10957,9 +10779,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Coupe O
 sud O
 , O
@@ -10976,9 +10796,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Coupe O
 sud O
 , O
@@ -10996,9 +10814,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Coupe O
 sud O
 , O
@@ -11018,9 +10834,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Coupe O
 sud O
 , O
@@ -11037,9 +10851,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Coupe O
 sud O
 , O
@@ -11056,9 +10868,7 @@ A.Valais O
 1030023 O
 18/2/2020 O
 Sd O
-6 O
-
-- O
+6- O
 Coupe O
 nord O
 / O
@@ -11075,9 +10885,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Coupe O
 nord O
 / O
@@ -11093,9 +10901,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Coupe O
 nord O
 / O
@@ -11111,9 +10917,7 @@ A.Valais O
 18/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Coupe O
 nord O
 / O
@@ -11129,9 +10933,7 @@ A.Valais O
 19/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Vue O
 générale O
 de O
@@ -11149,9 +10951,7 @@ Betton O
 19/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Vue O
 générale O
 de O
@@ -11169,9 +10969,7 @@ Betton O
 19/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Vue O
 générale O
 de O
@@ -11252,9 +11050,7 @@ Auteur O
 19/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Vue O
 générale O
 de O
@@ -11274,9 +11070,7 @@ Betton O
 19/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Vue O
 générale O
 de O
@@ -11295,9 +11089,7 @@ Betton O
 19/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Vue O
 générale O
 de O
@@ -11319,9 +11111,7 @@ Betton O
 19/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Vue O
 générale O
 de O
@@ -11341,9 +11131,7 @@ A.Valais O
 19/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Vue O
 générale O
 de O
@@ -11362,9 +11150,7 @@ A.Valais O
 19/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Vue O
 générale O
 de O
@@ -11379,9 +11165,7 @@ A.Valais O
 19/2/2020 O
 
 Sd O
-6 O
-
-- O
+6- O
 Vue O
 générale O
 de O
@@ -11395,7 +11179,7 @@ A.Valais O
 1030037 O
 19/2/2020 O
 
-Lavoir O
+Lavoir B-CONTEXTE
 et O
 en O
 arrière-plan O
@@ -11412,7 +11196,7 @@ A.Valais O
 
 19/2/2020 O
 
-Lavoir O
+Lavoir B-CONTEXTE
 et O
 en O
 arrière-plan O
@@ -11428,7 +11212,7 @@ A.Valais O
 1030039 O
 
 19/2/2020 O
-Bas-relief O
+Bas-relief B-CONTEXTE
 , O
 Adoration O
 des O
@@ -11437,16 +11221,16 @@ Mages O
 bras O
 nord O
 du O
-transept O
+transept B-CONTEXTE
 de O
 l’ O
-église O
+église B-CONTEXTE
 ? O
 
 A.Valais O
 1030040 O
 19/2/2020 O
-Bas-relief O
+Bas-relief B-CONTEXTE
 , O
 Adoration O
 des O
@@ -11455,17 +11239,17 @@ Mages O
 bras O
 nord O
 du O
-transept O
+transept B-CONTEXTE
 de O
 l’ O
-église O
+église B-CONTEXTE
 ? O
 
 A.Valais O
 
 1030041 O
 19/2/2020 O
-Bas-relief O
+Bas-relief B-CONTEXTE
 , O
 Adoration O
 des O
@@ -11474,10 +11258,10 @@ Mages O
 bras O
 nord O
 du O
-transept O
+transept B-CONTEXTE
 de O
 l’ O
-église O
+église B-CONTEXTE
 ? O
 
 A.Valais O
@@ -11490,13 +11274,13 @@ d’ O
 angle O
 nord-est O
 du O
-chevet O
+chevet B-CONTEXTE
 de O
 l’ O
-église O
+église B-CONTEXTE
 avec O
-pierre O
-tombale O
+pierre B-CONTEXTE
+tombale I-CONTEXTE
 médiévale B-CHRONO
 ? O
 
@@ -11512,13 +11296,13 @@ d’ O
 angle O
 nord-est O
 du O
-chevet O
+chevet B-CONTEXTE
 de O
 l’ O
-église O
+église B-CONTEXTE
 avec O
-pierre O
-tombale O
+pierre B-CONTEXTE
+tombale I-CONTEXTE
 médiévale B-CHRONO
 ? O
 
@@ -11573,11 +11357,7 @@ M.CE.02.XX.XX.01 O
 1 O
 2 O
 ss O
-végé O
-
-- O
-
-tale O
+végé-tale O
 
 18 O
 1 O
@@ -11592,13 +11372,13 @@ de O
 fonds O
 , O
 2 O
-anse B-MOB
+anse O
 et O
 11 O
 panses O
 
-HMA/ B-CHRONO
-moderne B-CHRONO
+HMA/ B-INTERVALLE
+moderne I-INTERVALLE
 1 O
 1 O
 M.CE.02.03.XX.02 O
@@ -11630,7 +11410,7 @@ M.CE.03.XX.XX.04 O
 1 O
 fond O
 
-glaçuré O
+glaçuré B-TECH_STYLE
 
 brun O
 et O
@@ -11652,13 +11432,13 @@ pichet B-MOB
 ou O
 de O
 coquemar B-MOB
-glaçuré O
+glaçuré B-TECH_STYLE
 vert O
 , O
 1 O
 lèvre O
 de O
-pot B-MOB
+pot O
 , O
 1 O
 fond O
@@ -11666,8 +11446,8 @@ et O
 2 O
 panses O
 
-HMA/ B-CHRONO
-moderne B-CHRONO
+HMA/ B-INTERVALLE
+moderne I-INTERVALLE
 5 O
 1 O
 M.CE.06.10.XX.06 O
@@ -11693,9 +11473,9 @@ bord O
 de O
 fiole B-MOB
 en O
-grès O
-de O
-Normandie O
+grès B-MAT
+de I-MAT
+Normandie I-MAT
 moderne B-CHRONO
 7 O
 1 O
@@ -11712,12 +11492,12 @@ de O
 pot B-MOB
 , O
 1 O
-anse B-MOB
+anse O
 et O
 3 O
 panses O
-HMA/ B-CHRONO
-moderne B-CHRONO
+HMA/ B-INTERVALLE
+moderne I-INTERVALLE
 8 O
 1 O
 M.CE.06.15.XX.09 O
@@ -11793,9 +11573,9 @@ tuiles B-MOB
 ( O
 tegulae B-MOB
 ) O
-GR B-CHRONO
-/ O
-HMA B-CHRONO
+GR B-INTERVALLE
+/ I-INTERVALLE
+HMA I-INTERVALLE
 10 O
 M.TA.02.03.XX.02 O
 2 O
@@ -11813,13 +11593,9 @@ et O
 rebords O
 de O
 tegulae B-MOB
-GR B-CHRONO
-/ O
-médié O
-
-- O
-
-val O
+GR B-INTERVALLE
+/ I-INTERVALLE
+médié-val I-INTERVALLE
 11 O
 M.TA.02.05.XX.03 O
 
@@ -11834,9 +11610,9 @@ tuiles B-MOB
 ( O
 tegulae B-MOB
 ) O
-GR B-CHRONO
-/ O
-HMA B-CHRONO
+GR B-INTERVALLE
+/ I-INTERVALLE
+HMA I-INTERVALLE
 12 O
 M.TA.02.07.XX.04 O
 4 O
@@ -11852,9 +11628,9 @@ tuile B-MOB
 ( O
 tegula B-MOB
 ) O
-GR B-CHRONO
-/ O
-HMA B-CHRONO
+GR B-INTERVALLE
+/ I-INTERVALLE
+HMA I-INTERVALLE
 13 O
 1 O
 
@@ -11914,7 +11690,7 @@ d’ O
 une O
 plaque B-MOB
 en O
-fer O
+fer B-MAT
 moderne B-CHRONO
 
 14 O
@@ -12009,9 +11785,7 @@ CS O
 67737 O
 , O
 33577 O
-Cesson O
-
--Sévigné O
+Cesson-Sévigné O
 Cedex O
 Tél O
 . O
@@ -12047,17 +11821,17 @@ contemporaine I-CHRONO
 Sujets O
 et O
 thèmes O
-Fosse O
+Fosse B-CONTEXTE
 , O
-fossé O
+fossé B-CONTEXTE
 , O
-mur O
+mur B-CONTEXTE
 , O
-parcellaire O
+parcellaire B-CONTEXTE
 , O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 , O
 voirie O
 Mobilier O
@@ -12082,9 +11856,7 @@ Patriarche O
 Arrêté O
 de O
 prescription O
-2019 O
-
--476 O
+2019-476 O
 Arrêté O
 de O
 désignation O
@@ -12092,11 +11864,7 @@ du O
 responsable O
 scientifique O
 n° O
-2019 O
-
-- O
-
-881 O
+2019-881 O
 
 Pays O
 de O
@@ -12195,9 +11963,9 @@ et O
 le O
 mobilier O
 des O
-viie B-CHRONO
-/xe B-CHRONO
-siècles I-CHRONO
+viie B-INTERVALLE
+/xe I-INTERVALLE
+siècles I-INTERVALLE
 recueilli O
 un O
 peu O
@@ -12231,7 +11999,7 @@ et O
 carolingiennes B-CHRONO
 de O
 la O
-villa O
+villa B-CONTEXTE
 de O
 Martigné O
 . O
@@ -12282,17 +12050,17 @@ nouveau O
 . O
 
 Les O
-fosses O
+fosses B-CONTEXTE
 aux O
 fonctions O
 incertaines O
 et O
 deux O
-fossés O
+fossés B-CONTEXTE
 des O
-xve B-CHRONO
-/xvie B-CHRONO
-siècle I-CHRONO
+xve B-INTERVALLE
+/xvie I-INTERVALLE
+siècle I-INTERVALLE
 se O
 répartissent O
 plus O
@@ -12306,7 +12074,7 @@ projet O
 
 Un O
 des O
-fossés O
+fossés B-CONTEXTE
 , O
 large O
 d’ O
@@ -12384,7 +12152,7 @@ suivant O
 pour O
 que O
 des O
-habitations O
+habitations B-CONTEXTE
 soient O
 construites O
 en O

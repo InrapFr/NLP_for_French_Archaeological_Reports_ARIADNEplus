@@ -72,11 +72,11 @@ thèmes O
 Habitat O
 rural O
 
-Structure O
-agraire O
+Structure B-CONTEXTE
+agraire I-CONTEXTE
 
-Fossé O
-Fosse O
+Fossé B-CONTEXTE
+Fosse B-CONTEXTE
 
 Mobilier O
 
@@ -308,15 +308,15 @@ sous O
 la O
 forme O
 de O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 , O
-fosses O
+fosses B-CONTEXTE
 , O
-silos O
+silos B-CONTEXTE
 et O
-fossés O
+fossés B-CONTEXTE
 . O
 
 Deux O
@@ -332,17 +332,17 @@ et O
 une O
 autre O
 du O
-XIe B-CHRONO
-‑XIIIe B-CHRONO
-siècles I-CHRONO
+XIe B-INTERVALLE
+‑XIIIe I-INTERVALLE
+siècles I-INTERVALLE
 . O
 
 Également O
 , O
 les O
 anciennes O
-limites O
-parcellaires O
+limites B-CONTEXTE
+parcellaires I-CONTEXTE
 présentes O
 sur O
 le O
@@ -385,8 +385,8 @@ La O
 présence O
 d’ O
 une O
-fosse O
-profonde O
+fosse B-CONTEXTE
+profonde I-CONTEXTE
 doit O
 également O
 être O
@@ -417,13 +417,13 @@ assez O
 lâche O
 , O
 allant O
-du O
-Néolithique B-CHRONO
-à O
-l’ O
-âge B-CHRONO
-du I-CHRONO
-Bronze I-CHRONO
+du B-INTERVALLE
+Néolithique I-INTERVALLE
+à I-INTERVALLE
+l’ I-INTERVALLE
+âge I-INTERVALLE
+du I-INTERVALLE
+Bronze I-INTERVALLE
 . O
 
 Code O
@@ -443,9 +443,7 @@ de O
 prescription O
 75 O
 - O
-2019 O
-
--0006 O
+2019-0006 O
 Système O
 d’ O
 information O
@@ -527,9 +525,7 @@ de O
 prescription O
 75 O
 - O
-2019 O
-
--0006 O
+2019-0006 O
 Système O
 d’ O
 information O
@@ -737,9 +733,7 @@ pénal O
 
 Loi O
 n° O
-78 O
-
--753 O
+78-753 O
 du O
 17 O
 juillet O
@@ -1158,9 +1152,7 @@ géoarchéologiques O
 
 Ensembles O
 
-morpho O
-
--sédimentaires O
+morpho-sédimentaires O
 : O
 dynamiques O
 de O
@@ -1311,7 +1303,7 @@ structures O
 
 Les O
 grandes O
-fosses O
+fosses B-CONTEXTE
 
 7.02 O
 , O
@@ -1333,9 +1325,9 @@ fosses O
 . O
 
 Les O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 13.08 O
 , O
 13.09 O
@@ -1402,9 +1394,9 @@ médiévale B-CHRONO
 . O
 
 La O
-fosse O
+fosse B-CONTEXTE
 / O
-silo O
+silo B-CONTEXTE
 10.01 O
 
 57 O
@@ -1419,7 +1411,7 @@ silo O
 . O
 
 Le O
-silo O
+silo B-CONTEXTE
 16.01 O
 58 O
 
@@ -1431,7 +1423,7 @@ silo O
 . O
 
 Les O
-fosses O
+fosses B-CONTEXTE
 10.02 O
 , O
 16.03 O
@@ -1467,9 +1459,9 @@ et O
 . O
 
 Les O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 : O
 16.04 O
 , O
@@ -1479,25 +1471,19 @@ poteau O
 - O
 16.18 O
 , O
-16.20 O
-
-- O
+16.20- O
 16.22 O
 
 , O
 17.01 O
 , O
-17.04 O
-
-- O
+17.04- O
 17.11 O
 , O
 17.16 O
 , O
 
-17.22 O
-
-- O
+17.22- O
 17.25 O
 , O
 18.03 O
@@ -1506,9 +1492,7 @@ poteau O
 , O
 18.07 O
 , O
-18.12 O
-
-- O
+18.12- O
 18.15 O
 62 O
 
@@ -1522,7 +1506,7 @@ poteau O
 . O
 
 Un O
-fossé O
+fossé B-CONTEXTE
 16.02 O
 63 O
 
@@ -1547,7 +1531,7 @@ récente O
 . O
 
 Un O
-parcellaire O
+parcellaire B-CONTEXTE
 récent O
 visible O
 sur O
@@ -1566,7 +1550,7 @@ ancien O
 . O
 
 Un O
-parcellaire O
+parcellaire B-CONTEXTE
 récent O
 visible O
 sur O
@@ -1585,7 +1569,7 @@ aériennes O
 . O
 
 Un O
-parcellaire O
+parcellaire B-CONTEXTE
 orienté O
 ouest-est O
 68 O
@@ -1601,7 +1585,7 @@ ouest-est O
 
 Les O
 anciens O
-chemins O
+chemins B-CONTEXTE
 71 O
 
 2 O
@@ -1638,7 +1622,7 @@ indéterminées O
 . O
 
 Un O
-mur O
+mur B-CONTEXTE
 11.05 O
 72 O
 
@@ -1652,11 +1636,11 @@ mur O
 . O
 
 Les O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 / O
-fosses O
+fosses B-CONTEXTE
 11.01 O
 , O
 12.05 O
@@ -1674,7 +1658,7 @@ et O
 . O
 
 La O
-fosse O
+fosse B-CONTEXTE
 4.01 O
 74 O
 
@@ -1688,7 +1672,7 @@ fosse O
 . O
 
 Les O
-fossés O
+fossés B-CONTEXTE
 3.02 O
 , O
 6.03 O
@@ -1720,16 +1704,16 @@ et O
 . O
 
 Le O
-fossé O
+fossé B-CONTEXTE
 interrompu O
 10.07 O
 et O
 10.09 O
 et O
 le O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 associé O
 10.08 O
 ? O
@@ -1811,11 +1795,7 @@ signalétique O
 
 Localisation O
 Région O
-Nouvelle O
-
-- O
-
-Aquitaine O
+Nouvelle-Aquitaine O
 Département O
 
 Vienne O
@@ -1825,9 +1805,7 @@ Commune O
 Ligugé O
 Adresse O
 ou O
-lieu O
-
--dit O
+lieu-dit O
 Fief O
 du O
 Pilier O
@@ -1949,11 +1927,7 @@ de O
 prescription O
 75 O
 - O
-2019 O
-
-- O
-
-0006 O
+2019-0006 O
 en O
 date O
 du O
@@ -1969,11 +1943,7 @@ du O
 responsable O
 75 O
 - O
-2019 O
-
-- O
-
-0211 O
+2019-0211 O
 en O
 date O
 du O
@@ -2161,11 +2131,7 @@ le O
 cadre O
 de O
 l’ O
-opé O
-
-- O
-
-ration O
+opé-ration O
 Fabien O
 Loubignac O
 , O
@@ -2771,15 +2737,15 @@ sous O
 la O
 forme O
 de O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 , O
-fosses O
+fosses B-CONTEXTE
 , O
-silos O
+silos B-CONTEXTE
 et O
-fossés O
+fossés B-CONTEXTE
 . O
 
 Deux O
@@ -2795,17 +2761,17 @@ et O
 une O
 autre O
 du O
-XIe B-CHRONO
-‑XIIIe B-CHRONO
-siècles I-CHRONO
+XIe B-INTERVALLE
+‑XIIIe I-INTERVALLE
+siècles I-INTERVALLE
 . O
 
 Également O
 , O
 les O
 anciennes O
-limites O
-parcellaires O
+limites B-CONTEXTE
+parcellaires I-CONTEXTE
 présentes O
 sur O
 le O
@@ -2848,8 +2814,8 @@ La O
 présence O
 d’ O
 une O
-fosse O
-profonde O
+fosse B-CONTEXTE
+profonde I-CONTEXTE
 doit O
 également O
 être O
@@ -2880,13 +2846,13 @@ assez O
 lâche O
 , O
 allant O
-du O
-Néolithique B-CHRONO
-à O
-l’ O
-âge B-CHRONO
-du I-CHRONO
-Bronze I-CHRONO
+du B-INTERVALLE
+Néolithique I-INTERVALLE
+à I-INTERVALLE
+l’ I-INTERVALLE
+âge I-INTERVALLE
+du I-INTERVALLE
+Bronze I-INTERVALLE
 . O
 
 Localisation O
@@ -2931,21 +2897,15 @@ Charente O
 
 Vienne O
 
-Deux O
-
--Sèvres O
+Deux-Sèvres O
 Poitou- O
 
 Charentes O
 79 O
-DEUX O
-
--SEVRES O
+DEUX-SEVRES O
 
 79 O
-DEUX O
-
--SEVRES O
+DEUX-SEVRES O
 
 36 O
 INDRE O
@@ -3322,11 +3282,7 @@ gréseux O
 dolomitique O
 
 Granite O
-calco O
-
-- O
-
-alcalin O
+calco-alcalin O
 
 monzonitique O
 
@@ -3511,11 +3467,7 @@ de O
 l’ O
 opération O
 Région O
-Nouvelle O
-
-- O
-
-Aquitaine O
+Nouvelle-Aquitaine O
 Département O
 
 Vienne O
@@ -3524,9 +3476,7 @@ Commune O
 
 Ligugé O
 
-Lieu O
-
--dit O
+Lieu-dit O
 FIEF O
 DU O
 PILIER O
@@ -3566,15 +3516,7 @@ projet O
 
 Initiale O
 
-75 O
-
-- O
-
-2019 O
-
-- O
-
-0006 O
+75-2019-0006 O
 11 O
 - O
 01 O
@@ -3620,15 +3562,11 @@ techniques O
 L' O
 emprise O
 du O
-projet O
-
-- O
+projet- O
 aménagement O
 d' O
 un O
-lotissement O
-
-- O
+lotissement- O
 se O
 situe O
 à O
@@ -3670,15 +3608,15 @@ au O
 jour O
 dans O
 plusieurs O
-grottes O
+grottes B-CONTEXTE
 . O
 
 Des O
 anciennes O
-voies O
+voies B-CONTEXTE
 et O
 deux O
-aqueducs O
+aqueducs B-CONTEXTE
 antiques B-CHRONO
 parcourent O
 également O
@@ -3711,7 +3649,7 @@ surtout O
 connu O
 pour O
 son O
-abbaye O
+abbaye B-CONTEXTE
 Saint-Martin O
 , O
 plus O
@@ -3732,7 +3670,7 @@ développée O
 autour O
 de O
 l' O
-ermitage O
+ermitage B-CONTEXTE
 de O
 saint O
 Martin O
@@ -3740,7 +3678,7 @@ et O
 sur O
 un O
 ancien O
-sanctuaire O
+sanctuaire B-CONTEXTE
 antique B-CHRONO
 . O
 
@@ -3754,8 +3692,8 @@ reprises O
 , O
 une O
 importante O
-dalle O
-funéraire O
+dalle B-CONTEXTE
+funéraire I-CONTEXTE
 carolingienne B-CHRONO
 portant O
 l' O
@@ -3767,7 +3705,7 @@ ayant O
 fait O
 rebâtir O
 la O
-basilique O
+basilique B-CONTEXTE
 Saint-Martin O
 ainsi O
 que O
@@ -3776,7 +3714,7 @@ traces O
 archéologiques O
 d' O
 une O
-église O
+église B-CONTEXTE
 du O
 début B-CHRONO
 du I-CHRONO
@@ -4448,9 +4386,7 @@ bombement O
 anticlinal O
 de O
 direction O
-nord O
-
--ouest O
+nord-ouest O
 / O
 sud-1 O
 . O
@@ -5243,9 +5179,7 @@ gl O
 : O
 
 Ludien O
-supérieur O
-
-- O
+supérieur- O
 Stampien O
 inférieur O
 ( O
@@ -5388,9 +5322,7 @@ terrasses O
 supérieures O
 ( O
 Pléistocène O
-moyen O
-
-- O
+moyen- O
 Mindel O
 ) O
 : O
@@ -5550,9 +5482,7 @@ supérieur O
 ( O
 35 O
 Ma O
-) O
-
-- O
+)- O
 Stampien O
 inférieur O
 ( O
@@ -6416,9 +6346,7 @@ moins O
 argileuses O
 compactes O
 
-brun O
-
--orangé O
+brun-orangé O
 . O
 
 Mal O
@@ -6427,9 +6355,7 @@ et O
 riches O
 en O
 billes O
-ferro O
-
--manganiques O
+ferro-manganiques O
 , O
 elles O
 contiennent O
@@ -7150,9 +7076,7 @@ de O
 terre O
 végétale O
 Limons O
-bruns O
-
--gris O
+bruns-gris O
 à O
 cailloutis O
 
@@ -7189,10 +7113,8 @@ occupation O
 médiévale B-CHRONO
 supposée O
 ( O
-XIIIe B-CHRONO
-
--XIVe B-CHRONO
-siècles I-CHRONO
+XIIIe-XIVe B-INTERVALLE
+siècles I-INTERVALLE
 ) O
 
 Niveaux O
@@ -7204,12 +7126,12 @@ supposée O
 Niveaux O
 d’ O
 occupation O
-moderne O
+moderne B-CHRONO
 supposée O
 ( O
-XIXe B-CHRONO
--XXe B-CHRONO
-siècles I-CHRONO
+XIXe B-INTERVALLE
+-XXe I-INTERVALLE
+siècles I-INTERVALLE
 ) O
 
 Ap O
@@ -7235,11 +7157,7 @@ e5 O
 Plio O
 - O
 Quaternaire O
-P O
-
-- O
-
-Q4 O
+P-Q4 O
 Légende O
 1 O
 3 O
@@ -7574,9 +7492,9 @@ la O
 péjoration O
 climatique O
 du O
-Petit B-CHRONO
-Âge I-CHRONO
-Glaciaire4 I-CHRONO
+Petit O
+Âge O
+Glaciaire4 O
 . O
 
 Cette O
@@ -7779,9 +7697,7 @@ quartz O
 et O
 quelques O
 billes O
-ferro O
-
--manganiques O
+ferro-manganiques O
 . O
 
 On O
@@ -8026,8 +7942,8 @@ n° O
 1 O
 ( O
 tesson B-MOB
-de O
-céramique O
+de I-MOB
+céramique I-MOB
 ) O
 donne O
 un O
@@ -8047,13 +7963,13 @@ milieux O
 ( O
 biostasie O
 ) O
-entre O
-la O
-Protohistoire B-CHRONO
-et O
-l’ O
-époque B-CHRONO
-médiévale I-CHRONO
+entre B-INTERVALLE
+la I-INTERVALLE
+Protohistoire I-INTERVALLE
+et I-INTERVALLE
+l’ I-INTERVALLE
+époque I-INTERVALLE
+médiévale I-INTERVALLE
 . O
 
 Mais O
@@ -8179,11 +8095,7 @@ La O
 phase O
 de O
 stabilité O
-pédo O
-
-- O
-
-sédimentaire O
+pédo-sédimentaire O
 
 correspondant O
 à O
@@ -8289,15 +8201,15 @@ pédogénéisées O
 et O
 attribuables O
 au O
-Néolithique B-CHRONO
-récent I-CHRONO
-- O
-final B-CHRONO
-/ O
-âge B-CHRONO
-du I-CHRONO
-Bronze I-CHRONO
-ancien I-CHRONO
+Néolithique B-INTERVALLE
+récent I-INTERVALLE
+- I-INTERVALLE
+final I-INTERVALLE
+/ I-INTERVALLE
+âge I-INTERVALLE
+du I-INTERVALLE
+Bronze I-INTERVALLE
+ancien I-INTERVALLE
 . O
 
 Elles O
@@ -8320,13 +8232,13 @@ milieux O
 ( O
 biostasie O
 ) O
-entre O
-la O
-Protohistoire B-CHRONO
-et O
-l’ O
-époque B-CHRONO
-médiévale I-CHRONO
+entre B-INTERVALLE
+la I-INTERVALLE
+Protohistoire I-INTERVALLE
+et I-INTERVALLE
+l’ I-INTERVALLE
+époque I-INTERVALLE
+médiévale I-INTERVALLE
 . O
 
 Le O
@@ -8508,13 +8420,9 @@ qui O
 correspond O
 aux O
 colluvions O
-limono O
+limono-sableuses O
 
--sableuses O
-
-brun O
-
--beige O
+brun-beige O
 à O
 orangées O
 pédogénéisées O
@@ -8985,9 +8893,9 @@ Tr10 O
 F10.01 O
 
 niveau O
-charbonneux O
+charbonneux B-MOB
 ( O
-foyer O
+foyer B-CONTEXTE
 ? O
 
 ) O
@@ -9053,11 +8961,7 @@ NE O
 2F O
 Limons O
 sableux O
-brun O
-
-- O
-
-beige O
+brun-beige O
 à O
 orangés O
 seuls O
@@ -9121,9 +9025,7 @@ terre O
 végétale O
 
 Limons O
-bruns O
-
--gris O
+bruns-gris O
 à O
 cailloutis O
 
@@ -9160,11 +9062,11 @@ occupation O
 médiévale B-CHRONO
 supposée O
 ( O
-XIII B-CHRONO
-e I-CHRONO
--XIV B-CHRONO
-e I-CHRONO
-siècles I-CHRONO
+XIII B-INTERVALLE
+e I-INTERVALLE
+-XIV I-INTERVALLE
+e I-INTERVALLE
+siècles I-INTERVALLE
 ) O
 
 Niveaux O
@@ -9176,14 +9078,14 @@ supposée O
 Niveaux O
 d’ O
 occupation O
-moderne O
+moderne B-CHRONO
 supposée O
 ( O
-XIX B-CHRONO
-e I-CHRONO
--XX B-CHRONO
-e I-CHRONO
-siècles I-CHRONO
+XIX B-INTERVALLE
+e I-INTERVALLE
+-XX I-INTERVALLE
+e I-INTERVALLE
+siècles I-INTERVALLE
 ) O
 
 Ap O
@@ -9209,11 +9111,7 @@ e5 O
 Plio O
 - O
 Quaternaire O
-P O
-
-- O
-
-Q4 O
+P-Q4 O
 Légende O
 134.00 O
 1 O
@@ -9445,14 +9343,8 @@ plastiques O
 plus O
 ou O
 moins O
-limono O
-
--sableuses O
-gris O
-
-- O
-
-blanchâtre O
+limono-sableuses O
+gris-blanchâtre O
 parfois O
 panachées O
 rouge O
@@ -9467,9 +9359,7 @@ kaolinite O
 ) O
 à O
 sphérules O
-ferro O
-
--manganiques O
+ferro-manganiques O
 et O
 emballant O
 de O
@@ -9689,9 +9579,7 @@ Quaternaire O
 – O
 
 – O
-Ls O
-
-- O
+Ls- O
 3coll O
 
 : O
@@ -9738,15 +9626,15 @@ mis O
 au O
 jour O
 une O
-fosse O
+fosse B-CONTEXTE
 7.02 O
 attribuée O
 au O
-Néolithique B-CHRONO
-/ O
-âge B-CHRONO
-du I-CHRONO
-Bronze I-CHRONO
+Néolithique B-INTERVALLE
+/ I-INTERVALLE
+âge I-INTERVALLE
+du I-INTERVALLE
+Bronze I-INTERVALLE
 . O
 
 Creusée O
@@ -9780,7 +9668,7 @@ ouverture O
 initiale O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 a O
 été O
 érodée O
@@ -9802,7 +9690,7 @@ colmatage O
 supérieur O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 semble O
 correspondre O
 à O
@@ -10184,9 +10072,7 @@ troncature O
 et O
 les O
 dépôts O
-limono O
-
--sablonneux O
+limono-sablonneux O
 qui O
 le O
 fossilisent O
@@ -10228,7 +10114,7 @@ colluvions O
 2coll O
 qu’ O
 une O
-fosse O
+fosse B-CONTEXTE
 médiévale B-CHRONO
 ( O
 carolingienne B-CHRONO
@@ -10295,7 +10181,7 @@ du O
 remplissage O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 devrait O
 apporter O
 les O
@@ -10579,12 +10465,12 @@ décapés O
 . O
 
 La O
-fosse O
-néolithique B-CHRONO
-/ O
-âge B-CHRONO
-du I-CHRONO
-Bronze I-CHRONO
+fosse B-CONTEXTE
+néolithique B-INTERVALLE
+/ I-INTERVALLE
+âge I-INTERVALLE
+du I-INTERVALLE
+Bronze I-INTERVALLE
 
 7.02 O
 découverte O
@@ -10712,9 +10598,7 @@ ouest O
 / O
 nord O
 - O
-nord O
-
--est O
+nord-est O
 qui O
 montre O
 une O
@@ -10907,7 +10791,7 @@ hétérogènes O
 La O
 présence O
 de O
-blocs O
+blocs B-MOB
 
 0,50 O
 m O
@@ -11000,9 +10884,7 @@ TCA B-MOB
 Limons O
 sableux O
 
-brun O
-
--beige O
+brun-beige O
 à O
 orangés O
 seuls O
@@ -11066,9 +10948,7 @@ terre O
 végétale O
 
 Limons O
-bruns O
-
--gris O
+bruns-gris O
 à O
 cailloutis O
 
@@ -11105,10 +10985,8 @@ occupation O
 médiévale B-CHRONO
 supposée O
 ( O
-XIIIe B-CHRONO
-
--XIVe B-CHRONO
-siècles I-CHRONO
+XIIIe-XIVe B-INTERVALLE
+siècles I-INTERVALLE
 ) O
 
 Niveaux O
@@ -11120,12 +10998,12 @@ supposée O
 Niveaux O
 d’ O
 occupation O
-moderne O
+moderne B-CHRONO
 supposée O
 ( O
-XIXe B-CHRONO
--XXe B-CHRONO
-siècles I-CHRONO
+XIXe B-INTERVALLE
+-XXe I-INTERVALLE
+siècles I-INTERVALLE
 ) O
 
 Ap O
@@ -11142,20 +11020,16 @@ Charbons B-MOB
 
 TCA B-MOB
 / O
-fragments O
-de O
-céramique B-MOB
+fragments B-MOB
+de I-MOB
+céramique I-MOB
 
 Eocène O
 e5 O
 Plio O
 - O
 Quaternaire O
-P O
-
-- O
-
-Q4 O
+P-Q4 O
 Légende O
 1 O
 3 O
@@ -11681,9 +11555,7 @@ topographique O
 
 Ensembles O
 
-morpho O
-
--sédimentaires O
+morpho-sédimentaires O
 : O
 dynamiques O
 de O
@@ -12037,13 +11909,13 @@ chronologiques O
 variables O
 qui O
 vont O
-du O
-Néolithique B-CHRONO
-jusqu’ O
-à O
-l’ O
-époque B-CHRONO
-moderne I-CHRONO
+du B-INTERVALLE
+Néolithique I-INTERVALLE
+jusqu’ I-INTERVALLE
+à I-INTERVALLE
+l’ I-INTERVALLE
+époque I-INTERVALLE
+moderne I-INTERVALLE
 . O
 
 Même O
@@ -12059,7 +11931,7 @@ retrouvé O
 le O
 remplissage O
 des O
-fosses O
+fosses B-CONTEXTE
 indique O
 que O
 le O
@@ -12133,9 +12005,9 @@ des O
 phénomènes O
 comme O
 le O
-Petit B-CHRONO
-Âge I-CHRONO
-Glaciaire I-CHRONO
+Petit O
+Âge O
+Glaciaire O
 ont O
 des O
 impacts O
@@ -12344,8 +12216,8 @@ troncature O
 Des O
 fragments O
 de O
-terre O
-cuite O
+terre B-MOB
+cuite I-MOB
 sont O
 présents O
 et O
@@ -12741,7 +12613,7 @@ les O
 apports O
 successifs O
 de O
-remblais O
+remblais B-CONTEXTE
 de O
 différente O
 nature O
@@ -13029,19 +12901,19 @@ de O
 la O
 Préhistoire B-CHRONO
 ( O
-grottes O
+grottes B-CONTEXTE
 ) O
 , O
 de O
 l’ O
 Antiquité B-CHRONO
 ( O
-aqueducs O
+aqueducs B-CONTEXTE
 , O
-aménagements O
-hydrauliques O
+aménagements B-CONTEXTE
+hydrauliques I-CONTEXTE
 et O
-constructions O
+constructions B-CONTEXTE
 ) O
 et O
 du O
@@ -13077,7 +12949,7 @@ les O
 ruines O
 d’ O
 une O
-villa O
+villa B-CONTEXTE
 gallo-romaine B-CHRONO
 , O
 qui O
@@ -13134,13 +13006,13 @@ les O
 vestiges O
 de O
 la O
-villa O
+villa B-CONTEXTE
 , O
 l’ O
-abside O
+abside B-CONTEXTE
 d’ O
 une O
-basilique O
+basilique B-CONTEXTE
 primitive O
 et O
 divers O
@@ -13149,15 +13021,15 @@ se O
 rattachant O
 à O
 un O
-martyrium O
+martyrium B-CONTEXTE
 du O
 IVe B-CHRONO
 siècle I-CHRONO
 et O
 une O
-église O
+église B-CONTEXTE
 devenant O
-basilique O
+basilique B-CONTEXTE
 aux O
 VIe B-CHRONO
 et O
@@ -13287,7 +13159,7 @@ LIGUGE O
 / O
 MAIRIE O
 / O
-cimetière O
+cimetière B-CONTEXTE
 / O
 Moyen-âge B-CHRONO
 86 O
@@ -13314,7 +13186,7 @@ EGLISE O
 / O
 Bas-empire B-CHRONO
 / O
-bâtiment O
+bâtiment B-CONTEXTE
 86 O
 133 O
 0006 O
@@ -13330,7 +13202,7 @@ LIGUGE O
 LA O
 REINIERE O
 / O
-aqueduc O
+aqueduc B-CONTEXTE
 / O
 Gallo-romain B-CHRONO
 86 O
@@ -13350,7 +13222,7 @@ CIMEAU O
 
 / O
 
-aqueduc O
+aqueduc B-CONTEXTE
 
 / O
 Gallo-romain B-CHRONO
@@ -13372,7 +13244,7 @@ MOTTE O
 / O
 Bas-empire B-CHRONO
 / O
-construction O
+construction B-CONTEXTE
 
 86 O
 133 O
@@ -13444,12 +13316,10 @@ eau O
 et O
 hydraulique O
 / O
-Epoque B-CHRONO
-moderne I-CHRONO
-
-- O
-Epoque B-CHRONO
-contemporaine I-CHRONO
+Epoque B-INTERVALLE
+moderne- I-INTERVALLE
+Epoque I-INTERVALLE
+contemporaine I-INTERVALLE
 ? O
 
 86 O
@@ -13469,9 +13339,9 @@ de O
 la O
 Marche O
 / O
-puits O
-à O
-eau O
+puits B-CONTEXTE
+à I-CONTEXTE
+eau I-CONTEXTE
 / O
 Epoque O
 indéterminée O
@@ -13497,7 +13367,7 @@ Rue O
 / O
 Gallo-romain B-CHRONO
 / O
-bâtiment O
+bâtiment B-CONTEXTE
 
 86 O
 133 O
@@ -13519,7 +13389,7 @@ Bourg O
 Grand O
 Rue O
 / O
-cimetière O
+cimetière B-CONTEXTE
 / O
 Moyen-âge B-CHRONO
 classique I-CHRONO
@@ -13549,7 +13419,7 @@ de O
 / O
 LIGUGE O
 / O
-Aqueduc O
+Aqueduc B-CONTEXTE
 du O
 Cimeau O
 / O
@@ -13573,7 +13443,7 @@ Gallo-romain B-CHRONO
 / O
 LIGUGE O
 / O
-Aqueduc O
+Aqueduc B-CONTEXTE
 de O
 Basse O
 Fontaine O
@@ -13584,7 +13454,7 @@ Fief O
 - O
 Clairet O
 / O
-aqueduc O
+aqueduc B-CONTEXTE
 / O
 Gallo-romain B-CHRONO
 
@@ -13599,7 +13469,7 @@ Gallo-romain B-CHRONO
 / O
 LIGUGE O
 / O
-Aqueduc O
+Aqueduc B-CONTEXTE
 de O
 Basse O
 Fontaine O
@@ -13610,7 +13480,7 @@ Fief O
 - O
 Clairet O
 / O
-aqueduc O
+aqueduc B-CONTEXTE
 / O
 Gallo-romain B-CHRONO
 
@@ -13625,7 +13495,7 @@ Gallo-romain B-CHRONO
 / O
 LIGUGE O
 / O
-Aqueduc O
+Aqueduc B-CONTEXTE
 de O
 Basse O
 Fontaine O
@@ -13635,7 +13505,7 @@ de O
 la O
 Matauderie O
 / O
-aqueduc O
+aqueduc B-CONTEXTE
 / O
 Gallo-romain B-CHRONO
 86 O
@@ -13649,7 +13519,7 @@ Gallo-romain B-CHRONO
 / O
 LIGUGE O
 / O
-Aqueduc O
+Aqueduc B-CONTEXTE
 du O
 Cimeau O
 ? O
@@ -13660,7 +13530,7 @@ de O
 la O
 Matauderie O
 / O
-aqueduc O
+aqueduc B-CONTEXTE
 / O
 Gallo-romain B-CHRONO
 
@@ -13675,14 +13545,14 @@ Gallo-romain B-CHRONO
 / O
 LIGUGE O
 / O
-Aqueduc O
+Aqueduc B-CONTEXTE
 de O
 Basse O
 Fontaine O
 / O
 MEZEAUX O
 / O
-aqueduc O
+aqueduc B-CONTEXTE
 / O
 Gallo-romain B-CHRONO
 86 O
@@ -13771,7 +13641,7 @@ Ganaches O
 Epoque O
 indéterminée O
 / O
-fossé O
+fossé B-CONTEXTE
 
 86 O
 133 O
@@ -13794,7 +13664,7 @@ Epoque O
 indéterminée O
 
 / O
-enclos O
+enclos B-CONTEXTE
 
 86 O
 133 O
@@ -13811,16 +13681,14 @@ LIGUGE O
 
 Peu O
 
-Secret O
-
-- O
+Secret- O
 Les O
 Gachères O
 / O
 Epoque O
 indéterminée O
 / O
-fossé O
+fossé B-CONTEXTE
 86 O
 133 O
 0029 O
@@ -13842,7 +13710,7 @@ Sablons O
 Epoque O
 indéterminée O
 / O
-fossé O
+fossé B-CONTEXTE
 
 86 O
 133 O
@@ -13861,7 +13729,7 @@ Monplaisir O
 Epoque O
 indéterminée O
 / O
-fossés O
+fossés B-CONTEXTE
 ( O
 réseau O
 de O
@@ -13886,14 +13754,12 @@ Bois O
 / O
 occupation O
 / O
-Age B-CHRONO
-du I-CHRONO
-bronze I-CHRONO
-
-- O
-Age B-CHRONO
-du I-CHRONO
-fer I-CHRONO
+Age B-INTERVALLE
+du I-INTERVALLE
+bronze- I-INTERVALLE
+Age I-INTERVALLE
+du I-INTERVALLE
+fer I-INTERVALLE
 
 86 O
 133 O
@@ -13914,17 +13780,15 @@ Bois O
 / O
 occupation O
 / O
-atelier O
-métallurgique O
+atelier B-CONTEXTE
+métallurgique I-CONTEXTE
 ? O
 
 / O
-Moyen-âge B-CHRONO
-classique I-CHRONO
-
-- O
-Bas B-CHRONO
-moyen-âge I-CHRONO
+Moyen-âge B-INTERVALLE
+classique- I-INTERVALLE
+Bas I-INTERVALLE
+moyen-âge I-INTERVALLE
 
 Page O
 2 O
@@ -13952,12 +13816,10 @@ aménagement O
 du O
 terrain O
 / O
-Epoque B-CHRONO
-moderne I-CHRONO
-
-- O
-Epoque B-CHRONO
-contemporaine I-CHRONO
+Epoque B-INTERVALLE
+moderne- I-INTERVALLE
+Epoque I-INTERVALLE
+contemporaine I-INTERVALLE
 86 O
 133 O
 0034 O
@@ -13979,7 +13841,7 @@ de O
 Fief O
 Cléré O
 / O
-aqueduc O
+aqueduc B-CONTEXTE
 / O
 Gallo-romain B-CHRONO
 
@@ -14000,7 +13862,7 @@ de O
 la O
 Matauderie O
 / O
-aqueduc O
+aqueduc B-CONTEXTE
 / O
 Gallo-romain B-CHRONO
 
@@ -14020,9 +13882,9 @@ SMARVES O
 / O
 Bourg O
 / O
-église O
+église B-CONTEXTE
 , O
-cimetière O
+cimetière B-CONTEXTE
 / O
 Moyen-âge B-CHRONO
 classique I-CHRONO
@@ -14046,7 +13908,7 @@ Brun O
 Epoque O
 indéterminée O
 / O
-mur O
+mur B-CONTEXTE
 
 86 O
 263 O
@@ -14069,7 +13931,7 @@ Brunes O
 Epoque O
 indéterminée O
 / O
-fosse O
+fosse B-CONTEXTE
 
 86 O
 263 O
@@ -14088,7 +13950,7 @@ SMARVES O
 Les O
 Sources O
 / O
-villa O
+villa B-CONTEXTE
 / O
 Gallo-romain B-CHRONO
 
@@ -14116,14 +13978,14 @@ Saint-Félix O
 La O
 Roche O
 / O
-éperon O
-barré O
+éperon B-CONTEXTE
+barré I-CONTEXTE
 / O
-Néolithique B-CHRONO
-récent I-CHRONO
-- O
-Néolithique B-CHRONO
-final I-CHRONO
+Néolithique B-INTERVALLE
+récent I-INTERVALLE
+- I-INTERVALLE
+Néolithique I-INTERVALLE
+final I-INTERVALLE
 86 O
 263 O
 0007 O
@@ -14143,7 +14005,7 @@ Epoque O
 indéterminée O
 
 / O
-enclos O
+enclos B-CONTEXTE
 
 86 O
 263 O
@@ -14164,7 +14026,7 @@ de O
 St O
 Fossé O
 / O
-villa O
+villa B-CONTEXTE
 / O
 Gallo-romain B-CHRONO
 86 O
@@ -14200,7 +14062,7 @@ Fig O
 Plan O
 de O
 l’ O
-abbaye O
+abbaye B-CONTEXTE
 Saint-Martin O
 de O
 Ligugé O
@@ -14214,7 +14076,7 @@ brochure O
 « O
 
 L’ O
-abbaye O
+abbaye B-CONTEXTE
 de O
 Ligugé O
 » O
@@ -14496,7 +14358,7 @@ tension O
 et O
 de O
 la O
-canalisation O
+canalisation B-CONTEXTE
 d’ O
 eau O
 potable O
@@ -14710,13 +14572,9 @@ AW O
 1,15 O
 0,8 O
 187,69 O
-sud O
-
--ouest O
+sud-ouest O
 / O
-nord O
-
--est O
+nord-est O
 0 O
 0 O
 X O
@@ -14734,9 +14592,7 @@ sud O
 - O
 ouest O
 / O
-nord O
-
--est O
+nord-est O
 0 O
 0 O
 X O
@@ -14750,13 +14606,9 @@ AW O
 1 O
 0,7 O
 193,83 O
-sud O
-
--ouest O
+sud-ouest O
 / O
-nord O
-
--est O
+nord-est O
 0 O
 2 O
 AW O
@@ -14771,13 +14623,9 @@ AW O
 
 184,04 O
 
-sud O
-
--ouest O
+sud-ouest O
 / O
-nord O
-
--est O
+nord-est O
 0 O
 1 O
 AW O
@@ -14797,9 +14645,7 @@ sud O
 - O
 ouest O
 / O
-nord O
-
--est O
+nord-est O
 0 O
 0 O
 X O
@@ -14813,13 +14659,9 @@ AW O
 0,8 O
 0,7 O
 536,86 O
-sud O
-
--ouest O
+sud-ouest O
 / O
-nord O
-
--est O
+nord-est O
 0 O
 6 O
 AW O
@@ -14833,15 +14675,9 @@ AW O
 1,8 O
 0,6 O
 578,11 O
-sud O
-
-- O
-
-ouest O
+sud-ouest O
 / O
-nord O
-
--est O
+nord-est O
 2 O
 7 O
 Fig O
@@ -15163,13 +14999,9 @@ AW O
 1 O
 0,6 O
 547,76 O
-sud O
-
--ouest O
+sud-ouest O
 / O
-nord O
-
--est O
+nord-est O
 1 O
 6 O
 AW O
@@ -15183,13 +15015,9 @@ AW O
 1,25 O
 0,7 O
 490,75 O
-sud O
-
--ouest O
+sud-ouest O
 / O
-nord O
-
--est O
+nord-est O
 0 O
 6 O
 AW O
@@ -15206,9 +15034,7 @@ sud O
 - O
 ouest O
 / O
-nord O
-
--est O
+nord-est O
 2 O
 15 O
 AW O
@@ -15222,15 +15048,9 @@ AW O
 0,6 O
 
 447,33 O
-sud O
-
-- O
-
-ouest O
+sud-ouest O
 / O
-nord O
-
--est O
+nord-est O
 4 O
 9 O
 AW O
@@ -15243,13 +15063,9 @@ AW O
 0,9 O
 0,6 O
 435,65 O
-sud O
-
--ouest O
+sud-ouest O
 / O
-nord O
-
--est O
+nord-est O
 1 O
 16 O
 AW O
@@ -15262,13 +15078,9 @@ AW O
 0,9 O
 0,7 O
 442,52 O
-nord O
-
--est O
+nord-est O
 / O
-sud O
-
--ouest O
+sud-ouest O
 
 0 O
 9 O
@@ -15282,13 +15094,9 @@ AW O
 0,7 O
 0,5 O
 340,26 O
-sud O
-
--ouest O
+sud-ouest O
 / O
-nord O
-
--est O
+nord-est O
 2 O
 4 O
 AW O
@@ -15303,13 +15111,9 @@ AW O
 
 152,05 O
 
-sud O
-
--ouest O
+sud-ouest O
 / O
-nord O
-
--est O
+nord-est O
 0 O
 0 O
 X O
@@ -15325,13 +15129,9 @@ AW O
 
 120,35 O
 
-sud O
-
--ouest O
+sud-ouest O
 / O
-nord O
-
--est O
+nord-est O
 2 O
 24 O
 AW O
@@ -15348,15 +15148,9 @@ AB O
 0,6 O
 0,45 O
 301,61 O
-sud O
-
-- O
-
-ouest O
+sud-ouest O
 / O
-nord O
-
--est O
+nord-est O
 2 O
 24 O
 AW O
@@ -15373,13 +15167,9 @@ AB O
 0,6 O
 0,55 O
 197,24 O
-sud O
-
--ouest O
+sud-ouest O
 / O
-nord O
-
--est O
+nord-est O
 0 O
 15 O
 Emprise O
@@ -15639,12 +15429,12 @@ sous O
 la O
 forme O
 de O
-fosses O
+fosses B-CONTEXTE
 et O
 de O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 ( O
 Fig O
 . O
@@ -15678,7 +15468,7 @@ structures O
 
 Les O
 grandes O
-fosses O
+fosses B-CONTEXTE
 
 7.02 O
 , O
@@ -15689,7 +15479,7 @@ fosses O
 Les O
 trois O
 grandes O
-fosses O
+fosses B-CONTEXTE
 
 7.02 O
 , O
@@ -15990,7 +15780,7 @@ s’ O
 agit O
 d’ O
 une O
-fosse O
+fosse B-CONTEXTE
 profonde O
 de O
 type O
@@ -15998,13 +15788,13 @@ Schlinzgruben O
 , O
 communément O
 datée O
-du O
-Néolithique B-CHRONO
-à O
-l’ O
-âge B-CHRONO
-du I-CHRONO
-Bronze I-CHRONO
+du B-INTERVALLE
+Néolithique I-INTERVALLE
+à I-INTERVALLE
+l’ I-INTERVALLE
+âge I-INTERVALLE
+du I-INTERVALLE
+Bronze I-INTERVALLE
 . O
 
 6 O
@@ -16033,7 +15823,7 @@ Inrap O
 . O
 
 La O
-fosse O
+fosse B-CONTEXTE
 12.02 O
 n’ O
 a O
@@ -16121,9 +15911,9 @@ Inrap O
 . O
 
 Les O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 13.08 O
 , O
 13.09 O
@@ -16132,9 +15922,9 @@ poteau O
 et O
 18.06 O
 Quatre O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 datés O
 de O
 la O
@@ -16181,9 +15971,9 @@ et O
 circulaire O
 pour O
 les O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 13.09 O
 , O
 16.19 O
@@ -16244,8 +16034,8 @@ dans O
 lequel O
 des O
 tessons B-MOB
-de O
-céramique O
+de I-MOB
+céramique I-MOB
 protohistorique B-CHRONO
 ont O
 été O
@@ -16261,7 +16051,7 @@ par O
 un O
 sédiment O
 très O
-charbonneux O
+charbonneux B-MOB
 et O
 la O
 présence O
@@ -16481,8 +16271,8 @@ meuble O
 homogène O
 un O
 tesson B-MOB
-de O
-céramique O
+de I-MOB
+céramique I-MOB
 a O
 été O
 récupéré O
@@ -16853,10 +16643,10 @@ celui-ci O
 pourrait O
 indiquer O
 un O
-montage O
-à O
-la O
-tournette O
+montage B-TECH_STYLE
+à I-TECH_STYLE
+la I-TECH_STYLE
+tournette I-TECH_STYLE
 . O
 
 La O
@@ -17072,7 +16862,7 @@ indigent O
 quatre O
 fragments O
 de O
-vase O
+vase B-MOB
 , O
 soit O
 moins O
@@ -17165,11 +16955,11 @@ habitat O
 rural O
 médiéval B-CHRONO
 allant O
-du O
-IXe B-CHRONO
-au O
-XIVe B-CHRONO
-siècle I-CHRONO
+du B-INTERVALLE
+IXe I-INTERVALLE
+au I-INTERVALLE
+XIVe I-INTERVALLE
+siècle I-INTERVALLE
 . O
 
 Il O
@@ -17219,9 +17009,9 @@ Fig O
 . O
 
 La O
-fosse O
+fosse B-CONTEXTE
 / O
-silo O
+silo B-CONTEXTE
 10.01 O
 
 Dans O
@@ -17230,7 +17020,7 @@ tranchée O
 10 O
 , O
 la O
-fosse O
+fosse B-CONTEXTE
 10.01 O
 apparaît O
 à O
@@ -17290,7 +17080,7 @@ environ O
 m O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 10.02 O
 , O
 elle O
@@ -17341,7 +17131,7 @@ Puis O
 un O
 rejet O
 de O
-foyer O
+foyer B-CONTEXTE
 est O
 bien O
 visible O
@@ -17749,7 +17539,7 @@ Inrap O
 . O
 
 Le O
-silo O
+silo B-CONTEXTE
 16.01 O
 Dans O
 la O
@@ -17917,8 +17707,8 @@ et O
 riche O
 en O
 tessons B-MOB
-de O
-céramique O
+de I-MOB
+céramique I-MOB
 du O
 Xe B-CHRONO
 et O
@@ -18024,7 +17814,7 @@ Inrap O
 . O
 
 Les O
-fosses O
+fosses B-CONTEXTE
 10.02 O
 , O
 16.03 O
@@ -18056,7 +17846,7 @@ l’ O
 emprise O
 , O
 douze O
-fosses O
+fosses B-CONTEXTE
 ont O
 été O
 repérées O
@@ -18064,9 +17854,9 @@ et O
 sont O
 proches O
 des O
-fosses O
+fosses B-CONTEXTE
 ou O
-silos O
+silos B-CONTEXTE
 médiévaux B-CHRONO
 . O
 
@@ -18088,7 +17878,7 @@ ont O
 déterminées O
 comme O
 « O
-fosse O
+fosse B-CONTEXTE
 » O
 mais O
 , O
@@ -18099,7 +17889,7 @@ réalité O
 correspondre O
 à O
 des O
-silos O
+silos B-CONTEXTE
 . O
 
 Elles O
@@ -18197,7 +17987,7 @@ Fig O
 
 23 O
 Les O
-fosses O
+fosses B-CONTEXTE
 10.02 O
 , O
 16.03 O
@@ -18261,9 +18051,9 @@ structure O
 . O
 
 Les O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 : O
 16.04 O
 , O
@@ -18338,9 +18128,9 @@ et O
 18.15 O
 
 Trente-six O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 peuvent O
 être O
 rattachés O
@@ -18418,9 +18208,9 @@ est O
 - O
 dire O
 les O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 16.05 O
 , O
 16.18 O
@@ -18466,9 +18256,9 @@ certains O
 , O
 comme O
 les O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 16.17 O
 , O
 17.04 O
@@ -18483,9 +18273,9 @@ observé O
 . O
 
 Le O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 17.16 O
 lui O
 se O
@@ -18516,15 +18306,15 @@ et O
 18.05 O
 des O
 tessons B-MOB
-de O
-céramique O
+de I-MOB
+céramique I-MOB
 médiévale B-CHRONO
 ( O
-du O
-Xe B-CHRONO
-au O
-XIIIe B-CHRONO
-siècles I-CHRONO
+du B-INTERVALLE
+Xe I-INTERVALLE
+au I-INTERVALLE
+XIIIe I-INTERVALLE
+siècles I-INTERVALLE
 ) O
 ont O
 été O
@@ -18538,9 +18328,9 @@ Fig O
 Quelques O
 exemples O
 de O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 mis O
 au O
 jour O
@@ -18732,7 +18522,7 @@ m O
 . O
 
 Un O
-fossé O
+fossé B-CONTEXTE
 16.02 O
 Dans O
 la O
@@ -18741,9 +18531,9 @@ tranchée O
 , O
 entre O
 les O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 16.11 O
 , O
 16.12 O
@@ -18751,12 +18541,12 @@ et O
 16.13 O
 et O
 la O
-fosse O
+fosse B-CONTEXTE
 16.03 O
 , O
 un O
-fossé O
-linéaire O
+fossé B-CONTEXTE
+linéaire I-CONTEXTE
 a O
 été O
 observé O
@@ -18902,8 +18692,8 @@ par O
 
 Quatorze O
 tessons B-MOB
-de O
-céramique O
+de I-MOB
+céramique I-MOB
 datés O
 du O
 XIe B-CHRONO
@@ -18925,7 +18715,7 @@ Fig O
 25 O
 
 Le O
-fossé O
+fossé B-CONTEXTE
 16.02 O
 , O
 © O
@@ -18977,7 +18767,7 @@ De O
 nombreuses O
 sections O
 de O
-fossés O
+fossés B-CONTEXTE
 ont O
 été O
 repérés O
@@ -18995,8 +18785,8 @@ Elles O
 correspondent O
 à O
 des O
-limites O
-parcellaires O
+limites B-CONTEXTE
+parcellaires I-CONTEXTE
 visibles O
 sur O
 le O
@@ -19333,9 +19123,7 @@ Eau O
 x O
 de O
 Vie O
-nne O
-
-- O
+nne- O
 Siv O
 eer O
 ) O
@@ -19375,9 +19163,7 @@ ux O
 de O
 Vie O
 nn O
-e O
-
-- O
+e- O
 Siv O
 ee O
 r O
@@ -19489,9 +19275,7 @@ Eau O
 x O
 de O
 Vie O
-nne O
-
-- O
+nne- O
 Siv O
 eer O
 ) O
@@ -19568,9 +19352,7 @@ ux O
 de O
 Vie O
 nn O
-e O
-
-- O
+e- O
 Siv O
 ee O
 r O
@@ -20305,7 +20087,7 @@ Inrap O
 . O
 
 Un O
-parcellaire O
+parcellaire B-CONTEXTE
 récent O
 visible O
 sur O
@@ -20315,8 +20097,8 @@ ancien O
 Plusieurs O
 sections O
 de O
-fossés O
-parcellaires O
+fossés B-CONTEXTE
+parcellaires I-CONTEXTE
 présents O
 sur O
 le O
@@ -20332,8 +20114,8 @@ archéologique O
 . O
 
 Neuf O
-fossés O
-parcellaires O
+fossés B-CONTEXTE
+parcellaires I-CONTEXTE
 ont O
 été O
 décomptés O
@@ -20388,13 +20170,9 @@ linéaires O
 et O
 orientés O
 
-nord O
-
--ouest O
+nord-ouest O
 / O
-sud O
-
--est O
+sud-est O
 à O
 l’ O
 exception O
@@ -20405,19 +20183,11 @@ section O
 qui O
 est O
 axée O
-nord O
-
--nord O
+nord-nord O
 
 -ouest O
 / O
-sud O
-
-- O
-
-sud O
-
--est O
+sud-sud-est O
 et O
 les O
 tronçons O
@@ -20427,15 +20197,11 @@ et O
 qui O
 sont O
 orientés O
-sud O
-
--sud O
+sud-sud O
 
 -ouest O
 / O
-nord O
-
--nord O
+nord-nord O
 
 -est O
 . O
@@ -20443,7 +20209,7 @@ nord O
 Également O
 , O
 les O
-fossés O
+fossés B-CONTEXTE
 10.12 O
 et O
 11.03 O
@@ -20783,9 +20549,7 @@ Eau O
 x O
 de O
 Vie O
-nne O
-
-- O
+nne- O
 Siv O
 eer O
 ) O
@@ -20825,9 +20589,7 @@ ux O
 de O
 Vie O
 nn O
-e O
-
-- O
+e- O
 Siv O
 ee O
 r O
@@ -21424,9 +21186,7 @@ Eau O
 x O
 de O
 Vie O
-nne O
-
-- O
+nne- O
 Siv O
 eer O
 ) O
@@ -21494,9 +21254,7 @@ ux O
 de O
 Vie O
 nn O
-e O
-
-- O
+e- O
 Siv O
 ee O
 r O
@@ -22116,7 +21874,7 @@ ce O
 type O
 d’ O
 organisation O
-parcellaire O
+parcellaire B-CONTEXTE
 . O
 
 Trois O
@@ -22126,7 +21884,7 @@ ont O
 réalisés O
 dans O
 les O
-fossés O
+fossés B-CONTEXTE
 7.01 O
 ( O
 Fig O
@@ -22237,7 +21995,7 @@ silex O
 SO O
 NE O
 T.V. O
-ornière O
+ornière B-CONTEXTE
 01 O
 F O
 7.01 O
@@ -22266,7 +22024,7 @@ Fig O
 28 O
 Coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 7.01 O
 
 © O
@@ -22325,7 +22083,7 @@ Fig O
 29 O
 Coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 12.01 O
 
 © O
@@ -22352,7 +22110,7 @@ Fig O
 30 O
 Coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 17.21 O
 
 © O
@@ -22413,7 +22171,7 @@ F17.22 O
 . O
 
 Un O
-parcellaire O
+parcellaire B-CONTEXTE
 récent O
 visible O
 sur O
@@ -22421,7 +22179,7 @@ les O
 photos O
 aériennes O
 Trois O
-fossés O
+fossés B-CONTEXTE
 distincts O
 ont O
 également O
@@ -22461,8 +22219,8 @@ semblent O
 correspondre O
 à O
 des O
-limites O
-parcellaires O
+limites B-CONTEXTE
+parcellaires I-CONTEXTE
 récentes O
 , O
 c’ O
@@ -22472,8 +22230,8 @@ est O
 - O
 dire O
 du O
-XXe O
-siècle O
+XXe B-CHRONO
+siècle I-CHRONO
 , O
 qui O
 sont O
@@ -22492,19 +22250,11 @@ Fig O
 Ils O
 sont O
 axés O
-nord O
-
--nord O
+nord-nord O
 
 -ouest O
 / O
-sud O
-
-- O
-
-sud O
-
--est O
+sud-sud-est O
 . O
 
 Ils O
@@ -22560,7 +22310,7 @@ silex O
 Le O
 tronçon O
 de O
-fossé O
+fossé B-CONTEXTE
 9.05 O
 se O
 distingue O
@@ -22569,15 +22319,15 @@ la O
 présence O
 de O
 deux O
-blocs O
-calcaires O
+blocs B-MOB
+calcaires B-MAT
 équarris O
 de O
 module O
 moyen O
 : O
 
-Bloc O
+Bloc B-MOB
 n° O
 1 O
 : O
@@ -22597,7 +22347,7 @@ d’ O
 épaisseur O
 ; O
 
-Bloc O
+Bloc B-MOB
 n° O
 2 O
 : O
@@ -22627,13 +22377,13 @@ Fig O
 , O
 un O
 tesson B-MOB
-de O
-céramique O
+de I-MOB
+céramique I-MOB
 daté O
 du O
-XVIe B-CHRONO
-‑XVIIe B-CHRONO
-siècles I-CHRONO
+XVIe B-INTERVALLE
+‑XVIIe I-INTERVALLE
+siècles I-INTERVALLE
 a O
 été O
 découvert O
@@ -22642,7 +22392,7 @@ le O
 comblement O
 de O
 ce O
-fossé O
+fossé B-CONTEXTE
 . O
 
 2 O
@@ -22655,7 +22405,7 @@ fossé O
 . O
 
 Un O
-parcellaire O
+parcellaire B-CONTEXTE
 orienté O
 ouest-est O
 Six O
@@ -22770,7 +22520,7 @@ a O
 réalisé O
 dans O
 ces O
-fossés O
+fossés B-CONTEXTE
 , O
 au O
 cours O
@@ -22803,7 +22553,7 @@ exploration O
 
 Les O
 anciens O
-chemins O
+chemins B-CONTEXTE
 Sur O
 l’ O
 ensemble O
@@ -22813,7 +22563,7 @@ emprise O
 , O
 trois O
 anciens O
-chemins O
+chemins B-CONTEXTE
 ( O
 structures O
 12.15 O
@@ -22881,7 +22631,7 @@ Fig O
 
 31 O
 Les O
-blocs O
+blocs B-MOB
 n° O
 1 O
 et O
@@ -22890,7 +22640,7 @@ n° O
 découverts O
 dans O
 le O
-fossé O
+fossé B-CONTEXTE
 9.05, O
 © O
 clichés O
@@ -23158,11 +22908,11 @@ présent O
 dans O
 le O
 Poitou O
-du O
-IXe B-CHRONO
-au O
-XIVe B-CHRONO
-siècle I-CHRONO
+du B-INTERVALLE
+IXe I-INTERVALLE
+au I-INTERVALLE
+XIVe I-INTERVALLE
+siècle I-INTERVALLE
 . O
 
 La O
@@ -23181,9 +22931,9 @@ IXe B-CHRONO
 siècle I-CHRONO
 ? O
 
-IXe B-CHRONO
--Xe B-CHRONO
-siècles I-CHRONO
+IXe B-INTERVALLE
+-Xe I-INTERVALLE
+siècles I-INTERVALLE
 ? O
 ) O
 . O
@@ -23279,9 +23029,9 @@ peut O
 être O
 attribuée O
 aux O
-XIe B-CHRONO
--XIIe B-CHRONO
-siècles I-CHRONO
+XIe B-INTERVALLE
+-XIIe I-INTERVALLE
+siècles I-INTERVALLE
 . O
 
 Elle O
@@ -23348,9 +23098,9 @@ la O
 période B-CHRONO
 moderne I-CHRONO
 ( O
-XVe B-CHRONO
-‑XVIIe B-CHRONO
-siècle I-CHRONO
+XVe B-INTERVALLE
+‑XVIIe I-INTERVALLE
+siècle I-INTERVALLE
 ) O
 . O
 
@@ -23376,9 +23126,9 @@ structure O
 18.08 O
 date O
 des O
-XVIIIe B-CHRONO
--XIXe B-CHRONO
-siècles I-CHRONO
+XVIIIe B-INTERVALLE
+-XIXe I-INTERVALLE
+siècles I-INTERVALLE
 . O
 
 Il O
@@ -23388,7 +23138,7 @@ d’ O
 un O
 tesson B-MOB
 en O
-faïence O
+faïence B-MAT
 blanche O
 à O
 décor O
@@ -23562,7 +23312,7 @@ diagnostic O
 . O
 
 Un O
-mur O
+mur B-CONTEXTE
 11.05 O
 Dans O
 la O
@@ -23570,26 +23320,16 @@ tranchée O
 11 O
 , O
 un O
-mur O
+mur B-CONTEXTE
 ( O
 11.05 O
 ) O
 orienté O
-nord O
-
--nord O
+nord-nord O
 
 -est O
 / O
-sud O
-
-- O
-
-sud O
-
-- O
-
-ouest O
+sud-sud-ouest O
 n’ O
 a O
 été O
@@ -23644,7 +23384,7 @@ non O
 . O
 
 Ce O
-mur O
+mur B-CONTEXTE
 est O
 légèrement O
 désaxé O
@@ -23691,8 +23431,8 @@ Il O
 est O
 constitué O
 de O
-blocs O
-calcaires O
+blocs B-MOB
+calcaires B-MAT
 non O
 équarris O
 de O
@@ -23734,11 +23474,11 @@ découvert O
 . O
 
 Les O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 / O
-fosses O
+fosses B-CONTEXTE
 11.01 O
 , O
 12.05 O
@@ -23749,12 +23489,12 @@ Trois O
 structures O
 de O
 type O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 ou O
 petite O
-fosse O
+fosse B-CONTEXTE
 n’ O
 ont O
 pu O
@@ -23870,7 +23610,7 @@ Fig O
 34 O
 
 Le O
-mur O
+mur B-CONTEXTE
 11.05 O
 , O
 © O
@@ -23898,7 +23638,7 @@ Inrap O
 . O
 
 La O
-fosse O
+fosse B-CONTEXTE
 4.01 O
 Dans O
 la O
@@ -23906,7 +23646,7 @@ tranchée O
 4 O
 , O
 une O
-fosse O
+fosse B-CONTEXTE
 4.01 O
 n’ O
 a O
@@ -24004,7 +23744,7 @@ Fig O
 . O
 
 Les O
-fossés O
+fossés B-CONTEXTE
 3.02 O
 , O
 6.03 O
@@ -24027,7 +23767,7 @@ et O
 Neuf O
 sections O
 de O
-fossé O
+fossé B-CONTEXTE
 ( O
 3.02 O
 , O
@@ -24179,7 +23919,7 @@ la O
 partie O
 inférieure O
 du O
-fossé O
+fossé B-CONTEXTE
 . O
 
 Puis O
@@ -24250,7 +23990,7 @@ Fig O
 35 O
 
 La O
-fosse O
+fosse B-CONTEXTE
 4.01 O
 , O
 © O
@@ -24454,16 +24194,16 @@ Inrap O
 . O
 
 Le O
-fossé O
+fossé B-CONTEXTE
 interrompu O
 10.07 O
 et O
 10.09 O
 et O
 le O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 associé O
 10.08 O
 ? O
@@ -24477,7 +24217,7 @@ les O
 deux O
 extrémités O
 de O
-fossés O
+fossés B-CONTEXTE
 10.07 O
 et O
 10.09 O
@@ -24487,9 +24227,9 @@ organiser O
 . O
 
 Le O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 10.08 O
 peut O
 y O
@@ -24602,9 +24342,9 @@ ferrugineuses O
 . O
 
 Le O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 10.08 O
 est O
 situé O
@@ -24615,7 +24355,7 @@ m O
 l’ O
 est O
 du O
-fossé O
+fossé B-CONTEXTE
 10.09 O
 . O
 
@@ -24703,7 +24443,7 @@ Fig O
 
 37 O
 Le O
-fossé O
+fossé B-CONTEXTE
 17.17 O
 
 © O
@@ -24832,13 +24572,13 @@ Vue O
 d’ O
 ensemble O
 du O
-fossé O
+fossé B-CONTEXTE
 10.09 O
 et O
 du O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 10.08 O
 , O
 coupes O
@@ -24875,9 +24615,7 @@ route O
 de O
 Croutelle O
 au O
-lieu O
-
--dit O
+lieu-dit O
 Fief O
 du O
 Pilier O
@@ -24913,17 +24651,17 @@ sous O
 la O
 forme O
 de O
-fosses O
+fosses B-CONTEXTE
 , O
-silos O
+silos B-CONTEXTE
 , O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 et O
 d’ O
 un O
-fossé O
+fossé B-CONTEXTE
 . O
 
 Cet O
@@ -24936,9 +24674,9 @@ habitat O
 rural O
 avec O
 une O
-zone O
-de O
-stockage O
+zone B-CONTEXTE
+de I-CONTEXTE
+stockage I-CONTEXTE
 enterrée O
 . O
 
@@ -24988,12 +24726,12 @@ déterminer O
 une O
 occupation O
 allant O
-du O
-IXe B-CHRONO
-au O
-XIIIe B-CHRONO
--XVe B-CHRONO
-siècles I-CHRONO
+du B-INTERVALLE
+IXe I-INTERVALLE
+au I-INTERVALLE
+XIIIe I-INTERVALLE
+-XVe I-INTERVALLE
+siècles I-INTERVALLE
 . O
 
 Ces O
@@ -25003,15 +24741,15 @@ aux O
 moines O
 de O
 l’ O
-abbaye O
+abbaye B-CONTEXTE
 de O
 Ligugé O
 jusqu’ O
 au O
 milieu O
 du O
-XXe B-CHRONO
-siècle I-CHRONO
+XXe O
+siècle O
 qui O
 les O
 cultivaient O
@@ -25034,8 +24772,8 @@ pourraient O
 expliquer O
 les O
 nombreuses O
-limites O
-parcellaires O
+limites B-CONTEXTE
+parcellaires I-CONTEXTE
 . O
 
 D’ O
@@ -25097,22 +24835,22 @@ souligner O
 la O
 présence O
 de O
-fosses O
+fosses B-CONTEXTE
 profondes O
 dites O
 de O
 type O
-Schlitzgruben O
+Schlitzgruben B-CONTEXTE
 , O
 appelées O
 également O
-fosses O
-en O
-« O
-Y O
-et O
-V O
-» O
+fosses B-CONTEXTE
+en I-CONTEXTE
+« I-CONTEXTE
+Y I-CONTEXTE
+et I-CONTEXTE
+V I-CONTEXTE
+» I-CONTEXTE
 . O
 
 Elle O
@@ -25121,30 +24859,30 @@ se O
 développer O
 en O
 France O
-entre O
-le O
-Néolithique B-CHRONO
-ancien I-CHRONO
-et O
-à O
-l’ O
-âge B-CHRONO
-du I-CHRONO
-Bronze I-CHRONO
-final I-CHRONO
+entre B-INTERVALLE
+le I-INTERVALLE
+Néolithique I-INTERVALLE
+ancien I-INTERVALLE
+et I-INTERVALLE
+à I-INTERVALLE
+l’ I-INTERVALLE
+âge I-INTERVALLE
+du I-INTERVALLE
+Bronze I-INTERVALLE
+final I-INTERVALLE
 avec O
 une O
 nette O
 représentation O
-du O
-Néolithique B-CHRONO
-récent I-CHRONO
-à O
-l’ O
-âge B-CHRONO
-du I-CHRONO
-Bronze I-CHRONO
-final11 I-CHRONO
+du B-INTERVALLE
+Néolithique I-INTERVALLE
+récent I-INTERVALLE
+à I-INTERVALLE
+l’ I-INTERVALLE
+âge I-INTERVALLE
+du I-INTERVALLE
+Bronze I-INTERVALLE
+final11 I-INTERVALLE
 . O
 
 Leur O
@@ -25192,8 +24930,8 @@ ARC O
 Les O
 systèmes O
 de O
-fosses O
-profondes O
+fosses B-CONTEXTE
+profondes I-CONTEXTE
 à O
 la O
 Pré- B-CHRONO
@@ -25202,11 +24940,11 @@ Protohistoire B-CHRONO
 : O
 cartographie O
 des O
-fosses O
-cylindriques O
+fosses B-CONTEXTE
+cylindriques I-CONTEXTE
 et O
 des O
-Schlitzgruben O
+Schlitzgruben B-CONTEXTE
 à O
 l’ O
 échelle O
@@ -25214,9 +24952,7 @@ nationale12 O
 dirigé O
 par O
 N. O
-Achard O
-
--Corompt O
+Achard-Corompt O
 et O
 V. O
 Riquier13 O
@@ -25257,7 +24993,7 @@ emblématique O
 tel O
 que O
 l’ O
-abbaye O
+abbaye B-CONTEXTE
 de O
 Ligugé O
 . O
@@ -25265,9 +25001,7 @@ Ligugé O
 11 O
 . O
 
-Achard O
-
--Corompt O
+Achard-Corompt O
 et O
 al O
 . O
@@ -25301,22 +25035,16 @@ GEN O
 
 CONCLUSION O
 
-Achard O
-
--Corompt O
+Achard-Corompt O
 et O
 al O
 . O
 
 2010 O
-ACHARD O
-
--COROMPT O
+ACHARD-COROMPT O
 G. O
 , O
-ACHARD O
-
--COROMPT O
+ACHARD-COROMPT O
 N. O
 , O
 DESBROSSE O
@@ -25351,33 +25079,29 @@ artisanat O
 ? O
 
 Premiers O
-résul O
-
-- O
-
-tats O
+résul-tats O
 du O
 projet O
 collectif O
 relatif O
 aux O
-fosses O
-à O
-profil O
-« O
-en O
-V O
-, O
-Y O
-et O
-W O
-» O
+fosses B-CONTEXTE
+à I-CONTEXTE
+profil I-CONTEXTE
+« I-CONTEXTE
+en I-CONTEXTE
+V I-CONTEXTE
+, I-CONTEXTE
+Y I-CONTEXTE
+et I-CONTEXTE
+W I-CONTEXTE
+» I-CONTEXTE
 , O
 Bulletin O
 de O
 la O
 Société O
-Préhistorique B-CHRONO
+Préhistorique O
 fran O
 - O
 çaise O
@@ -25834,9 +25558,7 @@ Coord O
 
 ) O
 , O
-ACHARD O
-
--COROMPT O
+ACHARD-COROMPT O
 N. O
 , O
 AUBRY O
@@ -25933,19 +25655,19 @@ J. O
 Les O
 systèmes O
 de O
-fosses O
-profondes O
+fosses B-CONTEXTE
+profondes I-CONTEXTE
 à O
 la O
-Pré-Protohistoire O
+Pré-Protohistoire B-CHRONO
 : O
 cartographie O
 des O
-fosses O
-mésolithiques O
+fosses B-CONTEXTE
+mésolithiques B-CHRONO
 et O
 des O
-Schlitzgruben O
+Schlitzgruben B-CONTEXTE
 à O
 l’ O
 échelle O
@@ -25980,7 +25702,7 @@ séance O
 de O
 la O
 Société O
-préhistorique B-CHRONO
+préhistorique O
 française O
 , O
 à O
@@ -25994,9 +25716,7 @@ VÉQUAUD O
 ( O
 B. O
 ) O
-. O
-
-- O
+.- O
 La O
 céramique B-MOB
 médiévale B-CHRONO
@@ -26017,9 +25737,7 @@ médiévale B-CHRONO
 et O
 moderne B-CHRONO
 du O
-Centre O
-
--Ouest O
+Centre-Ouest O
 de O
 la O
 France O
@@ -26079,9 +25797,7 @@ VÉQUAUD O
 ( O
 B. O
 ) O
-. O
-
-- O
+.- O
 Le O
 haut-Poitou O
 : O
@@ -26108,18 +25824,14 @@ Moyen I-CHRONO
 Âge I-CHRONO
 dans O
 le O
-Centre O
-
--Ouest O
+Centre-Ouest O
 de O
 la O
 France O
 : O
 de O
 la O
-chrono O
-
--typologie O
+chrono-typologie O
 aux O
 aires O
 culturelles O
@@ -26498,7 +26210,7 @@ Fig O
 Plan O
 de O
 l’ O
-abbaye O
+abbaye B-CONTEXTE
 Saint-Martin O
 de O
 Ligugé O
@@ -26512,7 +26224,7 @@ brochure O
 « O
 
 L’ O
-abbaye O
+abbaye B-CONTEXTE
 de O
 Ligugé O
 » O
@@ -26861,7 +26573,7 @@ Fig O
 
 23 O
 Les O
-fosses O
+fosses B-CONTEXTE
 10.02 O
 , O
 16.03 O
@@ -26905,9 +26617,9 @@ Fig O
 Quelques O
 exemples O
 de O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 mis O
 au O
 jour O
@@ -26953,7 +26665,7 @@ Fig O
 25 O
 
 Le O
-fossé O
+fossé B-CONTEXTE
 16.02 O
 , O
 © O
@@ -27028,7 +26740,7 @@ Figure O
 
 Coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 7.01 O
 , O
 © O
@@ -27056,7 +26768,7 @@ Fig O
 29 O
 Coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 12.01 O
 , O
 © O
@@ -27083,7 +26795,7 @@ Fig O
 30 O
 Coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 17.21 O
 , O
 © O
@@ -27110,7 +26822,7 @@ Fig O
 
 31 O
 Les O
-blocs O
+blocs B-MOB
 
 n° O
 1 O
@@ -27121,7 +26833,7 @@ n° O
 découvert O
 dans O
 le O
-fossé O
+fossé B-CONTEXTE
 9.05 O
 , O
 
@@ -27193,7 +26905,7 @@ Fig O
 34 O
 
 Le O
-mur O
+mur B-CONTEXTE
 11.05 O
 , O
 © O
@@ -27218,7 +26930,7 @@ Fig O
 35 O
 
 La O
-fosse O
+fosse B-CONTEXTE
 4.01 O
 , O
 © O
@@ -27274,7 +26986,7 @@ Fig O
 37 O
 
 Le O
-fossé O
+fossé B-CONTEXTE
 17.17, O
 © O
 cliché O
@@ -27301,13 +27013,13 @@ Vue O
 d’ O
 ensemble O
 du O
-fossé O
+fossé B-CONTEXTE
 10.09 O
 et O
 du O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 10.08 O
 , O
 coupes O
@@ -27345,9 +27057,7 @@ des O
 tranchées O
 Commune O
 
-Lieu O
-
--dit O
+Lieu-dit O
 Parcelle O
 N O
 ° O
@@ -27427,9 +27137,7 @@ AW O
 1,15 O
 0,8 O
 187,69 O
-sud O
-
--ouest/ O
+sud-ouest/ O
 nord-est O
 0 O
 0 O
@@ -27456,9 +27164,7 @@ AW O
 
 0,6 O
 95,68 O
-sud O
-
--ouest/ O
+sud-ouest/ O
 nord-est O
 0 O
 0 O
@@ -27485,9 +27191,7 @@ AW O
 0,7 O
 193,83 O
 
-sud O
-
--ouest/ O
+sud-ouest/ O
 nord-est O
 0 O
 2 O
@@ -27509,9 +27213,7 @@ AW O
 1,1 O
 0,6 O
 184,04 O
-sud O
-
--ouest/ O
+sud-ouest/ O
 nord-est O
 0 O
 1 O
@@ -27560,9 +27262,7 @@ AW O
 0,8 O
 0,7 O
 536,86 O
-sud O
-
--ouest/ O
+sud-ouest/ O
 nord-est O
 0 O
 6 O
@@ -27585,11 +27285,7 @@ AW O
 1,8 O
 0,6 O
 578,11 O
-sud O
-
-- O
-
-ouest/ O
+sud-ouest/ O
 nord-est O
 2 O
 7 O
@@ -27640,11 +27336,7 @@ AW O
 1,25 O
 0,7 O
 490,75 O
-sud O
-
-- O
-
-ouest/ O
+sud-ouest/ O
 nord-est O
 0 O
 6 O
@@ -27695,11 +27387,7 @@ AW O
 
 447,33 O
 
-sud O
-
-- O
-
-ouest/ O
+sud-ouest/ O
 nord-est O
 4 O
 9 O
@@ -27723,11 +27411,7 @@ AW O
 0,9 O
 0,6 O
 435,65 O
-sud O
-
-- O
-
-ouest/ O
+sud-ouest/ O
 nord-est O
 1 O
 16 O
@@ -27750,9 +27434,7 @@ AW O
 0,7 O
 
 442,52 O
-nord O
-
--est/ O
+nord-est/ O
 sud-ouest O
 0 O
 9 O
@@ -27803,9 +27485,7 @@ AW O
 0,5 O
 152,05 O
 
-sud O
-
--ouest/ O
+sud-ouest/ O
 nord-est O
 0 O
 0 O
@@ -27834,11 +27514,7 @@ AW O
 
 120,35 O
 
-sud O
-
-- O
-
-ouest/ O
+sud-ouest/ O
 nord-est O
 2 O
 24 O
@@ -27864,11 +27540,7 @@ AB O
 0,6 O
 0,45 O
 301,61 O
-sud O
-
-- O
-
-ouest/ O
+sud-ouest/ O
 nord-est O
 2 O
 24 O
@@ -27894,11 +27566,7 @@ AB O
 0,6 O
 0,55 O
 197,24 O
-sud O
-
-- O
-
-ouest/ O
+sud-ouest/ O
 nord-est O
 0 O
 15 O
@@ -27995,11 +27663,11 @@ céramique B-MOB
 30 O
 1 O
 3/20/2019 O
-Néolithique B-CHRONO
-/ O
-âge B-CHRONO
-du I-CHRONO
-Bronze I-CHRONO
+Néolithique B-INTERVALLE
+/ I-INTERVALLE
+âge I-INTERVALLE
+du I-INTERVALLE
+Bronze I-INTERVALLE
 3/20/2019 O
 1 O
 9 O
@@ -28012,10 +27680,8 @@ AW O
 céramique B-MOB
 1 O
 3/27/2019 O
-16 O
-
--17ème B-CHRONO
-siècle I-CHRONO
+16-17ème B-INTERVALLE
+siècle I-INTERVALLE
 3/27/2019 O
 1 O
 10 O
@@ -28061,9 +27727,9 @@ céramique B-MOB
 2 O
 4/3/2019 O
 
-10- B-CHRONO
-13ème B-CHRONO
-siècle I-CHRONO
+10- B-INTERVALLE
+13ème I-INTERVALLE
+siècle I-INTERVALLE
 4/3/2019 O
 1 O
 16 O
@@ -28074,12 +27740,8 @@ AW O
 céramique B-MOB
 14 O
 4/3/2019 O
-11 O
-
-- O
-
-12ème B-CHRONO
-siècle I-CHRONO
+11-12ème B-INTERVALLE
+siècle I-INTERVALLE
 4/3/2019 O
 1 O
 16 O
@@ -28104,10 +27766,8 @@ AW O
 céramique B-MOB
 2 O
 4/4/2019 O
-10 O
-
--13ème B-CHRONO
-siècle I-CHRONO
+10-13ème B-INTERVALLE
+siècle I-INTERVALLE
 4/4/2019 O
 1 O
 17 O
@@ -28134,10 +27794,8 @@ AW O
 céramique B-MOB
 3 O
 4/4/2019 O
-11 O
-
--13ème B-CHRONO
-siècle I-CHRONO
+11-13ème B-INTERVALLE
+siècle I-INTERVALLE
 
 4/4/2019 O
 1 O
@@ -28269,7 +27927,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 6.01 O
 nord O
 3/25/2019 O
@@ -28283,7 +27941,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 
 6.06 O
 sud O
@@ -28385,7 +28043,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 3.02 O
 , O
 avec O
@@ -28405,7 +28063,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 3.02 O
 , O
 avec O
@@ -28425,7 +28083,7 @@ Vue O
 en O
 coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 7.01 O
 nord-ouest O
 3/26/2019 O
@@ -28439,7 +28097,7 @@ Vue O
 en O
 coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 7.01 O
 nord-ouest O
 3/26/2019 O
@@ -28453,7 +28111,7 @@ Vue O
 en O
 coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 7.01 O
 nord-ouest O
 3/26/2019 O
@@ -28468,7 +28126,7 @@ en O
 plan O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 7.02 O
 nord-est O
 3/26/2019 O
@@ -28482,7 +28140,7 @@ en O
 plan O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 
 7.02 O
 ouest O
@@ -28498,7 +28156,7 @@ en O
 coupe O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 
 7.02 O
 nord O
@@ -28513,7 +28171,7 @@ en O
 coupe O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 
 7.02 O
 nord O
@@ -28528,7 +28186,7 @@ en O
 coupe O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 
 7.02 O
 nord O
@@ -28543,7 +28201,7 @@ en O
 coupe O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 
 7.02 O
 nord O
@@ -28559,7 +28217,7 @@ en O
 coupe O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 
 7.02 O
 nord-est O
@@ -28601,7 +28259,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 7.04 O
 nord O
 3/26/2019 O
@@ -28615,7 +28273,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 7.05 O
 nord-est O
 3/26/2019 O
@@ -28631,7 +28289,7 @@ Vue O
 en O
 plan O
 des O
-fossés O
+fossés B-CONTEXTE
 7.06 O
 et O
 7.07 O
@@ -28650,7 +28308,7 @@ de O
 l’ O
 extrémité O
 de O
-fossé O
+fossé B-CONTEXTE
 8.05 O
 
 nord-ouest O
@@ -28665,7 +28323,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 8.03 O
 nord-est O
 
@@ -28680,7 +28338,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 8.06 O
 nord-est O
 3/27/2019 O
@@ -28694,7 +28352,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 8.06 O
 nord-est O
 3/27/2019 O
@@ -28709,7 +28367,7 @@ Vue O
 en O
 plan O
 du O
-drain O
+drain B-CONTEXTE
 ? O
 
 sud-ouest O
@@ -28857,7 +28515,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 
 9.06 O
 nord-est O
@@ -28873,7 +28531,7 @@ Vue O
 en O
 plan O
 du O
-silo O
+silo B-CONTEXTE
 10.01 O
 
 zénithale O
@@ -28889,7 +28547,7 @@ Vue O
 en O
 plan O
 du O
-silo O
+silo B-CONTEXTE
 10.01 O
 
 zénithale O
@@ -28905,7 +28563,7 @@ Vue O
 en O
 coupe O
 du O
-silo O
+silo B-CONTEXTE
 10.01 O
 
 nord-est O
@@ -28919,7 +28577,7 @@ Vue O
 en O
 coupe O
 du O
-silo O
+silo B-CONTEXTE
 10.01 O
 oblique O
 
@@ -28935,7 +28593,7 @@ Vue O
 en O
 coupe O
 du O
-silo O
+silo B-CONTEXTE
 10.01 O
 oblique O
 
@@ -28951,7 +28609,7 @@ Vue O
 en O
 coupe O
 du O
-silo O
+silo B-CONTEXTE
 10.01 O
 oblique O
 
@@ -28967,7 +28625,7 @@ Vue O
 en O
 coupe O
 du O
-silo O
+silo B-CONTEXTE
 10.01 O
 
 nord O
@@ -28984,7 +28642,7 @@ Vue O
 en O
 coupe O
 du O
-silo O
+silo B-CONTEXTE
 10.01 O
 oblique O
 
@@ -29002,7 +28660,7 @@ en O
 plan O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 10.02 O
 
 zénithale O
@@ -29017,7 +28675,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 
 10.03 O
 sud-ouest O
@@ -29032,7 +28690,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 10.04 O
 est O
 3/28/2019 O
@@ -29046,7 +28704,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 10.04 O
 nord O
 3/28/2019 O
@@ -29061,7 +28719,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 10.05 O
 sud-ouest O
 
@@ -29078,7 +28736,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 10.06 O
 nord-est O
 
@@ -29097,7 +28755,7 @@ de O
 l’ O
 extrémité O
 de O
-fossé O
+fossé B-CONTEXTE
 
 10.07 O
 sud-ouest O
@@ -29114,9 +28772,9 @@ Vue O
 en O
 plan O
 du O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 10.08 O
 zénithale O
 
@@ -29134,7 +28792,7 @@ de O
 l’ O
 extrémité O
 du O
-fossé O
+fossé B-CONTEXTE
 10.09 O
 nord-est O
 3/28/2019 O
@@ -29150,7 +28808,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 10.06 O
 nord-est O
 
@@ -29165,7 +28823,7 @@ Vue O
 en O
 plan O
 du O
-drain O
+drain B-CONTEXTE
 ? O
 
 nord-est O
@@ -29180,9 +28838,9 @@ Vue O
 en O
 plan O
 du O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 10.11 O
 zénithale O
 3/28/2019 O
@@ -29197,7 +28855,7 @@ Vue O
 en O
 plan O
 du O
-drain O
+drain B-CONTEXTE
 ? O
 
 nord-est O
@@ -29213,7 +28871,7 @@ Vue O
 en O
 plan O
 du O
-drain O
+drain B-CONTEXTE
 ? O
 
 nord-est O
@@ -29229,7 +28887,7 @@ Vue O
 en O
 plan O
 du O
-drain O
+drain B-CONTEXTE
 ? O
 
 nord-est O
@@ -29246,7 +28904,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 10.15 O
 
 nord-est O
@@ -29262,7 +28920,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 10.15 O
 
 nord-est O
@@ -29278,7 +28936,7 @@ Vue O
 en O
 coupe O
 du O
-silo O
+silo B-CONTEXTE
 10.01 O
 
 nord O
@@ -29294,7 +28952,7 @@ Vue O
 en O
 coupe O
 du O
-silo O
+silo B-CONTEXTE
 10.01 O
 
 nord O
@@ -29310,7 +28968,7 @@ Vue O
 en O
 coupe O
 du O
-silo O
+silo B-CONTEXTE
 10.01 O
 
 nord O
@@ -29326,7 +28984,7 @@ Vue O
 en O
 coupe O
 du O
-silo O
+silo B-CONTEXTE
 10.01 O
 
 nord O
@@ -29342,7 +29000,7 @@ Vue O
 en O
 coupe O
 du O
-silo O
+silo B-CONTEXTE
 10.01 O
 
 nord O
@@ -29359,7 +29017,7 @@ en O
 plan O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 11.01 O
 
 zénithale O
@@ -29375,7 +29033,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 11.02 O
 sud-ouest O
 3/29/2019 O
@@ -29456,7 +29114,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 11.04 O
 nord-est O
 
@@ -29471,7 +29129,7 @@ Vue O
 en O
 plan O
 du O
-mur O
+mur B-CONTEXTE
 11.05 O
 nord-ouest O
 3/29/2019 O
@@ -29485,7 +29143,7 @@ Vue O
 en O
 plan O
 du O
-mur O
+mur B-CONTEXTE
 11.05 O
 nord-ouest O
 3/29/2019 O
@@ -29502,7 +29160,7 @@ de O
 l’ O
 extrémité O
 du O
-fossé O
+fossé B-CONTEXTE
 11.06 O
 nord-est O
 3/29/2019 O
@@ -29520,7 +29178,7 @@ de O
 l’ O
 extrémité O
 du O
-fossé O
+fossé B-CONTEXTE
 11.08 O
 
 nord-est O
@@ -29535,14 +29193,14 @@ Vue O
 en O
 plan O
 du O
-drain O
+drain B-CONTEXTE
 ? O
 
 Sur O
 l’ O
 extrémité O
 du O
-fossé O
+fossé B-CONTEXTE
 11.08 O
 nord-est O
 3/29/2019 O
@@ -29556,14 +29214,14 @@ Vue O
 en O
 plan O
 du O
-drain O
+drain B-CONTEXTE
 ? O
 
 Sur O
 l’ O
 extrémité O
 du O
-fossé O
+fossé B-CONTEXTE
 11.08 O
 nord-est O
 3/29/2019 O
@@ -29648,7 +29306,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 13.02 O
 nord-est O
 4/1/2019 O
@@ -29692,7 +29350,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 13.04 O
 
 sud-ouest O
@@ -29708,7 +29366,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 13.04 O
 
 sud-ouest O
@@ -29724,7 +29382,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 13.05 O
 
 sud-ouest O
@@ -29740,7 +29398,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 12.01 O
 zénithale O
 
@@ -29773,7 +29431,7 @@ Audé O
 
 Localisation O
 du O
-fossé O
+fossé B-CONTEXTE
 12.03 O
 nord-est O
 
@@ -29789,7 +29447,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 12.04 O
 
 nord-est O
@@ -29805,9 +29463,9 @@ Vue O
 en O
 plan O
 du O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 12.05 O
 fouillé O
 par O
@@ -29826,7 +29484,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 12.06 O
 
 nord-est O
@@ -29844,7 +29502,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 
 12.07 O
 nord-est O
@@ -29860,7 +29518,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 
 12.07 O
 nord-est O
@@ -29877,7 +29535,7 @@ en O
 plan O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 12.08 O
 zénithale O
 
@@ -29892,7 +29550,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 12.09 O
 nord-est O
 4/1/2019 O
@@ -29907,7 +29565,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 12.13 O
 nord-est O
 4/1/2019 O
@@ -29922,7 +29580,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 12.14 O
 nord-est O
 4/1/2019 O
@@ -30002,7 +29660,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 
 13.07 O
 sud O
@@ -30017,9 +29675,9 @@ Vue O
 en O
 plan O
 du O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 
 13.08 O
 
@@ -30035,9 +29693,9 @@ Vue O
 en O
 plan O
 du O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 
 13.09 O
 zénithale O
@@ -30139,7 +29797,7 @@ Vue O
 en O
 plan O
 du O
-drain O
+drain B-CONTEXTE
 ? O
 
 nord-est O
@@ -30153,7 +29811,7 @@ Vue O
 en O
 plan O
 du O
-silo O
+silo B-CONTEXTE
 16.01 O
 
 zénithale O
@@ -30169,7 +29827,7 @@ en O
 plan O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 4.01 O
 fouillé O
 par O
@@ -30188,7 +29846,7 @@ en O
 coupe O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 4.01 O
 ouest O
 
@@ -30285,7 +29943,7 @@ Vue O
 en O
 plan O
 du O
-mur O
+mur B-CONTEXTE
 11.05 O
 nord-est O
 4/4/2019 O
@@ -30299,7 +29957,7 @@ Vue O
 en O
 plan O
 du O
-mur O
+mur B-CONTEXTE
 11.05 O
 nord-est O
 4/4/2019 O
@@ -30313,7 +29971,7 @@ Vue O
 en O
 plan O
 du O
-mur O
+mur B-CONTEXTE
 11.05 O
 nord O
 
@@ -30328,7 +29986,7 @@ Vue O
 en O
 plan O
 du O
-mur O
+mur B-CONTEXTE
 11.05 O
 nord O
 
@@ -30343,7 +30001,7 @@ Vue O
 en O
 plan O
 du O
-mur O
+mur B-CONTEXTE
 11.05 O
 ouest O
 
@@ -30359,7 +30017,7 @@ Vue O
 en O
 plan O
 du O
-mur O
+mur B-CONTEXTE
 11.05 O
 sud-ouest O
 
@@ -30374,7 +30032,7 @@ Vue O
 en O
 plan O
 du O
-mur O
+mur B-CONTEXTE
 11.05 O
 sud-ouest O
 
@@ -30389,7 +30047,7 @@ Vue O
 en O
 plan O
 du O
-mur O
+mur B-CONTEXTE
 11.05 O
 sud-ouest O
 
@@ -30404,7 +30062,7 @@ Vue O
 en O
 plan O
 du O
-mur O
+mur B-CONTEXTE
 11.05 O
 est O
 4/4/2019 O
@@ -30417,7 +30075,7 @@ Audé O
 Coupe O
 dans O
 le O
-mur O
+mur B-CONTEXTE
 11.05 O
 nord O
 
@@ -30432,7 +30090,7 @@ Coupe O
 nord O
 dans O
 le O
-mur O
+mur B-CONTEXTE
 11.05 O
 nord O
 
@@ -30447,7 +30105,7 @@ Coupe O
 sud O
 dans O
 le O
-mur O
+mur B-CONTEXTE
 11.05 O
 
 sud O
@@ -30461,7 +30119,7 @@ Vue O
 en O
 coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 12.01 O
 sud O
 
@@ -30476,7 +30134,7 @@ Vue O
 en O
 coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 12.01 O
 sud O
 
@@ -30491,7 +30149,7 @@ Vue O
 en O
 coupe O
 du O
-chemin O
+chemin B-CONTEXTE
 nord O
 
 4/4/2019 O
@@ -30505,7 +30163,7 @@ Vue O
 en O
 coupe O
 du O
-chemin O
+chemin B-CONTEXTE
 nord O
 
 4/4/2019 O
@@ -30519,7 +30177,7 @@ Vue O
 en O
 coupe O
 du O
-chemin O
+chemin B-CONTEXTE
 nord O
 
 4/4/2019 O
@@ -30532,7 +30190,7 @@ Vue O
 en O
 coupe O
 du O
-silo O
+silo B-CONTEXTE
 16.01 O
 
 nord-est O
@@ -30546,7 +30204,7 @@ Vue O
 en O
 coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 16.03 O
 nord-ouest O
 
@@ -30560,7 +30218,7 @@ Vue O
 en O
 coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 
 16.03 O
 nord-ouest O
@@ -30575,9 +30233,9 @@ Vue O
 en O
 plan O
 du O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 10.08 O
 zénithale O
 4/8/2019 O
@@ -30593,9 +30251,9 @@ Vue O
 en O
 plan O
 du O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 10.08 O
 après O
 fouille O
@@ -30616,9 +30274,9 @@ Vue O
 en O
 coupe O
 du O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 10.08 O
 nord O
 4/8/2019 O
@@ -30636,7 +30294,7 @@ de O
 l’ O
 extrémité O
 du O
-fossé O
+fossé B-CONTEXTE
 fouillée O
 zénithale O
 4/8/2019 O
@@ -30654,7 +30312,7 @@ de O
 l’ O
 extrémité O
 du O
-fossé O
+fossé B-CONTEXTE
 fouillée O
 zénithale O
 4/8/2019 O
@@ -30672,7 +30330,7 @@ de O
 l’ O
 extrémité O
 du O
-fossé O
+fossé B-CONTEXTE
 fouillée O
 
 zénithale O
@@ -30689,9 +30347,9 @@ Vue O
 en O
 plan O
 du O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 fouillé O
 
 par O
@@ -30709,9 +30367,9 @@ Vue O
 en O
 coupe O
 du O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 fouillé O
 par O
 moitié O
@@ -30823,9 +30481,9 @@ en O
 plan O
 des O
 trois O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 zénithale O
 4/8/2019 O
 
@@ -30843,9 +30501,9 @@ en O
 plan O
 des O
 trois O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 zénithale O
 4/8/2019 O
 
@@ -30858,7 +30516,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 16.02 O
 nord-ouest O
 4/8/2019 O
@@ -30872,7 +30530,7 @@ Vue O
 en O
 plan O
 du O
-fossé O
+fossé B-CONTEXTE
 16.02 O
 nord-ouest O
 4/8/2019 O
@@ -30902,9 +30560,9 @@ en O
 plan O
 des O
 deux O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 oblique O
 4/8/2019 O
 
@@ -30916,7 +30574,7 @@ Vue O
 en O
 plan O
 du O
-silo O
+silo B-CONTEXTE
 16.06 O
 oblique O
 4/8/2019 O
@@ -30931,9 +30589,9 @@ Vue O
 en O
 plan O
 du O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 fouillé O
 par O
 moitié O
@@ -30950,9 +30608,9 @@ Vue O
 en O
 coupe O
 du O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 fouillé O
 par O
 moitié O
@@ -30969,7 +30627,7 @@ en O
 plan O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 16.04 O
 zénithale O
 4/8/2019 O
@@ -30985,7 +30643,7 @@ Vue O
 en O
 coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 14.01 O
 
 sud-ouest O
@@ -31002,7 +30660,7 @@ Vue O
 en O
 coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 14.01 O
 
 sud-ouest O
@@ -31053,7 +30711,7 @@ en O
 plan O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 16.07 O
 sud-ouest O
 
@@ -31087,9 +30745,9 @@ en O
 plan O
 des O
 trois O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 nord-est O
 
 4/9/2019 O
@@ -31151,7 +30809,7 @@ en O
 plan O
 des O
 deux O
-silos O
+silos B-CONTEXTE
 sud-est O
 
 4/9/2019 O
@@ -31168,7 +30826,7 @@ en O
 plan O
 des O
 deux O
-silos O
+silos B-CONTEXTE
 sud-est O
 
 4/9/2019 O
@@ -31183,9 +30841,9 @@ Vue O
 en O
 plan O
 du O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 17.04 O
 zénithale O
 4/9/2019 O
@@ -31200,9 +30858,9 @@ Vue O
 en O
 plan O
 du O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 17.04 O
 oblique O
 
@@ -31281,9 +30939,9 @@ en O
 plan O
 des O
 trois O
-trous O
-de O
-poteau O
+trous B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 zénithale O
 4/9/2019 O
 
@@ -31368,7 +31026,7 @@ Vue O
 en O
 coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 17.17 O
 
 nord-ouest O
@@ -31383,7 +31041,7 @@ Vue O
 en O
 coupe O
 du O
-fossé O
+fossé B-CONTEXTE
 17.18 O
 nord-est O
 
@@ -32122,12 +31780,12 @@ V. O
 Audé O
 232 O
 
-Grange O
+Grange B-CONTEXTE
 
 Vue O
 de O
 la O
-façade O
+façade B-CONTEXTE
 sud O
 nord O
 
@@ -32136,12 +31794,12 @@ V. O
 
 Audé O
 233 O
-Grange O
+Grange B-CONTEXTE
 
 Vue O
 de O
 la O
-fenêtre O
+fenêtre B-CONTEXTE
 nord O
 
 4/10/2019 O
@@ -32149,7 +31807,7 @@ V. O
 
 Audé O
 234 O
-Grange O
+Grange B-CONTEXTE
 
 Vue O
 de O
@@ -32162,7 +31820,7 @@ V. O
 Audé O
 235 O
 
-Grange O
+Grange B-CONTEXTE
 
 Détail O
 intérieur O
@@ -32173,7 +31831,7 @@ V. O
 Audé O
 236 O
 
-Grange O
+Grange B-CONTEXTE
 
 Détail O
 intérieur O
@@ -32184,12 +31842,12 @@ V. O
 Audé O
 237 O
 
-Grange O
+Grange B-CONTEXTE
 
 Vue O
 de O
 l’ O
-entrée O
+entrée B-CONTEXTE
 
 est O
 4/10/2019 O
@@ -32198,9 +31856,9 @@ V. O
 Audé O
 238 O
 
-Grange O
+Grange B-CONTEXTE
 
-Mur O
+Mur B-CONTEXTE
 intérieur O
 
 nord-ouest O
@@ -32210,12 +31868,12 @@ V. O
 Audé O
 239 O
 
-Grange O
+Grange B-CONTEXTE
 
 Vue O
 de O
 l’ O
-entrée O
+entrée B-CONTEXTE
 nord O
 
 4/10/2019 O
@@ -32223,7 +31881,7 @@ V. O
 
 Audé O
 240 O
-Grange O
+Grange B-CONTEXTE
 
 Vue O
 générale O
@@ -32235,7 +31893,7 @@ V. O
 Audé O
 241 O
 
-Grange O
+Grange B-CONTEXTE
 
 Côté O
 ouest O
@@ -32880,7 +32538,7 @@ creusement O
 
 Extrémité O
 de O
-fossé O
+fossé B-CONTEXTE
 ? O
 
 3 O
@@ -32899,7 +32557,7 @@ X O
 comblement O
 Extrémité O
 de O
-fossé O
+fossé B-CONTEXTE
 ? O
 
 argileux O
@@ -32919,7 +32577,7 @@ X O
 3 O
 3.02 O
 creusement O
-Fossé O
+Fossé B-CONTEXTE
 2 O
 2 O
 0,7 O
@@ -32928,7 +32586,7 @@ linéaire O
 3.02.01 O
 
 comblement O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 
 brun O
@@ -32943,7 +32601,7 @@ silex O
 4 O
 4.01 O
 creusement O
-Fosse O
+Fosse B-CONTEXTE
 
 0,7 O
 0,4 O
@@ -32961,7 +32619,7 @@ concave O
 4.01.01 O
 
 comblement O
-Fosse O
+Fosse B-CONTEXTE
 argileux O
 gris O
 compact O
@@ -32973,7 +32631,7 @@ homogène O
 
 comblement O
 
-Fosse O
+Fosse B-CONTEXTE
 argileux O
 
 gris O
@@ -32988,16 +32646,16 @@ millimétriques O
 6 O
 6.01 O
 creusement O
-Fossé O
-parcellaire O
+Fossé B-CONTEXTE
+parcellaire I-CONTEXTE
 2 O
 0,6 O
 0,45 O
 6 O
 6.01.01 O
 comblement O
-Fossé O
-parcellaire O
+Fossé B-CONTEXTE
+parcellaire I-CONTEXTE
 argileux O
 
 brun O
@@ -33058,8 +32716,8 @@ Minute O
 6 O
 6.02 O
 creusement O
-Fossé O
-parcellaire O
+Fossé B-CONTEXTE
+parcellaire I-CONTEXTE
 2 O
 0,6 O
 0,5 O
@@ -33067,8 +32725,8 @@ parcellaire O
 6.02.01 O
 
 comblement O
-Fossé O
-parcellaire O
+Fossé B-CONTEXTE
+parcellaire I-CONTEXTE
 argileux O
 
 brun O
@@ -33076,8 +32734,8 @@ meuble O
 6 O
 6.03 O
 creusement O
-Fossé O
-parcellaire O
+Fossé B-CONTEXTE
+parcellaire I-CONTEXTE
 2 O
 0,8 O
 0,5 O
@@ -33085,38 +32743,32 @@ parcellaire O
 
 6.03.01 O
 comblement O
-Fossé O
-parcellaire O
+Fossé B-CONTEXTE
+parcellaire I-CONTEXTE
 argileux O
 brun O
 meuble O
 6 O
 6.04 O
 creusement O
-Fossé O
-parcellaire O
+Fossé B-CONTEXTE
+parcellaire I-CONTEXTE
 2 O
 0,8 O
 0,5 O
 6 O
 6.04.01 O
 comblement O
-Fossé O
-parcellaire O
+Fossé B-CONTEXTE
+parcellaire I-CONTEXTE
 argileux O
 brun O
 meuble O
 6 O
 6.05 O
-creuse O
-
-- O
-
-ment O
-Fossé O
-parcel O
-
--laire O
+creuse-ment O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 2 O
 1,3 O
 0,8 O
@@ -33125,10 +32777,8 @@ parcel O
 comble O
 - O
 ment O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -33137,15 +32787,9 @@ meuble O
 6 O
 
 6.06 O
-creuse O
-
-- O
-
-ment O
-Fossé O
-parcel O
-
--laire O
+creuse-ment O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 2 O
 0,8 O
 0,6 O
@@ -33155,10 +32799,8 @@ parcel O
 comble O
 - O
 ment O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -33218,15 +32860,9 @@ Charbon B-MOB
 Minute O
 7 O
 7.01 O
-creuse O
-
-- O
-
-ment O
-Fossé O
-parcel O
-
--laire O
+creuse-ment O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 2 O
 1 O
@@ -33237,10 +32873,8 @@ parcel O
 7 O
 7.01.01 O
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 brun O
 foncé O
@@ -33260,7 +32894,7 @@ silex O
 7 O
 7.02 O
 creusement O
-Fosse O
+Fosse B-CONTEXTE
 2,5 O
 2,1 O
 2 O
@@ -33268,20 +32902,18 @@ Fosse O
 oblong O
 Y O
 évasées O
-Néolithique B-CHRONO
-à O
-l’ O
-âge B-CHRONO
-du I-CHRONO
-Bronze I-CHRONO
+Néolithique B-INTERVALLE
+à I-INTERVALLE
+l’ I-INTERVALLE
+âge I-INTERVALLE
+du I-INTERVALLE
+Bronze I-INTERVALLE
 X O
 1 O
 7 O
 7.02.01 O
-comble O
-
--ment O
-Fosse O
+comble-ment O
+Fosse B-CONTEXTE
 argileux O
 brun O
 foncé O
@@ -33295,7 +32927,7 @@ X O
 7.03 O
 creusement O
 
-Fosse O
+Fosse B-CONTEXTE
 
 2,5 O
 
@@ -33310,10 +32942,8 @@ rouge O
 7 O
 7.03.01 O
 
-comble O
-
--ment O
-Fosse O
+comble-ment O
+Fosse B-CONTEXTE
 argileux O
 brun O
 foncé O
@@ -33323,12 +32953,8 @@ homogène O
 
 7 O
 7.04 O
-creuse O
-
-- O
-
-ment O
-Fossé O
+creuse-ment O
+Fossé B-CONTEXTE
 2,2 O
 0,4 O
 0,6 O
@@ -33337,7 +32963,7 @@ linéaire O
 7.04.01 O
 
 comblement O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -33354,12 +32980,8 @@ silex O
 7 O
 7.05 O
 
-creuse O
-
-- O
-
-ment O
-Fossé O
+creuse-ment O
+Fossé B-CONTEXTE
 2 O
 0,9 O
 0,5 O
@@ -33368,7 +32990,7 @@ linéaire O
 7 O
 7.05.01 O
 comblement O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 
 brun O
@@ -33437,15 +33059,9 @@ Charbon B-MOB
 Minute O
 7 O
 7.06 O
-creuse O
-
-- O
-
-ment O
-Fossé O
-parcel O
-
--laire O
+creuse-ment O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 2 O
 
@@ -33457,10 +33073,8 @@ linéaire O
 7.06.01 O
 
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -33478,15 +33092,9 @@ silex O
 7 O
 
 7.07 O
-creuse O
-
-- O
-
-ment O
-Fossé O
-parcel O
-
--laire O
+creuse-ment O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 2 O
 0,8 O
@@ -33496,10 +33104,8 @@ linéaire O
 7.07.01 O
 
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -33519,16 +33125,12 @@ silex O
 7.02.02 O
 
 comblement O
-Fosse O
+Fosse B-CONTEXTE
 argileux O
 
 brun O
 rougeâtre O
-hété O
-
-- O
-
-rogène O
+hété-rogène O
 
 assez O
 compact O
@@ -33543,7 +33145,7 @@ silex O
 7.02.03 O
 
 comblement O
-Fosse O
+Fosse B-CONTEXTE
 
 concentration O
 de O
@@ -33563,33 +33165,23 @@ désagrégé O
 1 O
 8 O
 8.01 O
-creuse O
-
-- O
-
-ment O
-Fossé O
+creuse-ment O
+Fossé B-CONTEXTE
 2 O
 0,6 O
 0,5 O
 linéaire O
 8 O
 8.01.01 O
-comble O
-
--ment O
-Fossé O
+comble-ment O
+Fossé B-CONTEXTE
 argileux O
 brun O
 meuble O
 8 O
 8.02 O
-creuse O
-
-- O
-
-ment O
-Fossé O
+creuse-ment O
+Fossé B-CONTEXTE
 2 O
 1 O
 0,5 O
@@ -33650,7 +33242,7 @@ Minute O
 8 O
 8.02.01 O
 comblement O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 brun O
 meuble O
@@ -33663,12 +33255,8 @@ de O
 silex O
 8 O
 8.03 O
-creuse O
-
-- O
-
-ment O
-Fossé O
+creuse-ment O
+Fossé B-CONTEXTE
 5 O
 0,4 O
 0,6 O
@@ -33676,7 +33264,7 @@ linéaire O
 8 O
 8.03.01 O
 comblement O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 brun O
 meuble O
@@ -33689,22 +33277,16 @@ de O
 silex O
 8 O
 8.04 O
-creuse O
-
-- O
-
-ment O
-Fossé O
+creuse-ment O
+Fossé B-CONTEXTE
 3,5 O
 0,5 O
 0,6 O
 linéaire O
 8 O
 8.04.01 O
-comble O
-
--ment O
-Fossé O
+comble-ment O
+Fossé B-CONTEXTE
 argileux O
 brun O
 meuble O
@@ -33712,15 +33294,11 @@ meuble O
 
 8.05 O
 
-creuse O
-
-- O
-
-ment O
+creuse-ment O
 
 Extrémité O
 de O
-fossé O
+fossé B-CONTEXTE
 ? O
 
 1,1 O
@@ -33738,7 +33316,7 @@ comble O
 ment O
 Extrémité O
 de O
-fossé O
+fossé B-CONTEXTE
 ? O
 
 argileux O
@@ -33746,13 +33324,9 @@ brun O
 meuble O
 8 O
 8.06 O
-creuse O
-
--ment O
-Fossé O
-parcel O
-
--laire O
+creuse-ment O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 2 O
 
@@ -33761,25 +33335,17 @@ parcel O
 linéaire O
 8 O
 8.06.01 O
-comble O
-
--ment O
-Fossé O
-parcel O
-
--laire O
+comble-ment O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
 meuble O
 9 O
 9.01 O
-creuse O
-
-- O
-
-ment O
-Fossé O
+creuse-ment O
+Fossé B-CONTEXTE
 2 O
 0,8 O
 0,5 O
@@ -33789,7 +33355,7 @@ linéaire O
 9.01.01 O
 
 comblement O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 
 brun O
@@ -33862,7 +33428,7 @@ Minute O
 9.02 O
 creusement O
 
-Fosse O
+Fosse B-CONTEXTE
 
 1,7 O
 0,5 O
@@ -33879,10 +33445,8 @@ de O
 silex O
 9 O
 9.02.01 O
-comble O
-
--ment O
-Fosse O
+comble-ment O
+Fosse B-CONTEXTE
 argileux O
 brun O
 foncé O
@@ -33892,27 +33456,23 @@ hétérogène O
 
 9 O
 9.03 O
-creuse O
-
-- O
-
-ment O
-Fossé O
+creuse-ment O
+Fossé B-CONTEXTE
 2 O
 0,8 O
 0,5 O
 linéaire O
-Fossé O
+Fossé B-CONTEXTE
 contre O
 ou O
 sur O
-fosse O
+fosse B-CONTEXTE
 9.02 O
 
 9 O
 9.03.01 O
 comblement O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -33928,15 +33488,9 @@ de O
 silex O
 9 O
 9.04 O
-creuse O
-
-- O
-
-ment O
-Fossé O
-parcel O
-
--laire O
+creuse-ment O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 2 O
 
@@ -33949,10 +33503,8 @@ linéaire O
 9.04.01 O
 
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -33971,7 +33523,7 @@ silex O
 9.05 O
 creusement O
 
-Fossé O
+Fossé B-CONTEXTE
 2 O
 
 0,8 O
@@ -33988,14 +33540,14 @@ de O
 silex O
 et O
 deux O
-blocs O
-calcaires O
+blocs B-MOB
+calcaires B-MAT
 de O
 module O
 moyen O
 équarris O
 ( O
-Bloc O
+Bloc B-CONTEXTE
 n° O
 1 O
 : O
@@ -34015,7 +33567,7 @@ d’ O
 épaisseur O
 ; O
 
-Bloc O
+Bloc B-CONTEXTE
 n° O
 2 O
 : O
@@ -34034,16 +33586,14 @@ m O
 d’ O
 épaisseur O
 ) O
-16 B-CHRONO
-- O
-17ème B-CHRONO
-siècle I-CHRONO
+16 B-INTERVALLE
+- I-INTERVALLE
+17ème I-INTERVALLE
+siècle I-INTERVALLE
 9 O
 9.05.01 O
-comble O
-
--ment O
-Fossé O
+comble-ment O
+Fossé B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -34107,15 +33657,9 @@ Minute O
 9 O
 
 9.06 O
-creuse O
-
-- O
-
-ment O
-Fossé O
-parcel O
-
--laire O
+creuse-ment O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 2,1 O
 1,1 O
@@ -34123,11 +33667,9 @@ parcel O
 9 O
 9.06.01 O
 
-comble O
-
--ment O
-Fossé O
-parcellaire O
+comble-ment O
+Fossé B-CONTEXTE
+parcellaire I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -34140,7 +33682,7 @@ homogène O
 
 creusement O
 
-Silo O
+Silo B-CONTEXTE
 0,9 O
 0,9 O
 0,5 O
@@ -34151,11 +33693,7 @@ ovoïde O
 droites O
 , O
 mais O
-irrégu O
-
-- O
-
-lières O
+irrégu-lières O
 
 à O
 l’ O
@@ -34168,10 +33706,10 @@ environ O
 m O
 de O
 la O
-fosse O
+fosse B-CONTEXTE
 10.02 O
 , O
-silo O
+silo B-CONTEXTE
 qui O
 perce O
 le O
@@ -34199,7 +33737,7 @@ siècle I-CHRONO
 10.01.01 O
 
 comblement O
-Silo O
+Silo B-CONTEXTE
 argilo O
 - O
 sableux O
@@ -34242,7 +33780,7 @@ ocre O
 
 comblement O
 
-Silo O
+Silo B-CONTEXTE
 argileux O
 noirâte O
 meuble O
@@ -34263,7 +33801,7 @@ bois I-MOB
 10.01.03 O
 comblement O
 
-Silo O
+Silo B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -34292,7 +33830,7 @@ triques O
 10 O
 10.02 O
 creusement O
-Fosse O
+Fosse B-CONTEXTE
 0,8 O
 0,6 O
 0,4 O
@@ -34355,11 +33893,7 @@ Minute O
 10.02.01 O
 
 comblement O
-argilo O
-
-- O
-
-sableux O
+argilo-sableux O
 
 brun O
 gris O
@@ -34403,7 +33937,7 @@ brûlés O
 creuse O
 - O
 ment O
-Fossé O
+Fossé B-CONTEXTE
 2 O
 
 1,1 O
@@ -34415,7 +33949,7 @@ linéaire O
 comble O
 - O
 ment O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -34426,15 +33960,9 @@ homogène O
 10 O
 10.04 O
 
-creuse O
-
-- O
-
-ment O
-Fossé O
-parcel O
-
--laire O
+creuse-ment O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 4 O
 
@@ -34446,8 +33974,8 @@ linéaire O
 comble O
 - O
 ment O
-Fossé O
-parcellaire O
+Fossé B-CONTEXTE
+parcellaire I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -34456,12 +33984,8 @@ meuble O
 homogène O
 10 O
 10.05 O
-creuse O
-
-- O
-
-ment O
-Fossé O
+creuse-ment O
+Fossé B-CONTEXTE
 2 O
 0,4 O
 0,6 O
@@ -34473,7 +33997,7 @@ linéaire O
 comble O
 - O
 ment O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -34483,15 +34007,9 @@ homogène O
 
 10 O
 10.06 O
-creuse O
-
-- O
-
-ment O
-Fossé O
-parcel O
-
--laire O
+creuse-ment O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 2 O
 1,5 O
 0,5 O
@@ -34502,8 +34020,8 @@ linéaire O
 comble O
 - O
 ment O
-Fossé O
-parcellaire O
+Fossé B-CONTEXTE
+parcellaire I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -34514,15 +34032,11 @@ homogène O
 10 O
 
 10.07 O
-creuse O
-
-- O
-
-ment O
+creuse-ment O
 
 Extrémité O
 de O
-fossé O
+fossé B-CONTEXTE
 ? O
 
 2,1 O
@@ -34585,12 +34099,10 @@ Minute O
 10 O
 
 10.07.01 O
-comble O
-
--ment O
+comble-ment O
 Extrémité O
 de O
-fossé O
+fossé B-CONTEXTE
 ? O
 
 argileux O
@@ -34601,13 +34113,11 @@ homogène O
 
 10 O
 10.08 O
-creuse O
+creuse-ment O
 
--ment O
-
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 
 0,4 O
 
@@ -34624,9 +34134,9 @@ calage O
 10.08.01 O
 
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -34637,9 +34147,7 @@ homogène O
 , O
 quelques O
 inclusions O
-ferru O
-
--gineuses O
+ferru-gineuses O
 10 O
 10.09 O
 creuse O
@@ -34648,7 +34156,7 @@ ment O
 
 Extrémité O
 de O
-fossé O
+fossé B-CONTEXTE
 ? O
 
 0,45 O
@@ -34666,7 +34174,7 @@ comblement O
 Extrémité O
 
 de O
-fossé O
+fossé B-CONTEXTE
 
 ? O
 
@@ -34684,16 +34192,14 @@ galets O
 blancs O
 et O
 inclusions O
-ferru O
-
--gineuses O
+ferru-gineuses O
 2 O
 10 O
 10.10 O
 creuse O
 - O
 ment O
-Fossé O
+Fossé B-CONTEXTE
 2 O
 0,6 O
 0,4 O
@@ -34703,7 +34209,7 @@ linéaire O
 
 comblement O
 
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 
 brun O
@@ -34721,43 +34227,29 @@ silex O
 10 O
 10.11 O
 
-creuse O
+creuse-ment O
 
--ment O
-
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,28 O
 
 0,7 O
-circu O
-
-- O
-
-laire O
+circu-laire O
 
 Annulé O
 10 O
 10.11.01 O
-comble O
-
--ment O
-Trou O
-de O
-poteau O
+comble-ment O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 10 O
 
 10.12 O
-creuse O
-
-- O
-
-ment O
-Fossé O
-parcel O
-
--laire O
+creuse-ment O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 2 O
 
@@ -34820,10 +34312,8 @@ Minute O
 10 O
 10.12.01 O
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -34841,15 +34331,9 @@ silex O
 10 O
 10.13 O
 
-creuse O
-
-- O
-
-ment O
-Fossé O
-parcel O
-
--laire O
+creuse-ment O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 2 O
 0,8 O
 0,5 O
@@ -34860,8 +34344,8 @@ linéaire O
 comble O
 - O
 ment O
-Fossé O
-parcellaire O
+Fossé B-CONTEXTE
+parcellaire I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -34871,12 +34355,8 @@ homogène O
 
 10 O
 10.14 O
-creuse O
-
-- O
-
-ment O
-Fossé O
+creuse-ment O
+Fossé B-CONTEXTE
 2 O
 0,6 O
 0,4 O
@@ -34884,7 +34364,7 @@ linéaire O
 10 O
 10.14.01 O
 comblement O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 
 brun O
@@ -34902,12 +34382,8 @@ silex O
 
 10.15 O
 
-creuse O
-
-- O
-
-ment O
-Fossé O
+creuse-ment O
+Fossé B-CONTEXTE
 2 O
 0,9 O
 0,5 O
@@ -34916,7 +34392,7 @@ linéaire O
 10 O
 10.15.01 O
 comblement O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 
 brun O
@@ -34934,14 +34410,12 @@ silex O
 
 11.01 O
 
-creuse O
-
--ment O
-Fosse O
+creuse-ment O
+Fosse B-CONTEXTE
 ou O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,54 O
 0,45 O
 0,5 O
@@ -34949,14 +34423,12 @@ ovalaire O
 
 11 O
 11.01.01 O
-comble O
-
--ment O
-Fosse O
+comble-ment O
+Fosse B-CONTEXTE
 ou O
-trou O
-de O
-poteau O
+trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 brun O
 foncé O
@@ -34967,13 +34439,9 @@ homogène O
 11 O
 11.02 O
 
-creuse O
+creuse-ment O
 
-- O
-
-ment O
-
-Fossé O
+Fossé B-CONTEXTE
 
 2 O
 
@@ -35030,7 +34498,7 @@ lithique B-MOB
 os B-MOB
 métal B-MOB
 
-Charbon B-MOB
+Charbon B-CONTEXTE
 
 Minute O
 11 O
@@ -35039,7 +34507,7 @@ Minute O
 comble O
 - O
 ment O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -35049,13 +34517,9 @@ homogène O
 
 11 O
 11.03 O
-creuse O
-
--ment O
-Fossé O
-parcel O
-
--laire O
+creuse-ment O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 2 O
 0,6 O
 0,5 O
@@ -35064,10 +34528,8 @@ linéaire O
 11 O
 11.03.01 O
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -35084,15 +34546,9 @@ de O
 silex O
 11 O
 11.04 O
-creuse O
-
-- O
-
-ment O
-Fossé O
-parcel O
-
--laire O
+creuse-ment O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 2 O
 
@@ -35106,10 +34562,8 @@ linéaire O
 
 comblement O
 
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -35129,7 +34583,7 @@ silex O
 11.05 O
 creusement O
 
-Mur O
+Mur B-CONTEXTE
 4 O
 
 0,8 O
@@ -35137,7 +34591,7 @@ Mur O
 0,3 O
 linéaire O
 
-Mur O
+Mur B-CONTEXTE
 qui O
 apparaît O
 sous O
@@ -35169,7 +34623,7 @@ et O
 après O
 sondage O
 mécanique O
-mur O
+mur B-CONTEXTE
 de O
 0,40 O
 m O
@@ -35180,7 +34634,7 @@ large O
 
 comblement O
 
-Mur O
+Mur B-CONTEXTE
 argileux O
 brun O
 foncé O
@@ -35191,8 +34645,8 @@ homogène O
 avec O
 de O
 nombreux O
-blocs O
-calcaires O
+blocs B-MOB
+calcaires B-MAT
 non O
 équarris O
 de O
@@ -35201,9 +34655,9 @@ module O
 11 O
 11.06 O
 creusement O
-Fossé O
-linéaire O
-Fossé O
+Fossé B-CONTEXTE
+linéaire I-CONTEXTE
+Fossé B-CONTEXTE
 avec O
 deux O
 excrois O
@@ -35269,19 +34723,13 @@ Charbon B-MOB
 Minute O
 11 O
 11.06.01 O
-comble O
-
--ment O
-Fossé O
+comble-ment O
+Fossé B-CONTEXTE
 11 O
 
 11.07 O
-creuse O
-
-- O
-
-ment O
-Fossé O
+creuse-ment O
+Fossé B-CONTEXTE
 2 O
 0,6 O
 0,3 O
@@ -35290,7 +34738,7 @@ linéaire O
 11.07.01 O
 
 comblement O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 
 brun O
@@ -35314,24 +34762,24 @@ silex O
 
 creusement O
 
-Fossé O
+Fossé B-CONTEXTE
 
 3 O
 0,35 O
 0,5 O
 linéaire O
-Fossé O
+Fossé B-CONTEXTE
 situé O
 sous O
 le O
-fossé O
+fossé B-CONTEXTE
 
 11.07 O
 11 O
 11.08.01 O
 
 comblement O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -35340,12 +34788,8 @@ homogène O
 
 11 O
 11.09 O
-creuse O
-
-- O
-
-ment O
-Fosse O
+creuse-ment O
+Fosse B-CONTEXTE
 1,9 O
 0,6 O
 0,16 O
@@ -35366,11 +34810,9 @@ homogène O
 12 O
 12.01 O
 
-creuse O
-
--ment O
-Fossé O
-parcellaire O
+creuse-ment O
+Fossé B-CONTEXTE
+parcellaire I-CONTEXTE
 1,2 O
 0,36 O
 0,5 O
@@ -35383,8 +34825,8 @@ plat O
 12 O
 12.01.01 O
 comblement O
-Fossé O
-parcellaire O
+Fossé B-CONTEXTE
+parcellaire I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -35454,10 +34896,8 @@ Minute O
 12.01.02 O
 
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 brun O
 foncé O
@@ -35476,7 +34916,7 @@ rose O
 12.02 O
 
 creusement O
-Fosse O
+Fosse B-CONTEXTE
 1,6 O
 0,9 O
 0,6 O
@@ -35486,11 +34926,9 @@ ovalaire O
 12.03 O
 creusement O
 
-Fossé O
+Fossé B-CONTEXTE
 
-parcel O
-
--laire O
+parcel-laire B-CONTEXTE
 
 0,6 O
 0,6 O
@@ -35500,10 +34938,8 @@ linéaire O
 12.03.01 O
 
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -35514,10 +34950,8 @@ homogène O
 12 O
 12.04 O
 creusement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 0,7 O
 0,8 O
@@ -35526,10 +34960,8 @@ linéaire O
 12.04.01 O
 
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -35550,9 +34982,9 @@ silex O
 
 12.05 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,3 O
 0,2 O
 0,7 O
@@ -35615,9 +35047,9 @@ Minute O
 
 comblement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -35630,10 +35062,8 @@ homogène O
 
 creusement O
 
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 0,8 O
 0,5 O
@@ -35643,10 +35073,8 @@ linéaire O
 
 comblement O
 
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -35658,10 +35086,8 @@ homogène O
 
 12.07 O
 creusement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 ? O
 
 0,8 O
@@ -35671,10 +35097,8 @@ linéaire O
 12 O
 12.07.01 O
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 ? O
 
 argileux O
@@ -35688,11 +35112,11 @@ homogène O
 12.08 O
 creusement O
 
-Fosse O
+Fosse B-CONTEXTE
 / O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 
 0,45 O
 0,4 O
@@ -35702,11 +35126,11 @@ ovalaire O
 12 O
 12.08.01 O
 comblement O
-Fosse O
+Fosse B-CONTEXTE
 / O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -35769,10 +35193,8 @@ Minute O
 12 O
 12.09 O
 creusement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 2,3 O
 0,8 O
 0,5 O
@@ -35781,10 +35203,8 @@ linéaire O
 12.09.01 O
 
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -35814,10 +35234,8 @@ Annulé O
 12.13 O
 
 creusement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 0,3 O
 0,5 O
@@ -35828,10 +35246,8 @@ linéaire O
 
 comblement O
 
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -35896,10 +35312,8 @@ Minute O
 
 creusement O
 
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 0,4 O
 0,5 O
@@ -35909,10 +35323,8 @@ linéaire O
 12.14.01 O
 
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -35924,7 +35336,7 @@ homogène O
 12.15 O
 creusement O
 Ancien O
-chemin O
+chemin B-CONTEXTE
 
 2,1 O
 0,6 O
@@ -35933,7 +35345,7 @@ linéaire O
 12.15.01 O
 comblement O
 Ancien O
-chemin O
+chemin B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -35946,7 +35358,7 @@ homogène O
 
 comblement O
 
-Fosse O
+Fosse B-CONTEXTE
 argileux O
 
 brun O
@@ -35966,11 +35378,11 @@ silex O
 13 O
 13.01 O
 creusement O
-Fosse O
+Fosse B-CONTEXTE
 / O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,55 O
 0,4 O
 0,5 O
@@ -35978,7 +35390,7 @@ ovalaire O
 13 O
 13.01.01 O
 comblement O
-Fosse O
+Fosse B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -35997,14 +35409,14 @@ silex O
 13.02 O
 
 creusement O
-Fossé O
-parcellaire O
+Fossé B-CONTEXTE
+parcellaire I-CONTEXTE
 
 0,7 O
 0,7 O
 linéaire O
 
-Drain O
+Drain B-CONTEXTE
 
 Dimensions O
 
@@ -36061,10 +35473,8 @@ Minute O
 13 O
 13.02.01 O
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -36084,18 +35494,16 @@ silex O
 13 O
 13.03 O
 creusement O
-Fossé O
-parcellaire O
+Fossé B-CONTEXTE
+parcellaire I-CONTEXTE
 0,9 O
 0,6 O
 linéaire O
 13 O
 13.03.01 O
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -36115,10 +35523,8 @@ silex O
 13 O
 13.04 O
 creusement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 0,5 O
 0,5 O
 linéaire O
@@ -36126,10 +35532,8 @@ linéaire O
 13 O
 13.04.01 O
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -36149,28 +35553,22 @@ silex O
 13 O
 13.05 O
 creusement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 0,6 O
 0,4 O
 linéaire O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 13 O
 
 13.05.01 O
 
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -36191,7 +35589,7 @@ silex O
 13.06 O
 creusement O
 Ancien O
-chemin O
+chemin B-CONTEXTE
 2,4 O
 0,5 O
 linéaire O
@@ -36252,7 +35650,7 @@ Minute O
 13.06.01 O
 comblement O
 Ancien O
-chemin O
+chemin B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -36263,10 +35661,8 @@ homogène O
 
 13.07 O
 creusement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 0,5 O
 0,5 O
 linéaire O
@@ -36274,10 +35670,8 @@ linéaire O
 13 O
 13.07.01 O
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -36299,11 +35693,11 @@ silex O
 13.08 O
 creusement O
 
-Fosse O
+Fosse B-CONTEXTE
 / O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,55 O
 
 0,42 O
@@ -36321,11 +35715,11 @@ X O
 
 comblement O
 
-Fosse O
+Fosse B-CONTEXTE
 / O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -36340,9 +35734,9 @@ X O
 
 13.09 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,3 O
 0,18 O
 0,5 O
@@ -36353,9 +35747,9 @@ circulaire O
 
 comblement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -36369,7 +35763,7 @@ X O
 
 14.01 O
 creusement O
-Fossé O
+Fossé B-CONTEXTE
 0,4 O
 0,1 O
 0,5 O
@@ -36433,7 +35827,7 @@ Minute O
 14.01.01 O
 
 comblement O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -36444,9 +35838,7 @@ mêlé O
 à O
 de O
 rares O
-grra O
-
--viers O
+grra-viers O
 calcaires O
 centimétriques O
 
@@ -36457,10 +35849,8 @@ centimétriques O
 
 creusement O
 
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 1,2 O
 0,5 O
@@ -36470,11 +35860,9 @@ linéaire O
 
 comblement O
 
-Fossé O
+Fossé B-CONTEXTE
 
-parcel O
-
--laire O
+parcel-laire B-CONTEXTE
 argileux O
 
 brun O
@@ -36487,7 +35875,7 @@ homogène O
 
 creusement O
 Ancien O
-chemin O
+chemin B-CONTEXTE
 2,7 O
 
 0,3 O
@@ -36501,7 +35889,7 @@ de O
 
 comblement O
 Ancien O
-chemin O
+chemin B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -36513,10 +35901,8 @@ gène O
 14 O
 14.04 O
 creusement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 0,7 O
 0,3 O
@@ -36527,11 +35913,9 @@ de O
 14.04.01 O
 comblement O
 
-Fossé O
+Fossé B-CONTEXTE
 
-parcel O
-
--laire O
+parcel-laire B-CONTEXTE
 argileux O
 
 brun O
@@ -36543,7 +35927,7 @@ homogène O
 16.01 O
 
 creusement O
-Silo O
+Silo B-CONTEXTE
 0,9 O
 1 O
 0,3 O
@@ -36552,9 +35936,9 @@ tronconique O
 verticales O
 plat O
 
-10- B-CHRONO
-13ème B-CHRONO
-siècle I-CHRONO
+10- B-INTERVALLE
+13ème I-INTERVALLE
+siècle I-INTERVALLE
 X O
 2 O
 
@@ -36615,7 +35999,7 @@ Minute O
 
 comblement O
 
-Silo O
+Silo B-CONTEXTE
 argileux O
 brun O
 meuble O
@@ -36634,7 +36018,7 @@ roulés O
 
 comblement O
 
-Silo O
+Silo B-CONTEXTE
 argileux O
 brun O
 foncé O
@@ -36649,12 +36033,8 @@ galets O
 émoussés O
 et O
 tessons B-MOB
-de O
-céra O
-
-- O
-
-mique O
+de I-MOB
+céra-mique I-MOB
 X O
 2 O
 16 O
@@ -36662,7 +36042,7 @@ X O
 
 comblement O
 
-Silo O
+Silo B-CONTEXTE
 argileux O
 brun O
 foncé O
@@ -36698,7 +36078,7 @@ X O
 16.01.04 O
 comblement O
 
-Silo O
+Silo B-CONTEXTE
 argilo O
 - O
 sableux O
@@ -36714,7 +36094,7 @@ effondrement O
 16.02 O
 creusement O
 
-Fossé O
+Fossé B-CONTEXTE
 
 1,1 O
 0,5 O
@@ -36730,16 +36110,16 @@ le O
 sondage O
 par O
 16.24 O
-11 B-CHRONO
-- O
-12ème B-CHRONO
-siècle I-CHRONO
+11 B-INTERVALLE
+- I-INTERVALLE
+12ème I-INTERVALLE
+siècle I-INTERVALLE
 X O
 2 O
 16 O
 16.02.01 O
 comblement O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -36813,7 +36193,7 @@ Minute O
 16.03 O
 creusement O
 
-Silo O
+Silo B-CONTEXTE
 0,9 O
 0,8 O
 0,3 O
@@ -36824,7 +36204,7 @@ ovalaire O
 16.03.01 O
 comblement O
 
-Silo O
+Silo B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -36834,9 +36214,9 @@ homogène O
 16 O
 16.04 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,5 O
 
 0,3 O
@@ -36846,9 +36226,9 @@ circulaire O
 
 comblement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -36859,9 +36239,9 @@ homogène O
 16 O
 16.05 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,3 O
 0,06 O
 0,3 O
@@ -36874,9 +36254,9 @@ concave O
 16.05.01 O
 
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -36889,7 +36269,7 @@ homogène O
 16.06 O
 creusement O
 
-Silo O
+Silo B-CONTEXTE
 1,2 O
 0,8 O
 0,3 O
@@ -36902,7 +36282,7 @@ berme O
 
 comblement O
 
-Silo O
+Silo B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -36969,7 +36349,7 @@ Minute O
 creusement O
 
 Double O
-silo O
+silo B-CONTEXTE
 1,5 O
 0,8 O
 0,3 O
@@ -36980,7 +36360,7 @@ silo O
 comblement O
 
 Double O
-silo O
+silo B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -36991,9 +36371,9 @@ homogène O
 16 O
 16.08 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,5 O
 0,3 O
 0,3 O
@@ -37002,9 +36382,9 @@ ovalaire O
 16 O
 16.08.01 O
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -37017,9 +36397,9 @@ homogène O
 
 creusement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 
 0,4 O
 
@@ -37028,9 +36408,9 @@ circulaire O
 16 O
 16.09.01 O
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -37041,18 +36421,18 @@ homogène O
 16 O
 16.10 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,35 O
 0,3 O
 circulaire O
 16 O
 16.10.01 O
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -37117,7 +36497,7 @@ Minute O
 16.11 O
 
 creusement O
-Fosse O
+Fosse B-CONTEXTE
 
 0,5 O
 0,3 O
@@ -37128,7 +36508,7 @@ circulaire O
 16.11.01 O
 
 comblement O
-Fosse O
+Fosse B-CONTEXTE
 argileux O
 
 brun O
@@ -37140,9 +36520,9 @@ homogène O
 16.12 O
 creusement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 
 0,46 O
 
@@ -37167,9 +36547,9 @@ homogène O
 16 O
 16.13 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,15 O
 
 0,3 O
@@ -37178,9 +36558,9 @@ circulaire O
 16.13.01 O
 
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -37191,9 +36571,9 @@ homogène O
 16.14 O
 creusement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,35 O
 0,3 O
 circulaire O
@@ -37202,9 +36582,9 @@ circulaire O
 16.14.01 O
 
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -37269,9 +36649,9 @@ Minute O
 16.15 O
 creusement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,25 O
 
 0,3 O
@@ -37280,9 +36660,9 @@ circulaire O
 16.15.01 O
 
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -37293,9 +36673,9 @@ homogène O
 16 O
 16.16 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 
 0,3 O
 
@@ -37324,9 +36704,9 @@ homogène O
 16.17 O
 creusement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,4 O
 
 0,3 O
@@ -37344,7 +36724,7 @@ grès O
 à O
 côté O
 du O
-silo O
+silo B-CONTEXTE
 16.01 O
 
 16 O
@@ -37352,9 +36732,9 @@ silo O
 
 comblement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -37366,9 +36746,9 @@ homogène O
 16.18 O
 creusement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 
 0,35 O
 0,08 O
@@ -37381,16 +36761,16 @@ concave O
 A O
 côté O
 du O
-silo O
+silo B-CONTEXTE
 16.01 O
 
 2 O
 16 O
 16.18.01 O
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -37455,7 +36835,7 @@ Minute O
 16.19 O
 
 creusement O
-Fosse O
+Fosse B-CONTEXTE
 
 0,52 O
 0,1 O
@@ -37468,20 +36848,20 @@ concave O
 A O
 côté O
 du O
-fossé O
+fossé B-CONTEXTE
 16.02 O
 , O
 du O
 côté O
 Nord O
-Protohistoire O
+Protohistoire B-CHRONO
 X O
 2 O
 16 O
 16.19.01 O
 
 comblement O
-Fosse O
+Fosse B-CONTEXTE
 argileux O
 
 brun O
@@ -37496,9 +36876,9 @@ X O
 16.20 O
 creusement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 
 0,3 O
 
@@ -37509,9 +36889,9 @@ circulaire O
 
 16.20.01 O
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -37523,9 +36903,9 @@ homogène O
 16.21 O
 
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,36 O
 
 0,3 O
@@ -37535,9 +36915,9 @@ ovalaire O
 16 O
 16.21.01 O
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -37549,9 +36929,9 @@ homogène O
 16.22 O
 creusement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 
 0,4 O
 
@@ -37560,9 +36940,9 @@ circulaire O
 16 O
 16.22.01 O
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -37625,7 +37005,7 @@ Minute O
 16.23 O
 creusement O
 
-Silo O
+Silo B-CONTEXTE
 0,7 O
 0,3 O
 circulaire O
@@ -37636,7 +37016,7 @@ circulaire O
 
 comblement O
 
-Silo O
+Silo B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -37648,7 +37028,7 @@ homogène O
 16.24 O
 creusement O
 
-Mur O
+Mur B-CONTEXTE
 
 ? O
 
@@ -37659,35 +37039,35 @@ linéaire O
 
 Alignement O
 de O
-blocs O
+blocs B-MOB
 qui O
 perce O
 le O
-fossé O
+fossé B-CONTEXTE
 16.02 O
 16 O
 16.24.01 O
 
 comblement O
-Mur O
+Mur B-CONTEXTE
 
 ? O
 
 17 O
 17.01 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,36 O
 0,4 O
 circulaire O
 17 O
 17.01.01 O
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -37699,7 +37079,7 @@ homogène O
 17 O
 17.02 O
 creusement O
-Silo O
+Silo B-CONTEXTE
 0,73 O
 0,4 O
 circulaire O
@@ -37707,7 +37087,7 @@ circulaire O
 17.02.01 O
 
 comblement O
-Silo O
+Silo B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -37770,7 +37150,7 @@ Minute O
 17 O
 17.03 O
 creusement O
-Silo O
+Silo B-CONTEXTE
 0,82 O
 0,4 O
 circulaire O
@@ -37780,7 +37160,7 @@ circulaire O
 17.03.01 O
 comblement O
 
-Silo O
+Silo B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -37791,9 +37171,9 @@ homogène O
 17 O
 17.04 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,34 O
 
 0,4 O
@@ -37805,9 +37185,9 @@ calage O
 
 comblement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -37819,19 +37199,17 @@ homogène O
 17.05 O
 creusement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 
 0,43 O
 
 0,05 O
 0,4 O
 circulaire O
-10 O
-
--13ème B-CHRONO
-siècle I-CHRONO
+10-13ème B-INTERVALLE
+siècle I-INTERVALLE
 
 X O
 17 O
@@ -37853,9 +37231,9 @@ gène O
 
 , O
 quelques O
-chrbons O
-de O
-bois O
+chrbons B-MOB
+de I-MOB
+bois I-MOB
 X O
 X O
 2 O
@@ -37863,9 +37241,9 @@ X O
 17.06 O
 
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,41 O
 0,28 O
 0,4 O
@@ -37874,9 +37252,9 @@ ovalaire O
 17.06.01 O
 
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -37941,7 +37319,7 @@ Minute O
 17.07 O
 creusement O
 
-Silo O
+Silo B-CONTEXTE
 0,9 O
 0,4 O
 circulaire O
@@ -37950,7 +37328,7 @@ circulaire O
 
 comblement O
 
-Silo O
+Silo B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -37962,9 +37340,9 @@ homogène O
 17.08 O
 creusement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 
 0,46 O
 0,4 O
@@ -37975,9 +37353,9 @@ ovalaire O
 
 comblement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -37989,9 +37367,9 @@ homogène O
 17.09 O
 creusement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,32 O
 
 0,4 O
@@ -38001,9 +37379,9 @@ circulaire O
 
 comblement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -38014,7 +37392,7 @@ homogène O
 17 O
 17.10 O
 creusement O
-Fosse O
+Fosse B-CONTEXTE
 0,6 O
 0,46 O
 0,4 O
@@ -38024,7 +37402,7 @@ ovalaire O
 
 comblement O
 
-Fosse O
+Fosse B-CONTEXTE
 
 argileux O
 
@@ -38090,9 +37468,9 @@ Minute O
 
 17.11 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,24 O
 
 0,4 O
@@ -38100,9 +37478,9 @@ circulaire O
 17 O
 17.11.01 O
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -38114,18 +37492,18 @@ homogène O
 
 17.12 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,33 O
 0,4 O
 circulaire O
 17 O
 17.12.01 O
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -38135,7 +37513,7 @@ homogène O
 17.13 O
 creusement O
 
-Fosse O
+Fosse B-CONTEXTE
 
 1,2 O
 0,3 O
@@ -38148,7 +37526,7 @@ berme O
 17.13.01 O
 
 comblement O
-Fosse O
+Fosse B-CONTEXTE
 argileux O
 
 brun O
@@ -38161,7 +37539,7 @@ homogène O
 17.14 O
 creusement O
 
-Fosse O
+Fosse B-CONTEXTE
 
 0,6 O
 0,32 O
@@ -38172,7 +37550,7 @@ subovalaire O
 17.14.01 O
 comblement O
 
-Fosse O
+Fosse B-CONTEXTE
 
 argileux O
 
@@ -38238,7 +37616,7 @@ Minute O
 17.15 O
 
 creusement O
-Fosse O
+Fosse B-CONTEXTE
 0,9 O
 0,5 O
 0,4 O
@@ -38248,7 +37626,7 @@ ovalaire O
 17.15.01 O
 
 comblement O
-Fosse O
+Fosse B-CONTEXTE
 argileux O
 
 brun O
@@ -38261,12 +37639,12 @@ homogène O
 17.16 O
 
 creusement O
-Fosse O
+Fosse B-CONTEXTE
 0,5 O
 0,4 O
 
 circulaire O
-TC O
+TC B-CONTEXTE
 et O
 CB O
 17 O
@@ -38274,7 +37652,7 @@ CB O
 
 comblement O
 
-Fosse O
+Fosse B-CONTEXTE
 argileux O
 
 brun O
@@ -38287,7 +37665,7 @@ homogène O
 17.17 O
 
 creusement O
-Fossé O
+Fossé B-CONTEXTE
 0,9 O
 0,8 O
 0,4 O
@@ -38302,7 +37680,7 @@ plat O
 17.17.01 O
 
 comblement O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 
 brun O
@@ -38324,7 +37702,7 @@ millimétriques O
 
 comblement O
 
-Fossé O
+Fossé B-CONTEXTE
 
 argileux O
 
@@ -38339,15 +37717,13 @@ homogène O
 
 creusement O
 
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 0,6 O
 0,4 O
 linéaire O
-blocs O
+blocs B-MOB
 
 Dimensions O
 
@@ -38404,10 +37780,8 @@ Minute O
 17 O
 17.18.01 O
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -38418,7 +37792,7 @@ homogène O
 17 O
 17.19 O
 creusement O
-Fosse O
+Fosse B-CONTEXTE
 1,1 O
 0,8 O
 0,4 O
@@ -38428,7 +37802,7 @@ quadrangulaire O
 
 comblement O
 
-Fosse O
+Fosse B-CONTEXTE
 argileux O
 
 brun O
@@ -38440,18 +37814,18 @@ homogène O
 17.20 O
 creusement O
 
-Fossé O
+Fossé B-CONTEXTE
 
 0,45 O
 0,4 O
 linéaire O
-Drain O
+Drain B-CONTEXTE
 ? O
 
 17 O
 17.20.01 O
 comblement O
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -38462,7 +37836,7 @@ homogène O
 17 O
 17.21 O
 creusement O
-Fossé O
+Fossé B-CONTEXTE
 
 15 O
 
@@ -38486,7 +37860,7 @@ avec O
 
 comblement O
 
-Fossé O
+Fossé B-CONTEXTE
 argileux O
 
 brun O
@@ -38501,9 +37875,9 @@ homogène O
 
 creusement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,28 O
 
 0,12 O
@@ -38574,9 +37948,9 @@ Minute O
 17 O
 17.22.01 O
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -38587,9 +37961,9 @@ homogène O
 17 O
 17.23 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,23 O
 0,1 O
 0,4 O
@@ -38603,9 +37977,9 @@ X O
 17 O
 17.23.01 O
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -38618,9 +37992,9 @@ homogène O
 
 creusement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,33 O
 
 0,4 O
@@ -38630,9 +38004,9 @@ circulaire O
 
 comblement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -38643,9 +38017,9 @@ homogène O
 17 O
 17.25 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,4 O
 0,37 O
 0,4 O
@@ -38655,9 +38029,9 @@ ovalaire O
 17.25.01 O
 
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -38668,10 +38042,8 @@ homogène O
 17 O
 17.26 O
 creusement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 0,6 O
 
@@ -38734,10 +38106,8 @@ Minute O
 17.26.01 O
 
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -38748,7 +38118,7 @@ homogène O
 18 O
 18.01 O
 creusement O
-Fosse O
+Fosse B-CONTEXTE
 0,9 O
 0,4 O
 circulaire O
@@ -38757,7 +38127,7 @@ circulaire O
 
 comblement O
 
-Fosse O
+Fosse B-CONTEXTE
 argileux O
 
 brun O
@@ -38770,7 +38140,7 @@ homogène O
 
 creusement O
 
-Fosse O
+Fosse B-CONTEXTE
 0,9 O
 
 0,4 O
@@ -38780,7 +38150,7 @@ circulaire O
 
 comblement O
 
-Fosse O
+Fosse B-CONTEXTE
 argileux O
 
 brun O
@@ -38793,9 +38163,9 @@ homogène O
 
 18.03 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,3 O
 0,2 O
 ovalaire O
@@ -38819,7 +38189,7 @@ homogène O
 creusement O
 
 Ancien O
-chemin O
+chemin B-CONTEXTE
 2,7 O
 0,5 O
 linéaire O
@@ -38880,7 +38250,7 @@ Minute O
 18.04.01 O
 comblement O
 Ancien O
-chemin O
+chemin B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -38891,9 +38261,9 @@ homogène O
 18 O
 18.05 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,4 O
 0,2 O
 0,4 O
@@ -38904,10 +38274,8 @@ obliques O
 
 concave O
 calage O
-11 O
-
--13ème B-CHRONO
-siècle I-CHRONO
+11-13ème B-INTERVALLE
+siècle I-INTERVALLE
 
 X O
 2 O
@@ -38915,9 +38283,9 @@ X O
 18.05.01 O
 
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 brun O
 foncé O
@@ -38942,9 +38310,9 @@ X O
 18.06 O
 creusement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,4 O
 
 0,08 O
@@ -38961,9 +38329,9 @@ X O
 18 O
 18.06.01 O
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -38988,9 +38356,9 @@ rosés O
 18 O
 18.07 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,45 O
 
 0,4 O
@@ -39001,14 +38369,14 @@ est O
 recoupé O
 par O
 le O
-fossé O
+fossé B-CONTEXTE
 18.08 O
 18 O
 18.07.01 O
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -39072,28 +38440,24 @@ Minute O
 18.08 O
 
 creusement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 
 0,85 O
 0,4 O
 linéaire O
 Napo O
-18 B-CHRONO
-- O
-19ème B-CHRONO
-siècle I-CHRONO
+18 B-INTERVALLE
+- I-INTERVALLE
+19ème I-INTERVALLE
+siècle I-INTERVALLE
 X O
 18 O
 18.08.01 O
 
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -39106,7 +38470,7 @@ X O
 18.09 O
 creusement O
 Ancien O
-chemin O
+chemin B-CONTEXTE
 2,3 O
 0,35 O
 linéaire O
@@ -39118,7 +38482,7 @@ de O
 18.09.01 O
 comblement O
 Ancien O
-chemin O
+chemin B-CONTEXTE
 argileux O
 brun O
 gris O
@@ -39128,11 +38492,9 @@ homogène O
 18.10 O
 creusement O
 
-Fossé O
+Fossé B-CONTEXTE
 
-parcel O
-
--laire O
+parcel-laire B-CONTEXTE
 
 0,7 O
 0,4 O
@@ -39142,10 +38504,8 @@ linéaire O
 18 O
 18.10.01 O
 comblement O
-Fossé O
-parcel O
-
--laire O
+Fossé B-CONTEXTE
+parcel-laire I-CONTEXTE
 argileux O
 
 brun O
@@ -39156,7 +38516,7 @@ homogène O
 18 O
 18.11 O
 creusement O
-Fosse O
+Fosse B-CONTEXTE
 
 1,3 O
 0,9 O
@@ -39166,7 +38526,7 @@ blocs O
 18 O
 18.11.01 O
 comblement O
-Fosse O
+Fosse B-CONTEXTE
 argileux O
 
 brun O
@@ -39232,9 +38592,9 @@ Minute O
 
 creusement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,4 O
 
 0,4 O
@@ -39242,9 +38602,9 @@ circulaire O
 18 O
 18.12.01 O
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -39254,9 +38614,9 @@ homogène O
 18 O
 18.13 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,45 O
 
 0,4 O
@@ -39264,9 +38624,9 @@ circulaire O
 18 O
 18.13.01 O
 comblement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 brun O
 gris O
@@ -39276,9 +38636,9 @@ homogène O
 18 O
 18.14 O
 creusement O
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 0,22 O
 
 0,4 O
@@ -39288,9 +38648,9 @@ circulaire O
 
 comblement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 argileux O
 
 brun O
@@ -39302,9 +38662,9 @@ homogène O
 
 creusement O
 
-Trou O
-de O
-poteau O
+Trou B-CONTEXTE
+de I-CONTEXTE
+poteau I-CONTEXTE
 
 0,36 O
 0,4 O
@@ -39325,11 +38685,7 @@ meuble O
 homogène O
 
 n O
-e O
-
-- O
-
-S O
+e-S O
 iv O
 e O
 e O
