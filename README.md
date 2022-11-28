@@ -12,7 +12,7 @@ Six types of entities were annotated and linked to the [Pactols](https://pactols
 |----------|-----------------|---------------------------|
 |     CHRONO     |      Used for temporal references ("Antiquity", "XIIth century", "200 BC", etc.).          |              1082             |
 |     CONTEXTE     |        Used for archaeological features ("pit", "ditch", "wall", "hearth", etc.).         |              2399             |
-|    INTERVALLE      |        Used for time spans ("from the Neolithic to the late Antiquity", "VIIth-IXth centuries", "between 50 and 70 AD", etc.).         |            225               |
+|    INTERVALLE      |        Used for time spans ("from the Neolithic to the late Antiquity", "VIIth-IXth centuries", "between 50 and 70 AD", etc.). This entity type was not linked to Pactols.         |            225               |
 |     MAT     |          Used for materials ("bronze", "dolerite", "ceramic", etc.).       |             123              |
 |     MOB     |       Used for physical finds ("bones", "pottery shards", "roof tile", etc.).          |           1170                |
 |    TECH_STYLE      |         Used for mentions of techniques and styles of fabrication or construction ("carved", "glazed", "polished", etc.).        |              79             |
@@ -45,7 +45,7 @@ Six types d'entités ont été annotées et reliées à la base de connaissances
 |----------|-----------------|---------------------------|
 |     CHRONO     |      Utilisé pour les références chronologiques ("Antiquité", "XIIe siècle", "200 av. J.-C.", etc.).          |              1082             |
 |     CONTEXTE     |        Utilisé pour les faits archéologiques ("fosse", "fossé", "mur", "foyer", etc.).         |              2399             |
-|    INTERVALLE      |        Utilisé pour les intervalles chronologiques ("du Néolithique à la fin de l'Antiquité", "VIIe-IXe siècles", "entre 50 et 70 de notre ère", etc.).         |            225               |
+|    INTERVALLE      |        Utilisé pour les intervalles chronologiques ("du Néolithique à la fin de l'Antiquité", "VIIe-IXe siècles", "entre 50 et 70 de notre ère", etc.). Ce type d'entité ne fut pas relié à Pactols.         |            225               |
 |     MAT     |          Utilisé pour les matériaux ("bronze", "dolérite", "céramique", etc.).       |             123              |
 |     MOB     |       Utilisé pour le mobilier ("os", "tessons de céramique", "tuile", etc.).          |           1170                |
 |    TECH_STYLE      |         Utilisé pour les mentions de techniques et styles de fabrication ou construction ("taillé", "glaçuré", "poli", etc.).        |              79             |
