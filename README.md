@@ -68,5 +68,5 @@ Le **guide d'annotation** (écrit en français) peut également être trouvé à
 
 <br>
 
-[^1]: ARIADNEplus is funded by the European Commission Horizon2020 programme under under Grant Agreement n. 823914.
-[^2]: ARIADNEplus est financé par le programme Horizon2020 de la Commission européenne dans le cadre de la convention de subvention n° 823914.
+[^1]: ARIADNEplus is a Horizon 2020 project funded by the European Commission under Grant Agreement n. 823914. The views and opinions expressed in this publication are the sole responsibility of the author and do not necessarily reflect the views of the European Commission.
+[^2]: ARIADNEplus est un projet Horizon 2020 financé par la Commission européenne dans le cadre de la convention de subvention n° 823914. Les points de vue et opinions exprimés dans cette publication relèvent de la seule responsabilité de l'auteur et ne reflètent pas nécessairement ceux de la Commission européenne.
