@@ -23,7 +23,9 @@ Relations were also created between entities in an experimental way: hasForChron
 
 <br>
 
-The data is available in two formats: CoNLL 2002 and WebAnnoTSV v.3.3.
+The data is available in two formats: **CoNLL 2002** and **WebAnnoTSV v.3.3**. 
+
+The **annotation guidelines** (written in French) can also be found at the root of the repository.
  
 <br>
 
@@ -56,7 +58,9 @@ Des relations furent également créées de manière expérimentale entre les en
 
 <br>
 
-Les données sont disponibles sous deux formats : CoNLL 2002 et WebAnnoTSV v.3.3.
+Les données sont disponibles sous deux formats : **CoNLL 2002** et **WebAnnoTSV v.3.3**. 
+
+Le **guide d'annotation** (écrit en français) peut également être trouvé à la racine du dépôt.
 
 <br>
 
